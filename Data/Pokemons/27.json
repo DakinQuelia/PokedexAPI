@@ -1,0 +1,23 @@
+{
+  "id": 27,
+  "num": 27,
+  "name": "Sabelette",
+  "title": "Pokémon Souris",
+  "desc": "Le corps de Sabelette lui permet d’économiser l’eau qu’il absorbe, afin de survivre longtemps dans le désert. Ce Pokémon s’enroule sur lui-même pour se protéger de ses ennemis.",
+  "type": ["Sol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+  "height": 6,
+  "weight": 120,
+  "stats": {
+    "hp":               { "name": "PV", "value": 50 },
+    "attack":           { "name": "Attaque", "value": 75 },
+    "defense":          { "name": "Défense", "value": 85 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 20 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 30 },
+    "speed":            { "name": "Vitesse", "value": 40 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Sabelette", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png" },
+    { "index": 1, "name": "Sablaireau", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png" }
+  ]
+}

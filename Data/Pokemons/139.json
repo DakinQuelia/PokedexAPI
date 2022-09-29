@@ -1,0 +1,23 @@
+{
+  "id": 139,
+  "num": 139,
+  "name": "Amonistar",
+  "title": "Pokémon Spirale",
+  "desc": "Amonistar utilise ses tentacules pour capturer ses proies. On pense que l’espèce s’est éteinte parce que sa coquille était devenue trop grande et trop lourde, ce qui rendait ses mouvements lents et pesants.",
+  "type": ["Roche", "Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+  "height": 10,
+  "weight": 350,
+  "stats": {
+    "hp":               { "name": "PV", "value": 70 },
+    "attack":           { "name": "Attaque", "value": 60 },
+    "defense":          { "name": "Défense", "value": 125 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 115 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 70 },
+    "speed":            { "name": "Vitesse", "value": 55 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Amonita", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png" },
+    { "index": 1, "name": "Amonistar", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png" }
+  ]
+}

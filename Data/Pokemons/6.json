@@ -1,0 +1,24 @@
+{
+  "id": 6,
+  "num": 6,
+  "name": "Dracaufeu",
+  "title": "Pokémon Flamme",
+  "desc": "Dracaufeu parcourt les cieux pour trouver des adversaires à sa mesure. Il crache de puissantes flammes capables de faire fondre n’importe quoi. Mais il ne dirige jamais son souffle destructeur vers un ennemi plus faible.",
+  "type": ["Feu", "Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+  "height": 17,
+  "weight": 905,
+  "stats": {
+    "hp":               { "name": "PV", "value": 78 },
+    "attack":           { "name": "Attaque", "value": 84 },
+    "defense":          { "name": "Défense", "value": 78 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 109 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 85 },
+    "speed":            { "name": "Vitesse", "value": 100 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Salamèche", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" },
+    { "index": 1, "name": "Reptincel", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png" },
+    { "index": 2, "name": "Dracaufeu", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" }
+  ]
+}

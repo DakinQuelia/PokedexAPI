@@ -1,0 +1,20 @@
+{
+  "id": 151,
+  "num": 151,
+  "name": "Mew",
+  "title": "Pokémon Nouveau",
+  "desc": "On dit que Mew possède le code génétique de tous les autres Pokémon. Il peut se rendre invisible à sa guise, ce qui lui permet de ne pas se faire remarquer quand il s’approche des gens.",
+  "type": ["Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+  "height": 4,
+  "weight": 40,
+  "stats": {
+    "hp":               { "name": "PV", "value": 100 },
+    "attack":           { "name": "Attaque", "value": 100 },
+    "defense":          { "name": "Défense", "value": 100 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 100 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 100 },
+    "speed":            { "name": "Vitesse", "value": 100 }
+  },
+  "evolves": []
+}

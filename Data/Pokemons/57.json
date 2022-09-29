@@ -1,0 +1,23 @@
+{
+  "id": 57,
+  "num": 57,
+  "name": "Colossinge",
+  "title": "Pokémon Porsinge",
+  "desc": "Lorsque Colossinge devient furieux, sa circulation sanguine s’accélère. Du coup, ses muscles sont encore plus puissants. En revanche, il devient bien moins intelligent.",
+  "type": ["Combat"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+  "height": 10,
+  "weight": 320,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 105 },
+    "defense":          { "name": "Défense", "value": 60 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 60 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 70 },
+    "speed":            { "name": "Vitesse", "value": 95 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Férosinge", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png" },
+    { "index": 1, "name": "Colossinge", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png" }
+  ]
+}

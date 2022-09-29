@@ -1,0 +1,24 @@
+{
+  "id": 63,
+  "num": 63,
+  "name": "Abra",
+  "title": "Pokémon Psy",
+  "desc": "Abra dort dix-huit heures par jour. Pourtant, il peut sentir la présence de ses ennemis, même endormi. Dans ce genre de situation, ce Pokémon se téléporte en lieu sûr.",
+  "type": ["Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+  "height": 9,
+  "weight": 195,
+  "stats": {
+    "hp":               { "name": "PV", "value": 25 },
+    "attack":           { "name": "Attaque", "value": 20 },
+    "defense":          { "name": "Défense", "value": 15 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 105 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 55 },
+    "speed":            { "name": "Vitesse", "value": 90 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Abra", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png" },
+    { "index": 1, "name": "Kadabra", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" },
+    { "index": 2, "name": "Alakazam", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png" }
+  ]
+}

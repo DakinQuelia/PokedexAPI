@@ -1,0 +1,23 @@
+{
+  "id": 123,
+  "num": 123,
+  "name": "Insécateur",
+  "title": "Pokémon Mante",
+  "desc": "Insécateur est incroyablement rapide. Sa vitesse fulgurante améliore l'efficacité des deux lames situées sur ses avant-bras. Elles sont si coupantes qu'elles peuvent trancher un énorme tronc d'arbre en un coup.",
+  "type": [ "Insecte", "Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+  "height": 15,
+  "weight": 560,
+  "stats": {
+    "hp":               { "name": "PV", "value": 70 },
+    "attack":           { "name": "Attaque", "value": 110 },
+    "defense":          { "name": "Défense", "value": 80 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 55 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 105 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Insécateur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png" },
+    { "index": 1, "name": "Cizayox", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 142,
+  "num": 142,
+  "name": "Ptéra",
+  "title": "Pokémon Fossile",
+  "desc": "Ptéra est un Pokémon de l’ère des dinosaures. Il fut ressuscité à partir de cellules extraites d’un morceau d’ambre. On pense qu’il était le roi des cieux à l’époque préhistorique.",
+  "type": ["Roche", "Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+  "height": 18,
+  "weight": 590,
+  "stats": {
+    "hp":               { "name": "PV", "value": 80 },
+    "attack":           { "name": "Attaque", "value": 105 },
+    "defense":          { "name": "Défense", "value": 65 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 60 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 75 },
+    "speed":            { "name": "Vitesse", "value": 130 }
+  },
+  "evolves": []
+}

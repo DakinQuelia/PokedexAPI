@@ -1,0 +1,24 @@
+{
+  "id": 34,
+  "num": 34,
+  "name": "Nidoking",
+  "title": "Pokémon Perceur",
+  "desc": "L’épaisse queue de Nidoking est d’une puissance incroyable. En un seul coup, il peut renverser une tour métallique. Lorsque ce Pokémon se déchaîne, plus rien ne peut l’arrêter.",
+  "type": ["Poison", "Sol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+  "height": 14,
+  "weight": 620,
+  "stats": {
+    "hp":               { "name": "PV", "value": 81 },
+    "attack":           { "name": "Attaque", "value": 102 },
+    "defense":          { "name": "Défense", "value": 77 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 85 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 75 },
+    "speed":            { "name": "Vitesse", "value": 85 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Nidoran♂", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png" },
+    { "index": 1, "name": "Nidorino", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png" },
+    { "index": 2, "name": "Nidoking", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 91,
+  "num": 91,
+  "name": "Crustabri",
+  "title": "Pokémon Bivalve",
+  "desc": "Crustabri est capable de se déplacer dans les fonds marins en avalant de l’eau et en la rejetant vers l’arrière. Ce Pokémon envoie des pointes en utilisant la même méthode.",
+  "type": ["Eau", "Glace"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+  "height": 15,
+  "weight": 1325,
+  "stats": {
+    "hp":               { "name": "PV", "value": 50 },
+    "attack":           { "name": "Attaque", "value": 95 },
+    "defense":          { "name": "Défense", "value": 180 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 85 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 45 },
+    "speed":            { "name": "Vitesse", "value": 70 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Kokiyas", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png" },
+    { "index": 1, "name": "Crustabri", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 126,
+  "num": 126,
+  "name": "Magmar",
+  "title": "Pokémon Crache-Feu",
+  "desc": "Lorsqu’il se bat, Magmar fait jaillir des flammes de son corps pour intimider son adversaire. Les explosions enflammées de ce Pokémon déclenchent des vagues de chaleur qui embrasent la végétation environnante.",
+  "type": ["Feu"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+  "height": 13,
+  "weight": 445,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 95 },
+    "defense":          { "name": "Défense", "value": 57 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 100 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 85 },
+    "speed":            { "name": "Vitesse", "value": 93 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Magby ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png" },
+    { "index": 1, "name": "Magmar", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png" }
+  ]
+}

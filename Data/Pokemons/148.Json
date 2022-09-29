@@ -1,0 +1,24 @@
+{
+  "id": 148,
+  "num": 148,
+  "name": "Draco",
+  "title": "Pokémon Dragon",
+  "desc": "Draco stocke une quantité d'énergie considérable dans son corps. On raconte qu'il peut modifier les conditions climatiques autour de lui en déchargeant l'énergie contenue dans les cristaux de son cou et de sa queue.",
+  "type": ["Dragon"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+  "height": 40,
+  "weight": 165,
+  "stats": {
+    "hp":               { "name": "PV", "value": 61 },
+    "attack":           { "name": "Attaque", "value": 84 },
+    "defense":          { "name": "Défense", "value": 65 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 70 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 70 },
+    "speed":            { "name": "Vitesse", "value": 70 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Minidraco", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png" },
+    { "index": 1, "name": "Draco", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png" },
+    { "index": 2, "name": "Dracolosse", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" }
+  ]
+}

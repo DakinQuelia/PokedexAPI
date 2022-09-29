@@ -1,0 +1,23 @@
+{
+  "id": 59,
+  "num": 59,
+  "name": "Arcanin",
+  "title": "Pokémon Légendaire",
+  "desc": "Arcanin est célèbre pour son extraordinaire vitesse. On le dit capable de parcourir plus de 10 000 km en 24h. Le feu qui fait rage à l’intérieur du corps de ce Pokémon est la source de son pouvoir.",
+  "type": ["Feu"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+  "height": 19,
+  "weight": 1550,
+  "stats": {
+    "hp":               { "name": "PV", "value": 90 },
+    "attack":           { "name": "Attaque", "value": 110 },
+    "defense":          { "name": "Défense", "value": 80 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 100 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 95 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Caninos", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png" },
+    { "index": 1, "name": "Arcanin", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png" }
+  ]
+}

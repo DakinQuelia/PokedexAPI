@@ -1,0 +1,20 @@
+{
+  "id": 0,
+  "num": 0,
+  "name": "Pokémon",
+  "title": "Titre Pokémon",
+  "desc": "Une description du Pokémon",
+  "type": ["Type"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/0.png",
+  "height": 10,
+  "weight": 130,
+  "stats": {
+    "hp":               { "name": "PV", "value": 10 },
+    "attack":           { "name": "Attaque", "value": 10 },
+    "defense":          { "name": "Défense", "value": 10 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 10 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 10 },
+    "speed":            { "name": "Vitesse", "value": 10 }
+  },
+  "evolves": []
+}

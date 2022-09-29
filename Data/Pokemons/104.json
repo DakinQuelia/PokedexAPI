@@ -1,0 +1,23 @@
+{
+  "id": 104,
+  "num": 104,
+  "name": "Osselait",
+  "title": "Pokémon Solitaire",
+  "desc": "La maman d’Osselait lui manque terriblement et il ne la reverra jamais. La lune le fait pleurer, car elle lui rappelle sa mère. Les tâches sur le crâne que porte ce Pokémon sont les marques de ses larmes.",
+  "type": ["Sol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+  "height": 4,
+  "weight": 65,
+  "stats": {
+    "hp":               { "name": "PV", "value": 50 },
+    "attack":           { "name": "Attaque", "value": 50 },
+    "defense":          { "name": "Défense", "value": 95 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 40 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 50 },
+    "speed":            { "name": "Vitesse", "value": 35 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Osselait", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png" },
+    { "index": 1, "name": "Ossatueur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png" }
+  ]
+}

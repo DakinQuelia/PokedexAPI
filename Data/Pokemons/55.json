@@ -1,0 +1,23 @@
+{
+  "id": 55,
+  "num": 55,
+  "name": "Akwakwak",
+  "title": "Pokémon Canard",
+  "desc": "Les pattes avant et arrière palmées et le corps aérodynamique d'Akwakwak lui donnent une vitesse effrayante. Ce Pokémon est bien plus rapide que les plus grands champions de natation.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+  "height": 17,
+  "weight": 766,
+  "stats": {
+    "hp":               { "name": "PV", "value": 80 },
+    "attack":           { "name": "Attaque", "value": 82 },
+    "defense":          { "name": "Défense", "value": 78 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 95 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 85 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Psykokwak", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" },
+    { "index": 1, "name": "Akwakwak", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png" }
+  ]
+}

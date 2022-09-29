@@ -1,0 +1,23 @@
+{
+  "id": 52,
+  "num": 52,
+  "name": "Miaouss",
+  "title": "Pokémon Chadégout",
+  "desc": "Miaouss peut rentrer ses griffes dans ses pattes pour rôder gracieusement sans laisser de traces. Étrangement, ce Pokémon raffole des pièces d'or qui brillent à la lumière.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+  "height": 4,
+  "weight": 42,
+  "stats": {
+    "hp":               { "name": "PV", "value": 40 },
+    "attack":           { "name": "Attaque", "value": 45 },
+    "defense":          { "name": "Défense", "value": 35 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 40 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 40 },
+    "speed":            { "name": "Vitesse", "value": 90 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Miaouss", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" },
+    { "index": 1, "name": "Persian", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png" }
+  ]
+}

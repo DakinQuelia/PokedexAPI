@@ -1,0 +1,23 @@
+{
+  "id": 54,
+  "num": 54,
+  "name": "Psykokwak",
+  "title": "Pokémon Canard",
+  "desc": "Psykokwak utilise un mystérieux pouvoir. Ce Pokémon peut générer des ondes cérébrales normalement observées chez les dormeurs. Cette découverte a lancé une polémique dans le milieu universitaire.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+  "height": 8,
+  "weight": 196,
+  "stats": {
+    "hp":               { "name": "PV", "value": 50 },
+    "attack":           { "name": "Attaque", "value": 52 },
+    "defense":          { "name": "Défense", "value": 48 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 65 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 50 },
+    "speed":            { "name": "Vitesse", "value": 55 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Psykokwak", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" },
+    { "index": 1, "name": "Akwakwak", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png" }
+  ]
+}

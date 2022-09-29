@@ -1,0 +1,24 @@
+{
+  "id": 61,
+  "num": 61,
+  "name": "Têtarte",
+  "title": "Pokémon Têtard",
+  "desc": "La peau de Têtarte est toujours maintenue humide par un liquide huileux. Grâce à cette protection graisseuse, il peut facilement se glisser hors de l’étreinte de n’importe quel ennemi.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+  "height": 10,
+  "weight": 200,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 65 },
+    "defense":          { "name": "Défense", "value": 65 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 50 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 50 },
+    "speed":            { "name": "Vitesse", "value": 90 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Ptitard", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png" },
+    { "index": 1, "name": "Têtarte", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png" },
+    { "index": 2, "name": "Tartard", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png" }
+  ]
+}

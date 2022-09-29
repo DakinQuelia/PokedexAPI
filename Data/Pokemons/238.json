@@ -1,0 +1,23 @@
+{
+  "id": 238,
+  "num": 238,
+  "name": "Lippouti",
+  "title": "Pokémon Bisou",
+  "desc": "Lippouti court dans tous les sens et tombe assez souvent. Quand il en a l'occasion, il regarde son reflet dans l'eau pour vérifier si son visage n'a pas été sali par ses chutes.",
+  "type": ["Glace", "Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
+  "height": 4,
+  "weight": 60,
+  "stats": {
+    "hp":               { "name": "PV", "value": 45 },
+    "attack":           { "name": "Attaque", "value": 30 },
+    "defense":          { "name": "Défense", "value": 15 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 85 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 65 },
+    "speed":            { "name": "Vitesse", "value": 65 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Lippouti", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png" },
+    { "index": 1, "name": "Lippoutou", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png" }
+  ]
+}

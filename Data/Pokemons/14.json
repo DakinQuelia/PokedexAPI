@@ -1,0 +1,24 @@
+{
+  "id": 14,
+  "num": 14,
+  "name": "Coconfort",
+  "title": "Pokémon Cocon",
+  "desc": "Coconfort est la plupart du temps immobile et reste accroché à un arbre. Cependant, intérieurement, il est très actif, car il se prépare pour sa prochaine évolution.En touchant sa carapace, on peut sentir sa chaleur.",
+  "type": ["Insecte", "Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+  "height": 6,
+  "weight": 100,
+  "stats": {
+    "hp":               { "name": "PV", "value": 45 },
+    "attack":           { "name": "Attaque", "value": 25 },
+    "defense":          { "name": "Défense", "value": 50 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 25 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 25 },
+    "speed":            { "name": "Vitesse", "value": 35 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Aspicot", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png" },
+    { "index": 1, "name": "Coconfort", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png" },
+    { "index": 2, "name": "Dardargnan", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png" }
+  ]
+}

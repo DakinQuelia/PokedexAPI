@@ -1,0 +1,24 @@
+{
+  "id": 74,
+  "num": 74,
+  "name": "Racaillou",
+  "title": "Pokémon Roche",
+  "desc": "Lorsqu’un Racaillou prend de l’âge, ses bords s’ébrèchent et s’usent, ce qui lui donne une apparence plus ronde. Cependant, le cœur de ce Pokémon reste dur, rocailleux et rugueux.",
+  "type": ["Roche", "Sol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+  "height": 4,
+  "weight": 200,
+  "stats": {
+    "hp":               { "name": "PV", "value": 40 },
+    "attack":           { "name": "Attaque", "value": 80 },
+    "defense":          { "name": "Défense", "value": 100 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 30 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 30 },
+    "speed":            { "name": "Vitesse", "value": 20 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Racaillou", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png" },
+    { "index": 1, "name": "Gravalanch", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png" },
+    { "index": 2, "name": "Grolem", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png" }
+  ]
+}

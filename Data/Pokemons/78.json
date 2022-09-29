@@ -1,0 +1,23 @@
+{
+  "id": 78,
+  "num": 78,
+  "name": "Galopa",
+  "title": "Pokémon Cheval Feu",
+  "desc": "On voit souvent Galopa trotter dans les champs et les plaines. Cependant, lorsque ce Pokémon s’en donne la peine, il peut galoper à plus de 240 km/h et sa crinière flamboyante s’embrase.",
+  "type": ["Feu"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+  "height": 17,
+  "weight": 950,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 100 },
+    "defense":          { "name": "Défense", "value": 70 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 80 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 105 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Ponyta", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png" },
+    { "index": 1, "name": "Galopa", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png" }
+  ]
+}

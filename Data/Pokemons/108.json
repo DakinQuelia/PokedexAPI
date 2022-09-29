@@ -1,0 +1,20 @@
+{
+  "id": 108,
+  "num": 108,
+  "name": "Excelangue",
+  "title": "Pokémon Lécheur",
+  "desc": "Chaque fois qu’Excelangue découvre quelque chose de nouveau, il le lèche. Sa mémoire est basée sur le goût et la texture des objets. Il n’aime pas les choses acides.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+  "height": 12,
+  "weight": 655,
+  "stats": {
+    "hp":               { "name": "PV", "value": 90 },
+    "attack":           { "name": "Attaque", "value": 55 },
+    "defense":          { "name": "Défense", "value": 75 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 60 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 75 },
+    "speed":            { "name": "Vitesse", "value": 30 }
+  },
+  "evolves": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": 134,
+  "num": 134,
+  "name": "Aquali",
+  "title": "Pokémon Bulleur",
+  "desc": "Aquali a subi une mutation spontanée. Des nageoires et des branchies sont apparues sur son corps, ce qui lui permet de vivre dans les fonds marins. Ce Pokémon peut contrôler l’eau à volonté.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+  "height": 10,
+  "weight": 290,
+  "stats": {
+    "hp":               { "name": "PV", "value": 130 },
+    "attack":           { "name": "Attaque", "value": 65 },
+    "defense":          { "name": "Défense", "value": 60 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 110 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 95 },
+    "speed":            { "name": "Vitesse", "value": 65 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Évoli ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" },
+    { "index": 1, "name": "Aquali", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png" }
+  ]
+}

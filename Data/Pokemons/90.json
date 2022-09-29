@@ -1,0 +1,23 @@
+{
+  "id": 90,
+  "num": 90,
+  "name": "Kokiyas",
+  "title": "Pokémon Bivalve",
+  "desc": "La nuit, ce Pokémon utilise sa grande langue pour creuser un trou dans le sable des fonds marins afin d’y dormir. Une fois endormi, Kokiyas referme sa coquille, mais laisse sa langue dépasser.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+  "height": 3,
+  "weight": 40,
+  "stats": {
+    "hp":               { "name": "PV", "value": 30 },
+    "attack":           { "name": "Attaque", "value": 65 },
+    "defense":          { "name": "Défense", "value": 100 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 45 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 25 },
+    "speed":            { "name": "Vitesse", "value": 40 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Kokiyas", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png" },
+    { "index": 1, "name": "Crustabri", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png" }
+  ]
+}

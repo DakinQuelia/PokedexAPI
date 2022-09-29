@@ -1,0 +1,20 @@
+{
+  "id": 127,
+  "num": 127,
+  "name": "Scarabrute",
+  "title": "Pokémon Scarabée",
+  "desc": "Scarabrute est incroyablement fort. Il peut attraper un ennemi qui pèse deux fois son poids dans ses mandibules et le soulever sans le moindre problème. Lorsqu’il fait froid, les mouvements de ce Pokémon sont un peu ralentis.",
+  "type": ["Insecte"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+  "height": 15,
+  "weight": 550,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 125 },
+    "defense":          { "name": "Défense", "value": 100 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 55 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 70 },
+    "speed":            { "name": "Vitesse", "value": 85 }
+  },
+  "evolves": []
+}

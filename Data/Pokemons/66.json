@@ -1,0 +1,24 @@
+{
+  "id": 66,
+  "num": 66,
+  "name": "Machoc",
+  "title": "Pokémon Colosse",
+  "desc": "Les muscles de Machoc sont spéciaux. Quels que soient les efforts qu’il produit, il n’a jamais de courbature. Ce Pokémon est assez puissant pour lancer une centaine d’hommes adultes.",
+  "type": ["Combat"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+  "height": 8,
+  "weight": 195,
+  "stats": {
+    "hp":               { "name": "PV", "value": 70 },
+    "attack":           { "name": "Attaque", "value": 80 },
+    "defense":          { "name": "Défense", "value": 50 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 35 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 35 },
+    "speed":            { "name": "Vitesse", "value": 35 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Machoc", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png" },
+    { "index": 1, "name": "Machopeur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png" },
+    { "index": 2, "name": "Mackogneur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png" }
+  ]
+}

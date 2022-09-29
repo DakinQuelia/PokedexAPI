@@ -1,0 +1,5432 @@
+{
+  "1": {
+    "id": 1,
+    "num": 1,
+    "name": "Bulbizarre",
+    "url": "1.json"
+  },
+  "2": {
+    "id": 2,
+    "num": 2,
+    "name": "Herbizarre",
+    "url": "2.json"
+  },
+  "3": {
+    "id": 3,
+    "num": 3,
+    "name": "Florizarre",
+    "url": "3.json"
+  },
+  "4": {
+    "id": 4,
+    "num": 4,
+    "name": "Salamèche",
+    "url": "4.json"
+  },
+  "5": {
+    "id": 5,
+    "num": 5,
+    "name": "Reptincel",
+    "url": "5.json"
+  },
+  "6": {
+    "id": 6,
+    "num": 6,
+    "name": "Dracaufeu",
+    "url": "6.json"
+  },
+  "7": {
+    "id": 7,
+    "num": 7,
+    "name": "Carapuce",
+    "url": "7.json"
+  },
+  "8": {
+    "id": 8,
+    "num": 8,
+    "name": "Carabaffe",
+    "url": "8.json"
+  },
+  "9": {
+    "id": 9,
+    "num": 9,
+    "name": "Tortank",
+    "url": "9.json"
+  },
+  "10": {
+    "id": 10,
+    "num": 10,
+    "name": "Chenipan",
+    "url": "10.json"
+  },
+  "11": {
+    "id": 11,
+    "num": 11,
+    "name": "Chrysacier",
+    "url": "11.json"
+  },
+  "12": {
+    "id": 12,
+    "num": 12,
+    "name": "Papilusion",
+    "url": "12.json"
+  },
+  "13": {
+    "id": 13,
+    "num": 13,
+    "name": "Aspicot",
+    "url": "13.json"
+  },
+  "14": {
+    "id": 14,
+    "num": 14,
+    "name": "Coconfort",
+    "url": "14.json"
+  },
+  "15": {
+    "id": 15,
+    "num": 15,
+    "name": "Dardargnan",
+    "url": "15.json"
+  },
+  "16": {
+    "id": 16,
+    "num": 16,
+    "name": "Roucool",
+    "url": "16.json"
+  },
+  "17": {
+    "id": 17,
+    "num": 17,
+    "name": "Roucoups",
+    "url": "17.json"
+  },
+  "18": {
+    "id": 18,
+    "num": 18,
+    "name": "Roucarnage",
+    "url": "18.json"
+  },
+  "19": {
+    "id": 19,
+    "num": 19,
+    "name": "Rattata",
+    "url": "19.json"
+  },
+  "20": {
+    "id": 20,
+    "num": 20,
+    "name": "Rattatac",
+    "url": "20.json"
+  },
+  "21": {
+    "id": 21,
+    "num": 21,
+    "name": "Piafabec",
+    "url": "21.json"
+  },
+  "22": {
+    "id": 22,
+    "num": 22,
+    "name": "Rapasdepic",
+    "url": "22.json"
+  },
+  "23": {
+    "id": 23,
+    "num": 23,
+    "name": "Abo",
+    "url": "23.json"
+  },
+  "24": {
+    "id": 24,
+    "num": 24,
+    "name": "Arbok",
+    "url": "24.json"
+  },
+  "25": {
+    "id": 25,
+    "num": 25,
+    "name": "Pikachu",
+    "url": "25.json"
+  },
+  "26": {
+    "id": 26,
+    "num": 26,
+    "name": "Raichu",
+    "url": "26.json"
+  },
+  "27": {
+    "id": 27,
+    "num": 27,
+    "name": "Sabelette",
+    "url": "27.json"
+  },
+  "28": {
+    "id": 28,
+    "num": 28,
+    "name": "Sablaireau",
+    "url": "28.json"
+  },
+  "29": {
+    "id": 29,
+    "num": 29,
+    "name": "Nidoran♀",
+    "url": "29.json"
+  },
+  "30": {
+    "id": 30,
+    "num": 30,
+    "name": "Nidorina",
+    "url": "30.json"
+  },
+  "31": {
+    "id": 31,
+    "num": 31,
+    "name": "Nidoqueen",
+    "url": "31.json"
+  },
+  "32": {
+    "id": 32,
+    "num": 32,
+    "name": "Nidoran♂",
+    "url": "32.json"
+  },
+  "33": {
+    "id": 33,
+    "num": 33,
+    "name": "Nidorino",
+    "url": "33.json"
+  },
+  "34": {
+    "id": 34,
+    "num": 34,
+    "name": "Nidoking",
+    "url": "34.json"
+  },
+  "35": {
+    "id": 35,
+    "num": 35,
+    "name": "Mélofée",
+    "url": "35.json"
+  },
+  "36": {
+    "id": 36,
+    "num": 36,
+    "name": "Mélodelfe",
+    "url": "36.json"
+  },
+  "37": {
+    "id": 37,
+    "num": 37,
+    "name": "Goupix",
+    "url": "37.json"
+  },
+  "38": {
+    "id": 38,
+    "num": 38,
+    "name": "Feunard",
+    "url": "38.json"
+  },
+  "39": {
+    "id": 39,
+    "num": 39,
+    "name": "Rondoudou",
+    "url": "39.json"
+  },
+  "40": {
+    "id": 40,
+    "num": 40,
+    "name": "Grodoudou",
+    "url": "40.json"
+  },
+  "41": {
+    "id": 41,
+    "num": 41,
+    "name": "Nosferapti",
+    "url": "41.json"
+  },
+  "42": {
+    "id": 42,
+    "num": 42,
+    "name": "Nosferalto",
+    "url": "42.json"
+  },
+  "43": {
+    "id": 43,
+    "num": 43,
+    "name": "Mystherbe",
+    "url": "43.json"
+  },
+  "44": {
+    "id": 44,
+    "num": 44,
+    "name": "Ortide",
+    "url": "44.json"
+  },
+  "45": {
+    "id": 45,
+    "num": 45,
+    "name": "Rafflesia",
+    "url": "45.json"
+  },
+  "46": {
+    "id": 46,
+    "num": 46,
+    "name": "Paras",
+    "url": "46.json"
+  },
+  "47": {
+    "id": 47,
+    "num": 47,
+    "name": "Parasect",
+    "url": "47.json"
+  },
+  "48": {
+    "id": 48,
+    "num": 48,
+    "name": "Mimitoss",
+    "url": "48.json"
+  },
+  "49": {
+    "id": 49,
+    "num": 49,
+    "name": "Aéromite",
+    "url": "49.json"
+  },
+  "50": {
+    "id": 50,
+    "num": 50,
+    "name": "Taupiqueur",
+    "url": "50.json"
+  },
+  "51": {
+    "id": 51,
+    "num": 51,
+    "name": "Triopikeur",
+    "url": "51.json"
+  },
+  "52": {
+    "id": 52,
+    "num": 52,
+    "name": "Miaouss",
+    "url": "52.json"
+  },
+  "53": {
+    "id": 53,
+    "num": 53,
+    "name": "Persian",
+    "url": "53.json"
+  },
+  "54": {
+    "id": 54,
+    "num": 54,
+    "name": "Psykokwak",
+    "url": "54.json"
+  },
+  "55": {
+    "id": 55,
+    "num": 55,
+    "name": "Akwakwak",
+    "url": "55.json"
+  },
+  "56": {
+    "id": 56,
+    "num": 56,
+    "name": "Férosinge",
+    "url": "56.json"
+  },
+  "57": {
+    "id": 57,
+    "num": 57,
+    "name": "Colossinge",
+    "url": "57.json"
+  },
+  "58": {
+    "id": 58,
+    "num": 58,
+    "name": "Caninos",
+    "url": "58.json"
+  },
+  "59": {
+    "id": 59,
+    "num": 59,
+    "name": "Arcanin",
+    "url": "59.json"
+  },
+  "60": {
+    "id": 60,
+    "num": 60,
+    "name": "Ptitard",
+    "url": "60.json"
+  },
+  "61": {
+    "id": 61,
+    "num": 61,
+    "name": "Têtarte",
+    "url": "61.json"
+  },
+  "62": {
+    "id": 62,
+    "num": 62,
+    "name": "Tartard",
+    "url": "62.json"
+  },
+  "63": {
+    "id": 63,
+    "num": 63,
+    "name": "Abra",
+    "url": "63.json"
+  },
+  "64": {
+    "id": 64,
+    "num": 64,
+    "name": "Kadabra",
+    "url": "64.json"
+  },
+  "65": {
+    "id": 65,
+    "num": 65,
+    "name": "Alakazam",
+    "url": "65.json"
+  },
+  "66": {
+    "id": 66,
+    "num": 66,
+    "name": "Machoc",
+    "url": "66.json"
+  },
+  "67": {
+    "id": 67,
+    "num": 67,
+    "name": "Machopeur",
+    "url": "67.json"
+  },
+  "68": {
+    "id": 68,
+    "num": 68,
+    "name": "Mackogneur",
+    "url": "68.json"
+  },
+  "69": {
+    "id": 69,
+    "num": 69,
+    "name": "Chétiflor",
+    "url": "69.json"
+  },
+  "70": {
+    "id": 70,
+    "num": 70,
+    "name": "Boustiflor",
+    "url": "70.json"
+  },
+  "71": {
+    "id": 71,
+    "num": 71,
+    "name": "Empiflor",
+    "url": "71.json"
+  },
+  "72": {
+    "id": 72,
+    "num": 72,
+    "name": "Tentacool",
+    "url": "72.json"
+  },
+  "73": {
+    "id": 73,
+    "num": 73,
+    "name": "Tentacruel",
+    "url": "73.json"
+  },
+  "74": {
+    "id": 74,
+    "num": 74,
+    "name": "Racaillou",
+    "url": "74.json"
+  },
+  "75": {
+    "id": 75,
+    "num": 75,
+    "name": "Gravalanch",
+    "url": "75.json"
+  },
+  "76": {
+    "id": 76,
+    "num": 76,
+    "name": "Grolem",
+    "url": "76.json"
+  },
+  "77": {
+    "id": 77,
+    "num": 77,
+    "name": "Ponyta",
+    "url": "77.json"
+  },
+  "78": {
+    "id": 78,
+    "num": 78,
+    "name": "Galopa",
+    "url": "78.json"
+  },
+  "79": {
+    "id": 79,
+    "num": 79,
+    "name": "Ramoloss",
+    "url": "79.json"
+  },
+  "80": {
+    "id": 80,
+    "num": 80,
+    "name": "Flagadoss",
+    "url": "80.json"
+  },
+  "81": {
+    "id": 81,
+    "num": 81,
+    "name": "Magnéti",
+    "url": "81.json"
+  },
+  "82": {
+    "id": 82,
+    "num": 82,
+    "name": "Magnéton",
+    "url": "82.json"
+  },
+  "83": {
+    "id": 83,
+    "num": 83,
+    "name": "Canarticho",
+    "url": "83.json"
+  },
+  "84": {
+    "id": 84,
+    "num": 84,
+    "name": "Doduo",
+    "url": "84.json"
+  },
+  "85": {
+    "id": 85,
+    "num": 85,
+    "name": "Dodrio",
+    "url": "85.json"
+  },
+  "86": {
+    "id": 86,
+    "num": 86,
+    "name": "Otaria",
+    "url": "86.json"
+  },
+  "87": {
+    "id": 87,
+    "num": 87,
+    "name": "Lamantine",
+    "url": "87.json"
+  },
+  "88": {
+    "id": 88,
+    "num": 88,
+    "name": "Tadmorv",
+    "url": "88.json"
+  },
+  "89": {
+    "id": 89,
+    "num": 89,
+    "name": "Grotadmorv",
+    "url": "89.json"
+  },
+  "90": {
+    "id": 90,
+    "num": 90,
+    "name": "Kokiyas",
+    "url": "90.json"
+  },
+  "91": {
+    "id": 91,
+    "num": 91,
+    "name": "Crustabri",
+    "url": "91.json"
+  },
+  "92": {
+    "id": 92,
+    "num": 92,
+    "name": "Fantominus",
+    "url": "92.json"
+  },
+  "93": {
+    "id": 93,
+    "num": 93,
+    "name": "Spectrum",
+    "url": "93.json"
+  },
+  "94": {
+    "id": 94,
+    "num": 94,
+    "name": "Ectoplasma",
+    "url": "94.json"
+  },
+  "95": {
+    "id": 95,
+    "num": 95,
+    "name": "Onix",
+    "url": "95.json"
+  },
+  "96": {
+    "id": 96,
+    "num": 96,
+    "name": "Soporifik",
+    "url": "96.json"
+  },
+  "97": {
+    "id": 97,
+    "num": 97,
+    "name": "Hypnomade",
+    "url": "97.json"
+  },
+  "98": {
+    "id": 98,
+    "num": 98,
+    "name": "Krabby",
+    "url": "98.json"
+  },
+  "99": {
+    "id": 99,
+    "num": 99,
+    "name": "Krabboss",
+    "url": "99.json"
+  },
+  "100": {
+    "id": 100,
+    "num": 100,
+    "name": "Voltorbe",
+    "url": "100.json"
+  },
+  "101": {
+    "id": 101,
+    "num": 101,
+    "name": "Électrode",
+    "url": "101.json"
+  },
+  "102": {
+    "id": 102,
+    "num": 102,
+    "name": "Noeunoeuf",
+    "url": "102.json"
+  },
+  "103": {
+    "id": 103,
+    "num": 103,
+    "name": "Noadkoko",
+    "url": "103.json"
+  },
+  "104": {
+    "id": 104,
+    "num": 104,
+    "name": "Osselait",
+    "url": "104.json"
+  },
+  "105": {
+    "id": 105,
+    "num": 105,
+    "name": "Ossatueur",
+    "url": "105.json"
+  },
+  "106": {
+    "id": 106,
+    "num": 106,
+    "name": "Kicklee",
+    "url": "106.json"
+  },
+  "107": {
+    "id": 107,
+    "num": 107,
+    "name": "Tygnon",
+    "url": "107.json"
+  },
+  "108": {
+    "id": 108,
+    "num": 108,
+    "name": "Excelangue",
+    "url": "108.json"
+  },
+  "109": {
+    "id": 109,
+    "num": 109,
+    "name": "Smogo",
+    "url": "109.json"
+  },
+  "110": {
+    "id": 110,
+    "num": 110,
+    "name": "Smogogo",
+    "url": "110.json"
+  },
+  "111": {
+    "id": 111,
+    "num": 111,
+    "name": "Rhinocorne",
+    "url": "111.json"
+  },
+  "112": {
+    "id": 112,
+    "num": 112,
+    "name": "Rhinoféros",
+    "url": "112.json"
+  },
+  "113": {
+    "id": 113,
+    "num": 113,
+    "name": "Leveinard",
+    "url": "113.json"
+  },
+  "114": {
+    "id": 114,
+    "num": 114,
+    "name": "Saquedeneu",
+    "url": "114.json"
+  },
+  "115": {
+    "id": 115,
+    "num": 115,
+    "name": "Kangourex",
+    "url": "115.json"
+  },
+  "116": {
+    "id": 116,
+    "num": 116,
+    "name": "Hypotrempe",
+    "url": "116.json"
+  },
+  "117": {
+    "id": 117,
+    "num": 117,
+    "name": "Hypocéan",
+    "url": "117.json"
+  },
+  "118": {
+    "id": 118,
+    "num": 118,
+    "name": "Poissirène",
+    "url": "118.json"
+  },
+  "119": {
+    "id": 119,
+    "num": 119,
+    "name": "Poissoroy",
+    "url": "119.json"
+  },
+  "120": {
+    "id": 120,
+    "num": 120,
+    "name": "Stari",
+    "url": "120.json"
+  },
+  "121": {
+    "id": 121,
+    "num": 121,
+    "name": "Staross",
+    "url": "121.json"
+  },
+  "122": {
+    "id": 122,
+    "num": 122,
+    "name": "M. Mime",
+    "url": "122.json"
+  },
+  "123": {
+    "id": 123,
+    "num": 123,
+    "name": "Insécateur",
+    "url": "123.json"
+  },
+  "124": {
+    "id": 124,
+    "num": 124,
+    "name": "Lippoutou",
+    "url": "124.json"
+  },
+  "125": {
+    "id": 125,
+    "num": 125,
+    "name": "Élektek",
+    "url": "125.json"
+  },
+  "126": {
+    "id": 126,
+    "num": 126,
+    "name": "Magmar",
+    "url": "126.json"
+  },
+  "127": {
+    "id": 127,
+    "num": 127,
+    "name": "Scarabrute",
+    "url": "127.json"
+  },
+  "128": {
+    "id": 128,
+    "num": 128,
+    "name": "Tauros",
+    "url": "128.json"
+  },
+  "129": {
+    "id": 129,
+    "num": 129,
+    "name": "Magicarpe",
+    "url": "129.json"
+  },
+  "130": {
+    "id": 130,
+    "num": 130,
+    "name": "Léviator",
+    "url": "130.json"
+  },
+  "131": {
+    "id": 131,
+    "num": 131,
+    "name": "Lokhlass",
+    "url": "131.json"
+  },
+  "132": {
+    "id": 132,
+    "num": 132,
+    "name": "Métamorph",
+    "url": "132.json"
+  },
+  "133": {
+    "id": 133,
+    "num": 133,
+    "name": "Évoli",
+    "url": "133.json"
+  },
+  "134": {
+    "id": 134,
+    "num": 134,
+    "name": "Aquali",
+    "url": "134.json"
+  },
+  "135": {
+    "id": 135,
+    "num": 135,
+    "name": "Voltali",
+    "url": "135.json"
+  },
+  "136": {
+    "id": 136,
+    "num": 136,
+    "name": "Pyroli",
+    "url": "136.json"
+  },
+  "137": {
+    "id": 137,
+    "num": 137,
+    "name": "Porygon",
+    "url": "137.json"
+  },
+  "138": {
+    "id": 138,
+    "num": 138,
+    "name": "Amonita",
+    "url": "138.json"
+  },
+  "139": {
+    "id": 139,
+    "num": 139,
+    "name": "Amonistar",
+    "url": "139.json"
+  },
+  "140": {
+    "id": 140,
+    "num": 140,
+    "name": "Kabuto",
+    "url": "140.json"
+  },
+  "141": {
+    "id": 141,
+    "num": 141,
+    "name": "Kabutops",
+    "url": "141.json"
+  },
+  "142": {
+    "id": 142,
+    "num": 142,
+    "name": "Ptéra",
+    "url": "142.json"
+  },
+  "143": {
+    "id": 143,
+    "num": 143,
+    "name": "Ronflex",
+    "url": "143.json"
+  },
+  "144": {
+    "id": 144,
+    "num": 144,
+    "name": "Artikodin",
+    "url": "144.json"
+  },
+  "145": {
+    "id": 145,
+    "num": 145,
+    "name": "Électhor",
+    "url": "145.json"
+  },
+  "146": {
+    "id": 146,
+    "num": 146,
+    "name": "Sulfura",
+    "url": "146.json"
+  },
+  "147": {
+    "id": 147,
+    "num": 147,
+    "name": "Minidraco",
+    "url": "147.json"
+  },
+  "148": {
+    "id": 148,
+    "num": 148,
+    "name": "Draco",
+    "url": "148.json"
+  },
+  "149": {
+    "id": 149,
+    "num": 149,
+    "name": "Dracolosse",
+    "url": "149.json"
+  },
+  "150": {
+    "id": 150,
+    "num": 150,
+    "name": "Mewtwo",
+    "url": "150.json"
+  },
+  "151": {
+    "id": 151,
+    "num": 151,
+    "name": "Mew",
+    "url": "151.json"
+  },
+  "152": {
+    "id": 152,
+    "num": 152,
+    "name": "Germignon",
+    "url": "152.json"
+  },
+  "153": {
+    "id": 153,
+    "num": 153,
+    "name": "Macronium",
+    "url": "153.json"
+  },
+  "154": {
+    "id": 154,
+    "num": 154,
+    "name": "Méganium",
+    "url": "154.json"
+  },
+  "155": {
+    "id": 155,
+    "num": 155,
+    "name": "Héricendre",
+    "url": "155.json"
+  },
+  "156": {
+    "id": 156,
+    "num": 156,
+    "name": "Feurisson",
+    "url": "156.json"
+  },
+  "157": {
+    "id": 157,
+    "num": 157,
+    "name": "Typhlosion",
+    "url": "157.json"
+  },
+  "158": {
+    "id": 158,
+    "num": 158,
+    "name": "Kaiminus",
+    "url": "158.json"
+  },
+  "159": {
+    "id": 159,
+    "num": 159,
+    "name": "Crocrodil",
+    "url": "159.json"
+  },
+  "160": {
+    "id": 160,
+    "num": 160,
+    "name": "Aligatueur",
+    "url": "160.json"
+  },
+  "161": {
+    "id": 161,
+    "num": 161,
+    "name": "Fouinette",
+    "url": "161.json"
+  },
+  "162": {
+    "id": 162,
+    "num": 162,
+    "name": "Fouinar",
+    "url": "162.json"
+  },
+  "163": {
+    "id": 163,
+    "num": 163,
+    "name": "Hoothoot",
+    "url": "163.json"
+  },
+  "164": {
+    "id": 164,
+    "num": 164,
+    "name": "Noarfang",
+    "url": "164.json"
+  },
+  "165": {
+    "id": 165,
+    "num": 165,
+    "name": "Coxy",
+    "url": "165.json"
+  },
+  "166": {
+    "id": 166,
+    "num": 166,
+    "name": "Coxyclaque",
+    "url": "166.json"
+  },
+  "167": {
+    "id": 167,
+    "num": 167,
+    "name": "Mimigal",
+    "url": "167.json"
+  },
+  "168": {
+    "id": 168,
+    "num": 168,
+    "name": "Migalos",
+    "url": "168.json"
+  },
+  "169": {
+    "id": 169,
+    "num": 169,
+    "name": "Nostenfer",
+    "url": "169.json"
+  },
+  "170": {
+    "id": 170,
+    "num": 170,
+    "name": "Loupio",
+    "url": "170.json"
+  },
+  "171": {
+    "id": 171,
+    "num": 171,
+    "name": "Lanturn",
+    "url": "171.json"
+  },
+  "172": {
+    "id": 172,
+    "num": 172,
+    "name": "Pichu",
+    "url": "172.json"
+  },
+  "173": {
+    "id": 173,
+    "num": 173,
+    "name": "Mélo",
+    "url": "173.json"
+  },
+  "174": {
+    "id": 174,
+    "num": 174,
+    "name": "Toudoudou",
+    "url": "174.json"
+  },
+  "175": {
+    "id": 175,
+    "num": 175,
+    "name": "Togepi",
+    "url": "175.json"
+  },
+  "176": {
+    "id": 176,
+    "num": 176,
+    "name": "Togetic",
+    "url": "176.json"
+  },
+  "177": {
+    "id": 177,
+    "num": 177,
+    "name": "Natu",
+    "url": "177.json"
+  },
+  "178": {
+    "id": 178,
+    "num": 178,
+    "name": "Xatu",
+    "url": "178.json"
+  },
+  "179": {
+    "id": 179,
+    "num": 179,
+    "name": "Wattouat",
+    "url": "179.json"
+  },
+  "180": {
+    "id": 180,
+    "num": 180,
+    "name": "Lainergie",
+    "url": "180.json"
+  },
+  "181": {
+    "id": 181,
+    "num": 181,
+    "name": "Pharamp",
+    "url": "181.json"
+  },
+  "182": {
+    "id": 182,
+    "num": 182,
+    "name": "Joliflor",
+    "url": "182.json"
+  },
+  "183": {
+    "id": 183,
+    "num": 183,
+    "name": "Marill",
+    "url": "183.json"
+  },
+  "184": {
+    "id": 184,
+    "num": 184,
+    "name": "Azumarill",
+    "url": "184.json"
+  },
+  "185": {
+    "id": 185,
+    "num": 185,
+    "name": "Simularbre",
+    "url": "185.json"
+  },
+  "186": {
+    "id": 186,
+    "num": 186,
+    "name": "Tarpaud",
+    "url": "186.json"
+  },
+  "187": {
+    "id": 187,
+    "num": 187,
+    "name": "Granivol",
+    "url": "187.json"
+  },
+  "188": {
+    "id": 188,
+    "num": 188,
+    "name": "Floravol",
+    "url": "188.json"
+  },
+  "189": {
+    "id": 189,
+    "num": 189,
+    "name": "Cotovol",
+    "url": "189.json"
+  },
+  "190": {
+    "id": 190,
+    "num": 190,
+    "name": "Capumain",
+    "url": "190.json"
+  },
+  "191": {
+    "id": 191,
+    "num": 191,
+    "name": "Tournegrin",
+    "url": "191.json"
+  },
+  "192": {
+    "id": 192,
+    "num": 192,
+    "name": "Héliatronc",
+    "url": "192.json"
+  },
+  "193": {
+    "id": 193,
+    "num": 193,
+    "name": "Yanma",
+    "url": "193.json"
+  },
+  "194": {
+    "id": 194,
+    "num": 194,
+    "name": "Axoloto",
+    "url": "194.json"
+  },
+  "195": {
+    "id": 195,
+    "num": 195,
+    "name": "Maraiste",
+    "url": "195.json"
+  },
+  "196": {
+    "id": 196,
+    "num": 196,
+    "name": "Mentali",
+    "url": "196.json"
+  },
+  "197": {
+    "id": 197,
+    "num": 197,
+    "name": "Noctali",
+    "url": "197.json"
+  },
+  "198": {
+    "id": 198,
+    "num": 198,
+    "name": "Cornèbre",
+    "url": "198.json"
+  },
+  "199": {
+    "id": 199,
+    "num": 199,
+    "name": "Roigada",
+    "url": "199.json"
+  },
+  "200": {
+    "id": 200,
+    "num": 200,
+    "name": "Feuforêve",
+    "url": "200.json"
+  },
+  "201": {
+    "id": 201,
+    "num": 201,
+    "name": "Zarbi",
+    "url": "201.json"
+  },
+  "202": {
+    "id": 202,
+    "num": 202,
+    "name": "Qulbutoké",
+    "url": "202.json"
+  },
+  "203": {
+    "id": 203,
+    "num": 203,
+    "name": "Girafarig",
+    "url": "203.json"
+  },
+  "204": {
+    "id": 204,
+    "num": 204,
+    "name": "Pomdepik",
+    "url": "204.json"
+  },
+  "205": {
+    "id": 205,
+    "num": 205,
+    "name": "Foretress",
+    "url": "205.json"
+  },
+  "206": {
+    "id": 206,
+    "num": 206,
+    "name": "Insolourdo",
+    "url": "206.json"
+  },
+  "207": {
+    "id": 207,
+    "num": 207,
+    "name": "Scorplane",
+    "url": "207.json"
+  },
+  "208": {
+    "id": 208,
+    "num": 208,
+    "name": "Steelix",
+    "url": "208.json"
+  },
+  "209": {
+    "id": 209,
+    "num": 209,
+    "name": "Snubbull",
+    "url": "209.json"
+  },
+  "210": {
+    "id": 210,
+    "num": 210,
+    "name": "Granbull",
+    "url": "210.json"
+  },
+  "211": {
+    "id": 211,
+    "num": 211,
+    "name": "Qwilfish",
+    "url": "211.json"
+  },
+  "212": {
+    "id": 212,
+    "num": 212,
+    "name": "Cizayox",
+    "url": "212.json"
+  },
+  "213": {
+    "id": 213,
+    "num": 213,
+    "name": "Caratroc",
+    "url": "213.json"
+  },
+  "214": {
+    "id": 214,
+    "num": 214,
+    "name": "Scarhino",
+    "url": "214.json"
+  },
+  "215": {
+    "id": 215,
+    "num": 215,
+    "name": "Farfuret",
+    "url": "215.json"
+  },
+  "216": {
+    "id": 216,
+    "num": 216,
+    "name": "Teddiursa",
+    "url": "216.json"
+  },
+  "217": {
+    "id": 217,
+    "num": 217,
+    "name": "Ursaring",
+    "url": "217.json"
+  },
+  "218": {
+    "id": 218,
+    "num": 218,
+    "name": "Limagma",
+    "url": "218.json"
+  },
+  "219": {
+    "id": 219,
+    "num": 219,
+    "name": "Volcaropod",
+    "url": "219.json"
+  },
+  "220": {
+    "id": 220,
+    "num": 220,
+    "name": "Marcacrin",
+    "url": "220.json"
+  },
+  "221": {
+    "id": 221,
+    "num": 221,
+    "name": "Cochignon",
+    "url": "221.json"
+  },
+  "222": {
+    "id": 222,
+    "num": 222,
+    "name": "Corayon",
+    "url": "222.json"
+  },
+  "223": {
+    "id": 223,
+    "num": 223,
+    "name": "Rémoraid",
+    "url": "223.json"
+  },
+  "224": {
+    "id": 224,
+    "num": 224,
+    "name": "Octillery",
+    "url": "224.json"
+  },
+  "225": {
+    "id": 225,
+    "num": 225,
+    "name": "Cadoizo",
+    "url": "225.json"
+  },
+  "226": {
+    "id": 226,
+    "num": 226,
+    "name": "Démanta",
+    "url": "226.json"
+  },
+  "227": {
+    "id": 227,
+    "num": 227,
+    "name": "Airmure",
+    "url": "227.json"
+  },
+  "228": {
+    "id": 228,
+    "num": 228,
+    "name": "Malosse",
+    "url": "228.json"
+  },
+  "229": {
+    "id": 229,
+    "num": 229,
+    "name": "Démolosse",
+    "url": "229.json"
+  },
+  "230": {
+    "id": 230,
+    "num": 230,
+    "name": "Hyporoi",
+    "url": "230.json"
+  },
+  "231": {
+    "id": 231,
+    "num": 231,
+    "name": "Phanpy",
+    "url": "231.json"
+  },
+  "232": {
+    "id": 232,
+    "num": 232,
+    "name": "Donphan",
+    "url": "232.json"
+  },
+  "233": {
+    "id": 233,
+    "num": 233,
+    "name": "Porygon2",
+    "url": "233.json"
+  },
+  "234": {
+    "id": 234,
+    "num": 234,
+    "name": "Cerfrousse",
+    "url": "234.json"
+  },
+  "235": {
+    "id": 235,
+    "num": 235,
+    "name": "Queulorior",
+    "url": "235.json"
+  },
+  "236": {
+    "id": 236,
+    "num": 236,
+    "name": "Debugant",
+    "url": "236.json"
+  },
+  "237": {
+    "id": 237,
+    "num": 237,
+    "name": "Kapoera",
+    "url": "237.json"
+  },
+  "238": {
+    "id": 238,
+    "num": 238,
+    "name": "Lippouti",
+    "url": "238.json"
+  },
+  "239": {
+    "id": 239,
+    "num": 239,
+    "name": "Élekid",
+    "url": "239.json"
+  },
+  "240": {
+    "id": 240,
+    "num": 240,
+    "name": "Magby",
+    "url": "240.json"
+  },
+  "241": {
+    "id": 241,
+    "num": 241,
+    "name": "Écrémeuh",
+    "url": "241.json"
+  },
+  "242": {
+    "id": 242,
+    "num": 242,
+    "name": "Leuphorie",
+    "url": "242.json"
+  },
+  "243": {
+    "id": 243,
+    "num": 243,
+    "name": "Raikou",
+    "url": "243.json"
+  },
+  "244": {
+    "id": 244,
+    "num": 244,
+    "name": "Entei",
+    "url": "244.json"
+  },
+  "245": {
+    "id": 245,
+    "num": 245,
+    "name": "Suicune",
+    "url": "245.json"
+  },
+  "246": {
+    "id": 246,
+    "num": 246,
+    "name": "Embrylex",
+    "url": "246.json"
+  },
+  "247": {
+    "id": 247,
+    "num": 247,
+    "name": "Ymphect",
+    "url": "247.json"
+  },
+  "248": {
+    "id": 248,
+    "num": 248,
+    "name": "Tyranocif",
+    "url": "248.json"
+  },
+  "249": {
+    "id": 249,
+    "num": 249,
+    "name": "Lugia",
+    "url": "249.json"
+  },
+  "250": {
+    "id": 250,
+    "num": 250,
+    "name": "Ho-Oh",
+    "url": "250.json"
+  },
+  "251": {
+    "id": 251,
+    "num": 251,
+    "name": "Celebi",
+    "url": "251.json"
+  },
+  "252": {
+    "id": 252,
+    "num": 252,
+    "name": "Arcko",
+    "url": "252.json"
+  },
+  "253": {
+    "id": 253,
+    "num": 253,
+    "name": "Massko",
+    "url": "253.json"
+  },
+  "254": {
+    "id": 254,
+    "num": 254,
+    "name": "Jungko",
+    "url": "254.json"
+  },
+  "255": {
+    "id": 255,
+    "num": 255,
+    "name": "Poussifeu",
+    "url": "255.json"
+  },
+  "256": {
+    "id": 256,
+    "num": 256,
+    "name": "Galifeu",
+    "url": "256.json"
+  },
+  "257": {
+    "id": 257,
+    "num": 257,
+    "name": "Braségali",
+    "url": "257.json"
+  },
+  "258": {
+    "id": 258,
+    "num": 258,
+    "name": "Gobou",
+    "url": "258.json"
+  },
+  "259": {
+    "id": 259,
+    "num": 259,
+    "name": "Flobio",
+    "url": "259.json"
+  },
+  "260": {
+    "id": 260,
+    "num": 260,
+    "name": "Laggron",
+    "url": "260.json"
+  },
+  "261": {
+    "id": 261,
+    "num": 261,
+    "name": "Medhyèna",
+    "url": "261.json"
+  },
+  "262": {
+    "id": 262,
+    "num": 262,
+    "name": "Grahyèna",
+    "url": "262.json"
+  },
+  "263": {
+    "id": 263,
+    "num": 263,
+    "name": "Zigzaton",
+    "url": "263.json"
+  },
+  "264": {
+    "id": 264,
+    "num": 264,
+    "name": "Linéon",
+    "url": "264.json"
+  },
+  "265": {
+    "id": 265,
+    "num": 265,
+    "name": "Chenipotte",
+    "url": "265.json"
+  },
+  "266": {
+    "id": 266,
+    "num": 266,
+    "name": "Armulys",
+    "url": "266.json"
+  },
+  "267": {
+    "id": 267,
+    "num": 267,
+    "name": "Charmillon",
+    "url": "267.json"
+  },
+  "268": {
+    "id": 268,
+    "num": 268,
+    "name": "Blindalys",
+    "url": "268.json"
+  },
+  "269": {
+    "id": 269,
+    "num": 269,
+    "name": "Papinox",
+    "url": "269.json"
+  },
+  "270": {
+    "id": 270,
+    "num": 270,
+    "name": "Nénupiot",
+    "url": "270.json"
+  },
+  "271": {
+    "id": 271,
+    "num": 271,
+    "name": "Lombre",
+    "url": "271.json"
+  },
+  "272": {
+    "id": 272,
+    "num": 272,
+    "name": "Ludicolo",
+    "url": "272.json"
+  },
+  "273": {
+    "id": 273,
+    "num": 273,
+    "name": "Grainipiot",
+    "url": "273.json"
+  },
+  "274": {
+    "id": 274,
+    "num": 274,
+    "name": "Pifeuil",
+    "url": "274.json"
+  },
+  "275": {
+    "id": 275,
+    "num": 275,
+    "name": "Tengalice",
+    "url": "275.json"
+  },
+  "276": {
+    "id": 276,
+    "num": 276,
+    "name": "Nirondelle",
+    "url": "276.json"
+  },
+  "277": {
+    "id": 277,
+    "num": 277,
+    "name": "Hélédelle",
+    "url": "277.json"
+  },
+  "278": {
+    "id": 278,
+    "num": 278,
+    "name": "Goélise",
+    "url": "278.json"
+  },
+  "279": {
+    "id": 279,
+    "num": 279,
+    "name": "Bekipan",
+    "url": "279.json"
+  },
+  "280": {
+    "id": 280,
+    "num": 280,
+    "name": "Tarsal",
+    "url": "280.json"
+  },
+  "281": {
+    "id": 281,
+    "num": 281,
+    "name": "Kirlia",
+    "url": "281.json"
+  },
+  "282": {
+    "id": 282,
+    "num": 282,
+    "name": "Gardevoir",
+    "url": "282.json"
+  },
+  "283": {
+    "id": 283,
+    "num": 283,
+    "name": "Arakdo",
+    "url": "283.json"
+  },
+  "284": {
+    "id": 284,
+    "num": 284,
+    "name": "Maskadra",
+    "url": "284.json"
+  },
+  "285": {
+    "id": 285,
+    "num": 285,
+    "name": "Balignon",
+    "url": "285.json"
+  },
+  "286": {
+    "id": 286,
+    "num": 286,
+    "name": "Chapignon",
+    "url": "286.json"
+  },
+  "287": {
+    "id": 287,
+    "num": 287,
+    "name": "Parecool",
+    "url": "287.json"
+  },
+  "288": {
+    "id": 288,
+    "num": 288,
+    "name": "Vigoroth",
+    "url": "288.json"
+  },
+  "289": {
+    "id": 289,
+    "num": 289,
+    "name": "Monaflèmit",
+    "url": "289.json"
+  },
+  "290": {
+    "id": 290,
+    "num": 290,
+    "name": "Ningale",
+    "url": "290.json"
+  },
+  "291": {
+    "id": 291,
+    "num": 291,
+    "name": "Ninjask",
+    "url": "291.json"
+  },
+  "292": {
+    "id": 292,
+    "num": 292,
+    "name": "Munja",
+    "url": "292.json"
+  },
+  "293": {
+    "id": 293,
+    "num": 293,
+    "name": "Chuchmur",
+    "url": "293.json"
+  },
+  "294": {
+    "id": 294,
+    "num": 294,
+    "name": "Ramboum",
+    "url": "294.json"
+  },
+  "295": {
+    "id": 295,
+    "num": 295,
+    "name": "Brouhabam",
+    "url": "295.json"
+  },
+  "296": {
+    "id": 296,
+    "num": 296,
+    "name": "Makuhita",
+    "url": "296.json"
+  },
+  "297": {
+    "id": 297,
+    "num": 297,
+    "name": "Hariyama",
+    "url": "297.json"
+  },
+  "298": {
+    "id": 298,
+    "num": 298,
+    "name": "Azurill",
+    "url": "298.json"
+  },
+  "299": {
+    "id": 299,
+    "num": 299,
+    "name": "Tarinor",
+    "url": "299.json"
+  },
+  "300": {
+    "id": 300,
+    "num": 300,
+    "name": "Skitty",
+    "url": "300.json"
+  },
+  "301": {
+    "id": 301,
+    "num": 301,
+    "name": "Delcatty",
+    "url": "301.json"
+  },
+  "302": {
+    "id": 302,
+    "num": 302,
+    "name": "Ténéfix",
+    "url": "302.json"
+  },
+  "303": {
+    "id": 303,
+    "num": 303,
+    "name": "Mysdibule",
+    "url": "303.json"
+  },
+  "304": {
+    "id": 304,
+    "num": 304,
+    "name": "Galekid",
+    "url": "304.json"
+  },
+  "305": {
+    "id": 305,
+    "num": 305,
+    "name": "Galegon",
+    "url": "305.json"
+  },
+  "306": {
+    "id": 306,
+    "num": 306,
+    "name": "Galeking",
+    "url": "306.json"
+  },
+  "307": {
+    "id": 307,
+    "num": 307,
+    "name": "Méditikka",
+    "url": "307.json"
+  },
+  "308": {
+    "id": 308,
+    "num": 308,
+    "name": "Charmina",
+    "url": "308.json"
+  },
+  "309": {
+    "id": 309,
+    "num": 309,
+    "name": "Dynavolt",
+    "url": "309.json"
+  },
+  "310": {
+    "id": 310,
+    "num": 310,
+    "name": "Élecsprint",
+    "url": "310.json"
+  },
+  "311": {
+    "id": 311,
+    "num": 311,
+    "name": "Posipi",
+    "url": "311.json"
+  },
+  "312": {
+    "id": 312,
+    "num": 312,
+    "name": "Négapi",
+    "url": "312.json"
+  },
+  "313": {
+    "id": 313,
+    "num": 313,
+    "name": "Muciole",
+    "url": "313.json"
+  },
+  "314": {
+    "id": 314,
+    "num": 314,
+    "name": "Lumivole",
+    "url": "314.json"
+  },
+  "315": {
+    "id": 315,
+    "num": 315,
+    "name": "Rosélia",
+    "url": "315.json"
+  },
+  "316": {
+    "id": 316,
+    "num": 316,
+    "name": "Gloupti",
+    "url": "316.json"
+  },
+  "317": {
+    "id": 317,
+    "num": 317,
+    "name": "Avaltout",
+    "url": "317.json"
+  },
+  "318": {
+    "id": 318,
+    "num": 318,
+    "name": "Carvanha",
+    "url": "318.json"
+  },
+  "319": {
+    "id": 319,
+    "num": 319,
+    "name": "Sharpedo",
+    "url": "319.json"
+  },
+  "320": {
+    "id": 320,
+    "num": 320,
+    "name": "Wailmer",
+    "url": "320.json"
+  },
+  "321": {
+    "id": 321,
+    "num": 321,
+    "name": "Wailord",
+    "url": "321.json"
+  },
+  "322": {
+    "id": 322,
+    "num": 322,
+    "name": "Chamallot",
+    "url": "322.json"
+  },
+  "323": {
+    "id": 323,
+    "num": 323,
+    "name": "Camérupt",
+    "url": "323.json"
+  },
+  "324": {
+    "id": 324,
+    "num": 324,
+    "name": "Chartor",
+    "url": "324.json"
+  },
+  "325": {
+    "id": 325,
+    "num": 325,
+    "name": "Spoink",
+    "url": "325.json"
+  },
+  "326": {
+    "id": 326,
+    "num": 326,
+    "name": "Groret",
+    "url": "326.json"
+  },
+  "327": {
+    "id": 327,
+    "num": 327,
+    "name": "Spinda",
+    "url": "327.json"
+  },
+  "328": {
+    "id": 328,
+    "num": 328,
+    "name": "Kraknoix",
+    "url": "328.json"
+  },
+  "329": {
+    "id": 329,
+    "num": 329,
+    "name": "Vibraninf",
+    "url": "329.json"
+  },
+  "330": {
+    "id": 330,
+    "num": 330,
+    "name": "Libégon",
+    "url": "330.json"
+  },
+  "331": {
+    "id": 331,
+    "num": 331,
+    "name": "Cacnea",
+    "url": "331.json"
+  },
+  "332": {
+    "id": 332,
+    "num": 332,
+    "name": "Cacturne",
+    "url": "332.json"
+  },
+  "333": {
+    "id": 333,
+    "num": 333,
+    "name": "Tylton",
+    "url": "333.json"
+  },
+  "334": {
+    "id": 334,
+    "num": 334,
+    "name": "Altaria",
+    "url": "334.json"
+  },
+  "335": {
+    "id": 335,
+    "num": 335,
+    "name": "Mangriff",
+    "url": "335.json"
+  },
+  "336": {
+    "id": 336,
+    "num": 336,
+    "name": "Séviper",
+    "url": "336.json"
+  },
+  "337": {
+    "id": 337,
+    "num": 337,
+    "name": "Séléroc",
+    "url": "337.json"
+  },
+  "338": {
+    "id": 338,
+    "num": 338,
+    "name": "Solaroc",
+    "url": "338.json"
+  },
+  "339": {
+    "id": 339,
+    "num": 339,
+    "name": "Barloche",
+    "url": "339.json"
+  },
+  "340": {
+    "id": 340,
+    "num": 340,
+    "name": "Barbicha",
+    "url": "340.json"
+  },
+  "341": {
+    "id": 341,
+    "num": 341,
+    "name": "Écrapince",
+    "url": "341.json"
+  },
+  "342": {
+    "id": 342,
+    "num": 342,
+    "name": "Colhomard",
+    "url": "342.json"
+  },
+  "343": {
+    "id": 343,
+    "num": 343,
+    "name": "Balbuto",
+    "url": "343.json"
+  },
+  "344": {
+    "id": 344,
+    "num": 344,
+    "name": "Kaorine",
+    "url": "344.json"
+  },
+  "345": {
+    "id": 345,
+    "num": 345,
+    "name": "Lilia",
+    "url": "345.json"
+  },
+  "346": {
+    "id": 346,
+    "num": 346,
+    "name": "Vacilys",
+    "url": "346.json"
+  },
+  "347": {
+    "id": 347,
+    "num": 347,
+    "name": "Anorith",
+    "url": "347.json"
+  },
+  "348": {
+    "id": 348,
+    "num": 348,
+    "name": "Armaldo",
+    "url": "348.json"
+  },
+  "349": {
+    "id": 349,
+    "num": 349,
+    "name": "Barpau",
+    "url": "349.json"
+  },
+  "350": {
+    "id": 350,
+    "num": 350,
+    "name": "Milobellus",
+    "url": "350.json"
+  },
+  "351": {
+    "id": 351,
+    "num": 351,
+    "name": "Morphéo",
+    "url": "351.json"
+  },
+  "352": {
+    "id": 352,
+    "num": 352,
+    "name": "Kecleon",
+    "url": "352.json"
+  },
+  "353": {
+    "id": 353,
+    "num": 353,
+    "name": "Polichombr",
+    "url": "353.json"
+  },
+  "354": {
+    "id": 354,
+    "num": 354,
+    "name": "Branette",
+    "url": "354.json"
+  },
+  "355": {
+    "id": 355,
+    "num": 355,
+    "name": "Skelénox",
+    "url": "355.json"
+  },
+  "356": {
+    "id": 356,
+    "num": 356,
+    "name": "Téraclope",
+    "url": "356.json"
+  },
+  "357": {
+    "id": 357,
+    "num": 357,
+    "name": "Tropius",
+    "url": "357.json"
+  },
+  "358": {
+    "id": 358,
+    "num": 358,
+    "name": "Éoko",
+    "url": "358.json"
+  },
+  "359": {
+    "id": 359,
+    "num": 359,
+    "name": "Absol",
+    "url": "359.json"
+  },
+  "360": {
+    "id": 360,
+    "num": 360,
+    "name": "Okéoké",
+    "url": "360.json"
+  },
+  "361": {
+    "id": 361,
+    "num": 361,
+    "name": "Stalgamin",
+    "url": "361.json"
+  },
+  "362": {
+    "id": 362,
+    "num": 362,
+    "name": "Oniglali",
+    "url": "362.json"
+  },
+  "363": {
+    "id": 363,
+    "num": 363,
+    "name": "Obalie",
+    "url": "363.json"
+  },
+  "364": {
+    "id": 364,
+    "num": 364,
+    "name": "Phogleur",
+    "url": "364.json"
+  },
+  "365": {
+    "id": 365,
+    "num": 365,
+    "name": "Kaimorse",
+    "url": "365.json"
+  },
+  "366": {
+    "id": 366,
+    "num": 366,
+    "name": "Coquiperl",
+    "url": "366.json"
+  },
+  "367": {
+    "id": 367,
+    "num": 367,
+    "name": "Serpang",
+    "url": "367.json"
+  },
+  "368": {
+    "id": 368,
+    "num": 368,
+    "name": "Rosabyss",
+    "url": "368.json"
+  },
+  "369": {
+    "id": 369,
+    "num": 369,
+    "name": "Relicanth",
+    "url": "369.json"
+  },
+  "370": {
+    "id": 370,
+    "num": 370,
+    "name": "Lovdisc",
+    "url": "370.json"
+  },
+  "371": {
+    "id": 371,
+    "num": 371,
+    "name": "Draby",
+    "url": "371.json"
+  },
+  "372": {
+    "id": 372,
+    "num": 372,
+    "name": "Drackhaus",
+    "url": "372.json"
+  },
+  "373": {
+    "id": 373,
+    "num": 373,
+    "name": "Drattak",
+    "url": "373.json"
+  },
+  "374": {
+    "id": 374,
+    "num": 374,
+    "name": "Terhal",
+    "url": "374.json"
+  },
+  "375": {
+    "id": 375,
+    "num": 375,
+    "name": "Métang",
+    "url": "375.json"
+  },
+  "376": {
+    "id": 376,
+    "num": 376,
+    "name": "Métalosse",
+    "url": "376.json"
+  },
+  "377": {
+    "id": 377,
+    "num": 377,
+    "name": "Regirock",
+    "url": "377.json"
+  },
+  "378": {
+    "id": 378,
+    "num": 378,
+    "name": "Regice",
+    "url": "378.json"
+  },
+  "379": {
+    "id": 379,
+    "num": 379,
+    "name": "Registeel",
+    "url": "379.json"
+  },
+  "380": {
+    "id": 380,
+    "num": 380,
+    "name": "Latias",
+    "url": "380.json"
+  },
+  "381": {
+    "id": 381,
+    "num": 381,
+    "name": "Latios",
+    "url": "381.json"
+  },
+  "382": {
+    "id": 382,
+    "num": 382,
+    "name": "Kyogre",
+    "url": "382.json"
+  },
+  "383": {
+    "id": 383,
+    "num": 383,
+    "name": "Groudon",
+    "url": "383.json"
+  },
+  "384": {
+    "id": 384,
+    "num": 384,
+    "name": "Rayquaza",
+    "url": "384.json"
+  },
+  "385": {
+    "id": 385,
+    "num": 385,
+    "name": "Jirachi",
+    "url": "385.json"
+  },
+  "386": {
+    "id": 386,
+    "num": 386,
+    "name": "Deoxys",
+    "url": "386.json"
+  },
+  "387": {
+    "id": 387,
+    "num": 387,
+    "name": "Tortipouss",
+    "url": "387.json"
+  },
+  "388": {
+    "id": 388,
+    "num": 388,
+    "name": "Boskara",
+    "url": "388.json"
+  },
+  "389": {
+    "id": 389,
+    "num": 389,
+    "name": "Torterra",
+    "url": "389.json"
+  },
+  "390": {
+    "id": 390,
+    "num": 390,
+    "name": "Ouisticram",
+    "url": "390.json"
+  },
+  "391": {
+    "id": 391,
+    "num": 391,
+    "name": "Chimpenfeu",
+    "url": "391.json"
+  },
+  "392": {
+    "id": 392,
+    "num": 392,
+    "name": "Simiabraz",
+    "url": "392.json"
+  },
+  "393": {
+    "id": 393,
+    "num": 393,
+    "name": "Tiplouf",
+    "url": "393.json"
+  },
+  "394": {
+    "id": 394,
+    "num": 394,
+    "name": "Prinplouf",
+    "url": "394.json"
+  },
+  "395": {
+    "id": 395,
+    "num": 395,
+    "name": "Pingoléon",
+    "url": "395.json"
+  },
+  "396": {
+    "id": 396,
+    "num": 396,
+    "name": "Étourmi",
+    "url": "396.json"
+  },
+  "397": {
+    "id": 397,
+    "num": 397,
+    "name": "Étourvol",
+    "url": "397.json"
+  },
+  "398": {
+    "id": 398,
+    "num": 398,
+    "name": "Étouraptor",
+    "url": "398.json"
+  },
+  "399": {
+    "id": 399,
+    "num": 399,
+    "name": "Keunotor",
+    "url": "399.json"
+  },
+  "400": {
+    "id": 400,
+    "num": 400,
+    "name": "Castorno",
+    "url": "400.json"
+  },
+  "401": {
+    "id": 401,
+    "num": 401,
+    "name": "Crikzik",
+    "url": "401.json"
+  },
+  "402": {
+    "id": 402,
+    "num": 402,
+    "name": "Mélokrik",
+    "url": "402.json"
+  },
+  "403": {
+    "id": 403,
+    "num": 403,
+    "name": "Lixy",
+    "url": "403.json"
+  },
+  "404": {
+    "id": 404,
+    "num": 404,
+    "name": "Luxio",
+    "url": "404.json"
+  },
+  "405": {
+    "id": 405,
+    "num": 405,
+    "name": "Luxray",
+    "url": "405.json"
+  },
+  "406": {
+    "id": 406,
+    "num": 406,
+    "name": "Rozbouton",
+    "url": "406.json"
+  },
+  "407": {
+    "id": 407,
+    "num": 407,
+    "name": "Roserade",
+    "url": "407.json"
+  },
+  "408": {
+    "id": 408,
+    "num": 408,
+    "name": "Kranidos",
+    "url": "408.json"
+  },
+  "409": {
+    "id": 409,
+    "num": 409,
+    "name": "Charkos",
+    "url": "409.json"
+  },
+  "410": {
+    "id": 410,
+    "num": 410,
+    "name": "Dinoclier",
+    "url": "410.json"
+  },
+  "411": {
+    "id": 411,
+    "num": 411,
+    "name": "Bastiodon",
+    "url": "411.json"
+  },
+  "412": {
+    "id": 412,
+    "num": 412,
+    "name": "Cheniti",
+    "url": "412.json"
+  },
+  "413": {
+    "id": 413,
+    "num": 413,
+    "name": "Cheniselle",
+    "url": "413.json"
+  },
+  "414": {
+    "id": 414,
+    "num": 414,
+    "name": "Papilord",
+    "url": "414.json"
+  },
+  "415": {
+    "id": 415,
+    "num": 415,
+    "name": "Apitrini",
+    "url": "415.json"
+  },
+  "416": {
+    "id": 416,
+    "num": 416,
+    "name": "Apireine",
+    "url": "416.json"
+  },
+  "417": {
+    "id": 417,
+    "num": 417,
+    "name": "Pachirisu",
+    "url": "417.json"
+  },
+  "418": {
+    "id": 418,
+    "num": 418,
+    "name": "Mustébouée",
+    "url": "418.json"
+  },
+  "419": {
+    "id": 419,
+    "num": 419,
+    "name": "Mustéflott",
+    "url": "419.json"
+  },
+  "420": {
+    "id": 420,
+    "num": 420,
+    "name": "Ceribou",
+    "url": "420.json"
+  },
+  "421": {
+    "id": 421,
+    "num": 421,
+    "name": "Ceriflor",
+    "url": "421.json"
+  },
+  "422": {
+    "id": 422,
+    "num": 422,
+    "name": "Sancoki",
+    "url": "422.json"
+  },
+  "423": {
+    "id": 423,
+    "num": 423,
+    "name": "Tritosor",
+    "url": "423.json"
+  },
+  "424": {
+    "id": 424,
+    "num": 424,
+    "name": "Capidextre",
+    "url": "424.json"
+  },
+  "425": {
+    "id": 425,
+    "num": 425,
+    "name": "Baudrive",
+    "url": "425.json"
+  },
+  "426": {
+    "id": 426,
+    "num": 426,
+    "name": "Grodrive",
+    "url": "426.json"
+  },
+  "427": {
+    "id": 427,
+    "num": 427,
+    "name": "Laporeille",
+    "url": "427.json"
+  },
+  "428": {
+    "id": 428,
+    "num": 428,
+    "name": "Lockpin",
+    "url": "428.json"
+  },
+  "429": {
+    "id": 429,
+    "num": 429,
+    "name": "Magirêve",
+    "url": "429.json"
+  },
+  "430": {
+    "id": 430,
+    "num": 430,
+    "name": "Corboss",
+    "url": "430.json"
+  },
+  "431": {
+    "id": 431,
+    "num": 431,
+    "name": "Chaglam",
+    "url": "431.json"
+  },
+  "432": {
+    "id": 432,
+    "num": 432,
+    "name": "東施喵",
+    "url": "432.json"
+  },
+  "433": {
+    "id": 433,
+    "num": 433,
+    "name": "Korillon",
+    "url": "433.json"
+  },
+  "434": {
+    "id": 434,
+    "num": 434,
+    "name": "Moufouette",
+    "url": "434.json"
+  },
+  "435": {
+    "id": 435,
+    "num": 435,
+    "name": "Moufflair",
+    "url": "435.json"
+  },
+  "436": {
+    "id": 436,
+    "num": 436,
+    "name": "Archéomire",
+    "url": "436.json"
+  },
+  "437": {
+    "id": 437,
+    "num": 437,
+    "name": "Archéodong",
+    "url": "437.json"
+  },
+  "438": {
+    "id": 438,
+    "num": 438,
+    "name": "Manzaï",
+    "url": "438.json"
+  },
+  "439": {
+    "id": 439,
+    "num": 439,
+    "name": "Mime Jr.",
+    "url": "439.json"
+  },
+  "440": {
+    "id": 440,
+    "num": 440,
+    "name": "Ptiravi",
+    "url": "440.json"
+  },
+  "441": {
+    "id": 441,
+    "num": 441,
+    "name": "Pijako",
+    "url": "441.json"
+  },
+  "442": {
+    "id": 442,
+    "num": 442,
+    "name": "Spiritomb",
+    "url": "442.json"
+  },
+  "443": {
+    "id": 443,
+    "num": 443,
+    "name": "Griknot",
+    "url": "443.json"
+  },
+  "444": {
+    "id": 444,
+    "num": 444,
+    "name": "Carmache",
+    "url": "444.json"
+  },
+  "445": {
+    "id": 445,
+    "num": 445,
+    "name": "Carchacrok",
+    "url": "445.json"
+  },
+  "446": {
+    "id": 446,
+    "num": 446,
+    "name": "Goinfrex",
+    "url": "446.json"
+  },
+  "447": {
+    "id": 447,
+    "num": 447,
+    "name": "Riolu",
+    "url": "447.json"
+  },
+  "448": {
+    "id": 448,
+    "num": 448,
+    "name": "Lucario",
+    "url": "448.json"
+  },
+  "449": {
+    "id": 449,
+    "num": 449,
+    "name": "Hippopotas",
+    "url": "449.json"
+  },
+  "450": {
+    "id": 450,
+    "num": 450,
+    "name": "Hippodocus",
+    "url": "450.json"
+  },
+  "451": {
+    "id": 451,
+    "num": 451,
+    "name": "Rapion",
+    "url": "451.json"
+  },
+  "452": {
+    "id": 452,
+    "num": 452,
+    "name": "Drascore",
+    "url": "452.json"
+  },
+  "453": {
+    "id": 453,
+    "num": 453,
+    "name": "Cradopaud",
+    "url": "453.json"
+  },
+  "454": {
+    "id": 454,
+    "num": 454,
+    "name": "Coatox",
+    "url": "454.json"
+  },
+  "455": {
+    "id": 455,
+    "num": 455,
+    "name": "Vortente",
+    "url": "455.json"
+  },
+  "456": {
+    "id": 456,
+    "num": 456,
+    "name": "Écayon",
+    "url": "456.json"
+  },
+  "457": {
+    "id": 457,
+    "num": 457,
+    "name": "Luminéon",
+    "url": "457.json"
+  },
+  "458": {
+    "id": 458,
+    "num": 458,
+    "name": "Babimanta",
+    "url": "458.json"
+  },
+  "459": {
+    "id": 459,
+    "num": 459,
+    "name": "Blizzi",
+    "url": "459.json"
+  },
+  "460": {
+    "id": 460,
+    "num": 460,
+    "name": "Blizzaroi",
+    "url": "460.json"
+  },
+  "461": {
+    "id": 461,
+    "num": 461,
+    "name": "Dimoret",
+    "url": "461.json"
+  },
+  "462": {
+    "id": 462,
+    "num": 462,
+    "name": "Magnézone",
+    "url": "462.json"
+  },
+  "463": {
+    "id": 463,
+    "num": 463,
+    "name": "Coudlangue",
+    "url": "463.json"
+  },
+  "464": {
+    "id": 464,
+    "num": 464,
+    "name": "Rhinastoc",
+    "url": "464.json"
+  },
+  "465": {
+    "id": 465,
+    "num": 465,
+    "name": "Bouldeneu",
+    "url": "465.json"
+  },
+  "466": {
+    "id": 466,
+    "num": 466,
+    "name": "Élekable",
+    "url": "466.json"
+  },
+  "467": {
+    "id": 467,
+    "num": 467,
+    "name": "Maganon",
+    "url": "467.json"
+  },
+  "468": {
+    "id": 468,
+    "num": 468,
+    "name": "Togekiss",
+    "url": "468.json"
+  },
+  "469": {
+    "id": 469,
+    "num": 469,
+    "name": "Yanmega",
+    "url": "469.json"
+  },
+  "470": {
+    "id": 470,
+    "num": 470,
+    "name": "Phyllali",
+    "url": "470.json"
+  },
+  "471": {
+    "id": 471,
+    "num": 471,
+    "name": "Givrali",
+    "url": "471.json"
+  },
+  "472": {
+    "id": 472,
+    "num": 472,
+    "name": "Scorvol",
+    "url": "472.json"
+  },
+  "473": {
+    "id": 473,
+    "num": 473,
+    "name": "Mammochon",
+    "url": "473.json"
+  },
+  "474": {
+    "id": 474,
+    "num": 474,
+    "name": "Porygon-Z",
+    "url": "474.json"
+  },
+  "475": {
+    "id": 475,
+    "num": 475,
+    "name": "Gallame",
+    "url": "475.json"
+  },
+  "476": {
+    "id": 476,
+    "num": 476,
+    "name": "Tarinorme",
+    "url": "476.json"
+  },
+  "477": {
+    "id": 477,
+    "num": 477,
+    "name": "Noctunoir",
+    "url": "477.json"
+  },
+  "478": {
+    "id": 478,
+    "num": 478,
+    "name": "Momartik",
+    "url": "478.json"
+  },
+  "479": {
+    "id": 479,
+    "num": 479,
+    "name": "Motisma",
+    "url": "479.json"
+  },
+  "480": {
+    "id": 480,
+    "num": 480,
+    "name": "Créhelf",
+    "url": "480.json"
+  },
+  "481": {
+    "id": 481,
+    "num": 481,
+    "name": "Créfollet",
+    "url": "481.json"
+  },
+  "482": {
+    "id": 482,
+    "num": 482,
+    "name": "Créfadet",
+    "url": "482.json"
+  },
+  "483": {
+    "id": 483,
+    "num": 483,
+    "name": "Dialga",
+    "url": "483.json"
+  },
+  "484": {
+    "id": 484,
+    "num": 484,
+    "name": "Palkia",
+    "url": "484.json"
+  },
+  "485": {
+    "id": 485,
+    "num": 485,
+    "name": "Heatran",
+    "url": "485.json"
+  },
+  "486": {
+    "id": 486,
+    "num": 486,
+    "name": "Regigigas",
+    "url": "486.json"
+  },
+  "487": {
+    "id": 487,
+    "num": 487,
+    "name": "Giratina",
+    "url": "487.json"
+  },
+  "488": {
+    "id": 488,
+    "num": 488,
+    "name": "Cresselia",
+    "url": "488.json"
+  },
+  "489": {
+    "id": 489,
+    "num": 489,
+    "name": "Phione",
+    "url": "489.json"
+  },
+  "490": {
+    "id": 490,
+    "num": 490,
+    "name": "Manaphy",
+    "url": "490.json"
+  },
+  "491": {
+    "id": 491,
+    "num": 491,
+    "name": "Darkrai",
+    "url": "491.json"
+  },
+  "492": {
+    "id": 492,
+    "num": 492,
+    "name": "Shaymin",
+    "url": "492.json"
+  },
+  "493": {
+    "id": 493,
+    "num": 493,
+    "name": "Arceus",
+    "url": "493.json"
+  },
+  "494": {
+    "id": 494,
+    "num": 494,
+    "name": "Victini",
+    "url": "494.json"
+  },
+  "495": {
+    "id": 495,
+    "num": 495,
+    "name": "Vipélierre",
+    "url": "495.json"
+  },
+  "496": {
+    "id": 496,
+    "num": 496,
+    "name": "Lianaja",
+    "url": "496.json"
+  },
+  "497": {
+    "id": 497,
+    "num": 497,
+    "name": "Majaspic",
+    "url": "497.json"
+  },
+  "498": {
+    "id": 498,
+    "num": 498,
+    "name": "Gruikui",
+    "url": "498.json"
+  },
+  "499": {
+    "id": 499,
+    "num": 499,
+    "name": "Grotichon",
+    "url": "499.json"
+  },
+  "500": {
+    "id": 500,
+    "num": 500,
+    "name": "Roitiflam",
+    "url": "500.json"
+  },
+  "501": {
+    "id": 501,
+    "num": 501,
+    "name": "Moustillon",
+    "url": "501.json"
+  },
+  "502": {
+    "id": 502,
+    "num": 502,
+    "name": "Mateloutre",
+    "url": "502.json"
+  },
+  "503": {
+    "id": 503,
+    "num": 503,
+    "name": "Clamiral",
+    "url": "503.json"
+  },
+  "504": {
+    "id": 504,
+    "num": 504,
+    "name": "Ratentif",
+    "url": "504.json"
+  },
+  "505": {
+    "id": 505,
+    "num": 505,
+    "name": "步哨鼠",
+    "url": "505.json"
+  },
+  "506": {
+    "id": 506,
+    "num": 506,
+    "name": "Ponchiot",
+    "url": "506.json"
+  },
+  "507": {
+    "id": 507,
+    "num": 507,
+    "name": "Ponchien",
+    "url": "507.json"
+  },
+  "508": {
+    "id": 508,
+    "num": 508,
+    "name": "Mastouffe",
+    "url": "508.json"
+  },
+  "509": {
+    "id": 509,
+    "num": 509,
+    "name": "Chacripan",
+    "url": "509.json"
+  },
+  "510": {
+    "id": 510,
+    "num": 510,
+    "name": "Léopardus",
+    "url": "510.json"
+  },
+  "511": {
+    "id": 511,
+    "num": 511,
+    "name": "Feuillajou",
+    "url": "511.json"
+  },
+  "512": {
+    "id": 512,
+    "num": 512,
+    "name": "Feuiloutan",
+    "url": "512.json"
+  },
+  "513": {
+    "id": 513,
+    "num": 513,
+    "name": "Flamajou",
+    "url": "513.json"
+  },
+  "514": {
+    "id": 514,
+    "num": 514,
+    "name": "Flamoutan",
+    "url": "514.json"
+  },
+  "515": {
+    "id": 515,
+    "num": 515,
+    "name": "Flotajou",
+    "url": "515.json"
+  },
+  "516": {
+    "id": 516,
+    "num": 516,
+    "name": "Flotoutan",
+    "url": "516.json"
+  },
+  "517": {
+    "id": 517,
+    "num": 517,
+    "name": "Munna",
+    "url": "517.json"
+  },
+  "518": {
+    "id": 518,
+    "num": 518,
+    "name": "Mushana",
+    "url": "518.json"
+  },
+  "519": {
+    "id": 519,
+    "num": 519,
+    "name": "Poichigeon",
+    "url": "519.json"
+  },
+  "520": {
+    "id": 520,
+    "num": 520,
+    "name": "Colombeau",
+    "url": "520.json"
+  },
+  "521": {
+    "id": 521,
+    "num": 521,
+    "name": "Déflaisan",
+    "url": "521.json"
+  },
+  "522": {
+    "id": 522,
+    "num": 522,
+    "name": "Zébibron",
+    "url": "522.json"
+  },
+  "523": {
+    "id": 523,
+    "num": 523,
+    "name": "Zéblitz",
+    "url": "523.json"
+  },
+  "524": {
+    "id": 524,
+    "num": 524,
+    "name": "Nodulithe",
+    "url": "524.json"
+  },
+  "525": {
+    "id": 525,
+    "num": 525,
+    "name": "Géolithe",
+    "url": "525.json"
+  },
+  "526": {
+    "id": 526,
+    "num": 526,
+    "name": "Gigalithe",
+    "url": "526.json"
+  },
+  "527": {
+    "id": 527,
+    "num": 527,
+    "name": "Chovsourir",
+    "url": "527.json"
+  },
+  "528": {
+    "id": 528,
+    "num": 528,
+    "name": "Rhinolove",
+    "url": "528.json"
+  },
+  "529": {
+    "id": 529,
+    "num": 529,
+    "name": "Rototaupe",
+    "url": "529.json"
+  },
+  "530": {
+    "id": 530,
+    "num": 530,
+    "name": "Minotaupe",
+    "url": "530.json"
+  },
+  "531": {
+    "id": 531,
+    "num": 531,
+    "name": "Nanméouïe",
+    "url": "531.json"
+  },
+  "532": {
+    "id": 532,
+    "num": 532,
+    "name": "Charpenti",
+    "url": "532.json"
+  },
+  "533": {
+    "id": 533,
+    "num": 533,
+    "name": "Ouvrifier",
+    "url": "533.json"
+  },
+  "534": {
+    "id": 534,
+    "num": 534,
+    "name": "Bétochef",
+    "url": "534.json"
+  },
+  "535": {
+    "id": 535,
+    "num": 535,
+    "name": "Tritonde",
+    "url": "535.json"
+  },
+  "536": {
+    "id": 536,
+    "num": 536,
+    "name": "Batracné",
+    "url": "536.json"
+  },
+  "537": {
+    "id": 537,
+    "num": 537,
+    "name": "Crapustule",
+    "url": "537.json"
+  },
+  "538": {
+    "id": 538,
+    "num": 538,
+    "name": "Judokrak",
+    "url": "538.json"
+  },
+  "539": {
+    "id": 539,
+    "num": 539,
+    "name": "Karaclée",
+    "url": "539.json"
+  },
+  "540": {
+    "id": 540,
+    "num": 540,
+    "name": "Larveyette",
+    "url": "540.json"
+  },
+  "541": {
+    "id": 541,
+    "num": 541,
+    "name": "Couverdure",
+    "url": "541.json"
+  },
+  "542": {
+    "id": 542,
+    "num": 542,
+    "name": "Manternel",
+    "url": "542.json"
+  },
+  "543": {
+    "id": 543,
+    "num": 543,
+    "name": "Venipatte",
+    "url": "543.json"
+  },
+  "544": {
+    "id": 544,
+    "num": 544,
+    "name": "Scobolide",
+    "url": "544.json"
+  },
+  "545": {
+    "id": 545,
+    "num": 545,
+    "name": "Brutapode",
+    "url": "545.json"
+  },
+  "546": {
+    "id": 546,
+    "num": 546,
+    "name": "Doudouvet",
+    "url": "546.json"
+  },
+  "547": {
+    "id": 547,
+    "num": 547,
+    "name": "Farfaduvet",
+    "url": "547.json"
+  },
+  "548": {
+    "id": 548,
+    "num": 548,
+    "name": "Chlorobule",
+    "url": "548.json"
+  },
+  "549": {
+    "id": 549,
+    "num": 549,
+    "name": "Fragilady",
+    "url": "549.json"
+  },
+  "550": {
+    "id": 550,
+    "num": 550,
+    "name": "Bargantua",
+    "url": "550.json"
+  },
+  "551": {
+    "id": 551,
+    "num": 551,
+    "name": "Mascaïman",
+    "url": "551.json"
+  },
+  "552": {
+    "id": 552,
+    "num": 552,
+    "name": "Escroco",
+    "url": "552.json"
+  },
+  "553": {
+    "id": 553,
+    "num": 553,
+    "name": "Crocorible",
+    "url": "553.json"
+  },
+  "554": {
+    "id": 554,
+    "num": 554,
+    "name": "Darumarond",
+    "url": "554.json"
+  },
+  "555": {
+    "id": 555,
+    "num": 555,
+    "name": "Darumacho",
+    "url": "555.json"
+  },
+  "556": {
+    "id": 556,
+    "num": 556,
+    "name": "Maracachi",
+    "url": "556.json"
+  },
+  "557": {
+    "id": 557,
+    "num": 557,
+    "name": "Crabicoque",
+    "url": "557.json"
+  },
+  "558": {
+    "id": 558,
+    "num": 558,
+    "name": "Crabaraque",
+    "url": "558.json"
+  },
+  "559": {
+    "id": 559,
+    "num": 559,
+    "name": "Baggiguane",
+    "url": "559.json"
+  },
+  "560": {
+    "id": 560,
+    "num": 560,
+    "name": "Baggaïd",
+    "url": "560.json"
+  },
+  "561": {
+    "id": 561,
+    "num": 561,
+    "name": "Cryptéro",
+    "url": "561.json"
+  },
+  "562": {
+    "id": 562,
+    "num": 562,
+    "name": "Tutafeh",
+    "url": "562.json"
+  },
+  "563": {
+    "id": 563,
+    "num": 563,
+    "name": "Tutankafer",
+    "url": "563.json"
+  },
+  "564": {
+    "id": 564,
+    "num": 564,
+    "name": "Carapagos",
+    "url": "564.json"
+  },
+  "565": {
+    "id": 565,
+    "num": 565,
+    "name": "Mégapagos",
+    "url": "565.json"
+  },
+  "566": {
+    "id": 566,
+    "num": 566,
+    "name": "Arkéapti",
+    "url": "566.json"
+  },
+  "567": {
+    "id": 567,
+    "num": 567,
+    "name": "Aéroptéryx",
+    "url": "567.json"
+  },
+  "568": {
+    "id": 568,
+    "num": 568,
+    "name": "Miamiasme",
+    "url": "568.json"
+  },
+  "569": {
+    "id": 569,
+    "num": 569,
+    "name": "Miasmax",
+    "url": "569.json"
+  },
+  "570": {
+    "id": 570,
+    "num": 570,
+    "name": "Zorua",
+    "url": "570.json"
+  },
+  "571": {
+    "id": 571,
+    "num": 571,
+    "name": "Zoroark",
+    "url": "571.json"
+  },
+  "572": {
+    "id": 572,
+    "num": 572,
+    "name": "Chinchidou",
+    "url": "572.json"
+  },
+  "573": {
+    "id": 573,
+    "num": 573,
+    "name": "Pashmilla",
+    "url": "573.json"
+  },
+  "574": {
+    "id": 574,
+    "num": 574,
+    "name": "Scrutella",
+    "url": "574.json"
+  },
+  "575": {
+    "id": 575,
+    "num": 575,
+    "name": "Mesmérella",
+    "url": "575.json"
+  },
+  "576": {
+    "id": 576,
+    "num": 576,
+    "name": "Sidérella",
+    "url": "576.json"
+  },
+  "577": {
+    "id": 577,
+    "num": 577,
+    "name": "Nucléos",
+    "url": "577.json"
+  },
+  "578": {
+    "id": 578,
+    "num": 578,
+    "name": "Méios",
+    "url": "578.json"
+  },
+  "579": {
+    "id": 579,
+    "num": 579,
+    "name": "Symbios",
+    "url": "579.json"
+  },
+  "580": {
+    "id": 580,
+    "num": 580,
+    "name": "Couaneton",
+    "url": "580.json"
+  },
+  "581": {
+    "id": 581,
+    "num": 581,
+    "name": "Lakmécygne",
+    "url": "581.json"
+  },
+  "582": {
+    "id": 582,
+    "num": 582,
+    "name": "Sorbébé",
+    "url": "582.json"
+  },
+  "583": {
+    "id": 583,
+    "num": 583,
+    "name": "Sorboul",
+    "url": "583.json"
+  },
+  "584": {
+    "id": 584,
+    "num": 584,
+    "name": "Sorbouboul",
+    "url": "584.json"
+  },
+  "585": {
+    "id": 585,
+    "num": 585,
+    "name": "Vivaldaim",
+    "url": "585.json"
+  },
+  "586": {
+    "id": 586,
+    "num": 586,
+    "name": "Haydaim",
+    "url": "586.json"
+  },
+  "587": {
+    "id": 587,
+    "num": 587,
+    "name": "Emolga",
+    "url": "587.json"
+  },
+  "588": {
+    "id": 588,
+    "num": 588,
+    "name": "Carabing",
+    "url": "588.json"
+  },
+  "589": {
+    "id": 589,
+    "num": 589,
+    "name": "Lançargot",
+    "url": "589.json"
+  },
+  "590": {
+    "id": 590,
+    "num": 590,
+    "name": "Trompignon",
+    "url": "590.json"
+  },
+  "591": {
+    "id": 591,
+    "num": 591,
+    "name": "Gaulet",
+    "url": "591.json"
+  },
+  "592": {
+    "id": 592,
+    "num": 592,
+    "name": "Viskuse",
+    "url": "592.json"
+  },
+  "593": {
+    "id": 593,
+    "num": 593,
+    "name": "Moyade",
+    "url": "593.json"
+  },
+  "594": {
+    "id": 594,
+    "num": 594,
+    "name": "Mamanbo",
+    "url": "594.json"
+  },
+  "595": {
+    "id": 595,
+    "num": 595,
+    "name": "Statitik",
+    "url": "595.json"
+  },
+  "596": {
+    "id": 596,
+    "num": 596,
+    "name": "Mygavolt",
+    "url": "596.json"
+  },
+  "597": {
+    "id": 597,
+    "num": 597,
+    "name": "Grindur",
+    "url": "597.json"
+  },
+  "598": {
+    "id": 598,
+    "num": 598,
+    "name": "Noacier",
+    "url": "598.json"
+  },
+  "599": {
+    "id": 599,
+    "num": 599,
+    "name": "Tic",
+    "url": "599.json"
+  },
+  "600": {
+    "id": 600,
+    "num": 600,
+    "name": "Clic",
+    "url": "600.json"
+  },
+  "601": {
+    "id": 601,
+    "num": 601,
+    "name": "Cliticlic",
+    "url": "601.json"
+  },
+  "602": {
+    "id": 602,
+    "num": 602,
+    "name": "Anchwatt",
+    "url": "602.json"
+  },
+  "603": {
+    "id": 603,
+    "num": 603,
+    "name": "Lampéroie",
+    "url": "603.json"
+  },
+  "604": {
+    "id": 604,
+    "num": 604,
+    "name": "Ohmassacre",
+    "url": "604.json"
+  },
+  "605": {
+    "id": 605,
+    "num": 605,
+    "name": "Lewsor",
+    "url": "605.json"
+  },
+  "606": {
+    "id": 606,
+    "num": 606,
+    "name": "Neitram",
+    "url": "606.json"
+  },
+  "607": {
+    "id": 607,
+    "num": 607,
+    "name": "Funécire",
+    "url": "607.json"
+  },
+  "608": {
+    "id": 608,
+    "num": 608,
+    "name": "Mélancolux",
+    "url": "608.json"
+  },
+  "609": {
+    "id": 609,
+    "num": 609,
+    "name": "Lugulabre",
+    "url": "609.json"
+  },
+  "610": {
+    "id": 610,
+    "num": 610,
+    "name": "Coupenotte",
+    "url": "610.json"
+  },
+  "611": {
+    "id": 611,
+    "num": 611,
+    "name": "Incisache",
+    "url": "611.json"
+  },
+  "612": {
+    "id": 612,
+    "num": 612,
+    "name": "Tranchodon",
+    "url": "612.json"
+  },
+  "613": {
+    "id": 613,
+    "num": 613,
+    "name": "Polarhume",
+    "url": "613.json"
+  },
+  "614": {
+    "id": 614,
+    "num": 614,
+    "name": "Polagriffe",
+    "url": "614.json"
+  },
+  "615": {
+    "id": 615,
+    "num": 615,
+    "name": "Hexagel",
+    "url": "615.json"
+  },
+  "616": {
+    "id": 616,
+    "num": 616,
+    "name": "Escargaume",
+    "url": "616.json"
+  },
+  "617": {
+    "id": 617,
+    "num": 617,
+    "name": "Limaspeed",
+    "url": "617.json"
+  },
+  "618": {
+    "id": 618,
+    "num": 618,
+    "name": "Limonde",
+    "url": "618.json"
+  },
+  "619": {
+    "id": 619,
+    "num": 619,
+    "name": "Kungfouine",
+    "url": "619.json"
+  },
+  "620": {
+    "id": 620,
+    "num": 620,
+    "name": "Shaofouine",
+    "url": "620.json"
+  },
+  "621": {
+    "id": 621,
+    "num": 621,
+    "name": "Drakkarmin",
+    "url": "621.json"
+  },
+  "622": {
+    "id": 622,
+    "num": 622,
+    "name": "Gringolem",
+    "url": "622.json"
+  },
+  "623": {
+    "id": 623,
+    "num": 623,
+    "name": "Golemastoc",
+    "url": "623.json"
+  },
+  "624": {
+    "id": 624,
+    "num": 624,
+    "name": "Scalpion",
+    "url": "624.json"
+  },
+  "625": {
+    "id": 625,
+    "num": 625,
+    "name": "Scalproie",
+    "url": "625.json"
+  },
+  "626": {
+    "id": 626,
+    "num": 626,
+    "name": "Frison",
+    "url": "626.json"
+  },
+  "627": {
+    "id": 627,
+    "num": 627,
+    "name": "Furaiglon",
+    "url": "627.json"
+  },
+  "628": {
+    "id": 628,
+    "num": 628,
+    "name": "Gueriaigle",
+    "url": "628.json"
+  },
+  "629": {
+    "id": 629,
+    "num": 629,
+    "name": "Vostourno",
+    "url": "629.json"
+  },
+  "630": {
+    "id": 630,
+    "num": 630,
+    "name": "Vaututrice",
+    "url": "630.json"
+  },
+  "631": {
+    "id": 631,
+    "num": 631,
+    "name": "Aflamanoir",
+    "url": "631.json"
+  },
+  "632": {
+    "id": 632,
+    "num": 632,
+    "name": "Fermite",
+    "url": "632.json"
+  },
+  "633": {
+    "id": 633,
+    "num": 633,
+    "name": "Solochi",
+    "url": "633.json"
+  },
+  "634": {
+    "id": 634,
+    "num": 634,
+    "name": "Diamat",
+    "url": "634.json"
+  },
+  "635": {
+    "id": 635,
+    "num": 635,
+    "name": "Trioxhydre",
+    "url": "635.json"
+  },
+  "636": {
+    "id": 636,
+    "num": 636,
+    "name": "Pyronille",
+    "url": "636.json"
+  },
+  "637": {
+    "id": 637,
+    "num": 637,
+    "name": "Pyrax",
+    "url": "637.json"
+  },
+  "638": {
+    "id": 638,
+    "num": 638,
+    "name": "Cobaltium",
+    "url": "638.json"
+  },
+  "639": {
+    "id": 639,
+    "num": 639,
+    "name": "Terrakium",
+    "url": "639.json"
+  },
+  "640": {
+    "id": 640,
+    "num": 640,
+    "name": "Viridium",
+    "url": "640.json"
+  },
+  "641": {
+    "id": 641,
+    "num": 641,
+    "name": "Boréas",
+    "url": "641.json"
+  },
+  "642": {
+    "id": 642,
+    "num": 642,
+    "name": "Fulguris",
+    "url": "642.json"
+  },
+  "643": {
+    "id": 643,
+    "num": 643,
+    "name": "Reshiram",
+    "url": "643.json"
+  },
+  "644": {
+    "id": 644,
+    "num": 644,
+    "name": "Zekrom",
+    "url": "644.json"
+  },
+  "645": {
+    "id": 645,
+    "num": 645,
+    "name": "Démétéros",
+    "url": "645.json"
+  },
+  "646": {
+    "id": 646,
+    "num": 646,
+    "name": "Kyurem",
+    "url": "646.json"
+  },
+  "647": {
+    "id": 647,
+    "num": 647,
+    "name": "Keldeo",
+    "url": "647.json"
+  },
+  "648": {
+    "id": 648,
+    "num": 648,
+    "name": "Meloetta",
+    "url": "648.json"
+  },
+  "649": {
+    "id": 649,
+    "num": 649,
+    "name": "Genesect",
+    "url": "649.json"
+  },
+  "650": {
+    "id": 650,
+    "num": 650,
+    "name": "Marisson",
+    "url": "650.json"
+  },
+  "651": {
+    "id": 651,
+    "num": 651,
+    "name": "Boguérisse",
+    "url": "651.json"
+  },
+  "652": {
+    "id": 652,
+    "num": 652,
+    "name": "Blindépique",
+    "url": "652.json"
+  },
+  "653": {
+    "id": 653,
+    "num": 653,
+    "name": "Feunnec",
+    "url": "653.json"
+  },
+  "654": {
+    "id": 654,
+    "num": 654,
+    "name": "Roussil",
+    "url": "654.json"
+  },
+  "655": {
+    "id": 655,
+    "num": 655,
+    "name": "Goupelin",
+    "url": "655.json"
+  },
+  "656": {
+    "id": 656,
+    "num": 656,
+    "name": "Grenousse",
+    "url": "656.json"
+  },
+  "657": {
+    "id": 657,
+    "num": 657,
+    "name": "Croâporal",
+    "url": "657.json"
+  },
+  "658": {
+    "id": 658,
+    "num": 658,
+    "name": "Amphinobi",
+    "url": "658.json"
+  },
+  "659": {
+    "id": 659,
+    "num": 659,
+    "name": "Sapereau",
+    "url": "659.json"
+  },
+  "660": {
+    "id": 660,
+    "num": 660,
+    "name": "Excavarenne",
+    "url": "660.json"
+  },
+  "661": {
+    "id": 661,
+    "num": 661,
+    "name": "Passerouge",
+    "url": "661.json"
+  },
+  "662": {
+    "id": 662,
+    "num": 662,
+    "name": "Braisillon",
+    "url": "662.json"
+  },
+  "663": {
+    "id": 663,
+    "num": 663,
+    "name": "Flambusard",
+    "url": "663.json"
+  },
+  "664": {
+    "id": 664,
+    "num": 664,
+    "name": "Lépidonille",
+    "url": "664.json"
+  },
+  "665": {
+    "id": 665,
+    "num": 665,
+    "name": "Pérégrain",
+    "url": "665.json"
+  },
+  "666": {
+    "id": 666,
+    "num": 666,
+    "name": "Prismillon",
+    "url": "666.json"
+  },
+  "667": {
+    "id": 667,
+    "num": 667,
+    "name": "Hélionceau",
+    "url": "667.json"
+  },
+  "668": {
+    "id": 668,
+    "num": 668,
+    "name": "Némélios",
+    "url": "668.json"
+  },
+  "669": {
+    "id": 669,
+    "num": 669,
+    "name": "Flabébé",
+    "url": "669.json"
+  },
+  "670": {
+    "id": 670,
+    "num": 670,
+    "name": "Floette",
+    "url": "670.json"
+  },
+  "671": {
+    "id": 671,
+    "num": 671,
+    "name": "Florges",
+    "url": "671.json"
+  },
+  "672": {
+    "id": 672,
+    "num": 672,
+    "name": "Cabriolaine",
+    "url": "672.json"
+  },
+  "673": {
+    "id": 673,
+    "num": 673,
+    "name": "Chevroum",
+    "url": "673.json"
+  },
+  "674": {
+    "id": 674,
+    "num": 674,
+    "name": "Pandespiègle",
+    "url": "674.json"
+  },
+  "675": {
+    "id": 675,
+    "num": 675,
+    "name": "Pandarbare",
+    "url": "675.json"
+  },
+  "676": {
+    "id": 676,
+    "num": 676,
+    "name": "Couafarel",
+    "url": "676.json"
+  },
+  "677": {
+    "id": 677,
+    "num": 677,
+    "name": "Psystigri",
+    "url": "677.json"
+  },
+  "678": {
+    "id": 678,
+    "num": 678,
+    "name": "Mistigrix",
+    "url": "678.json"
+  },
+  "679": {
+    "id": 679,
+    "num": 679,
+    "name": "Monorpale",
+    "url": "679.json"
+  },
+  "680": {
+    "id": 680,
+    "num": 680,
+    "name": "Dimoclès",
+    "url": "680.json"
+  },
+  "681": {
+    "id": 681,
+    "num": 681,
+    "name": "Exagide",
+    "url": "681.json"
+  },
+  "682": {
+    "id": 682,
+    "num": 682,
+    "name": "Fluvetin",
+    "url": "682.json"
+  },
+  "683": {
+    "id": 683,
+    "num": 683,
+    "name": "Cocotine",
+    "url": "683.json"
+  },
+  "684": {
+    "id": 684,
+    "num": 684,
+    "name": "Sucroquin",
+    "url": "684.json"
+  },
+  "685": {
+    "id": 685,
+    "num": 685,
+    "name": "Cupcanaille",
+    "url": "685.json"
+  },
+  "686": {
+    "id": 686,
+    "num": 686,
+    "name": "Sepiatop",
+    "url": "686.json"
+  },
+  "687": {
+    "id": 687,
+    "num": 687,
+    "name": "Sepiatroce",
+    "url": "687.json"
+  },
+  "688": {
+    "id": 688,
+    "num": 688,
+    "name": "Opermine",
+    "url": "688.json"
+  },
+  "689": {
+    "id": 689,
+    "num": 689,
+    "name": "Golgopathe",
+    "url": "689.json"
+  },
+  "690": {
+    "id": 690,
+    "num": 690,
+    "name": "Venalgue",
+    "url": "690.json"
+  },
+  "691": {
+    "id": 691,
+    "num": 691,
+    "name": "Kravarech",
+    "url": "691.json"
+  },
+  "692": {
+    "id": 692,
+    "num": 692,
+    "name": "Flingouste",
+    "url": "692.json"
+  },
+  "693": {
+    "id": 693,
+    "num": 693,
+    "name": "Gamblast",
+    "url": "693.json"
+  },
+  "694": {
+    "id": 694,
+    "num": 694,
+    "name": "Galvaran",
+    "url": "694.json"
+  },
+  "695": {
+    "id": 695,
+    "num": 695,
+    "name": "Iguolta",
+    "url": "695.json"
+  },
+  "696": {
+    "id": 696,
+    "num": 696,
+    "name": "Ptyranidur",
+    "url": "696.json"
+  },
+  "697": {
+    "id": 697,
+    "num": 697,
+    "name": "Rexillius",
+    "url": "697.json"
+  },
+  "698": {
+    "id": 698,
+    "num": 698,
+    "name": "Amagara",
+    "url": "698.json"
+  },
+  "699": {
+    "id": 699,
+    "num": 699,
+    "name": "Dragmara",
+    "url": "699.json"
+  },
+  "700": {
+    "id": 700,
+    "num": 700,
+    "name": "Nymphali",
+    "url": "700.json"
+  },
+  "701": {
+    "id": 701,
+    "num": 701,
+    "name": "Brutalibré",
+    "url": "701.json"
+  },
+  "702": {
+    "id": 702,
+    "num": 702,
+    "name": "Dedenne",
+    "url": "702.json"
+  },
+  "703": {
+    "id": 703,
+    "num": 703,
+    "name": "Strassie",
+    "url": "703.json"
+  },
+  "704": {
+    "id": 704,
+    "num": 704,
+    "name": "Mucuscule",
+    "url": "704.json"
+  },
+  "705": {
+    "id": 705,
+    "num": 705,
+    "name": "Colimucus",
+    "url": "705.json"
+  },
+  "706": {
+    "id": 706,
+    "num": 706,
+    "name": "Muplodocus",
+    "url": "706.json"
+  },
+  "707": {
+    "id": 707,
+    "num": 707,
+    "name": "Trousselin",
+    "url": "707.json"
+  },
+  "708": {
+    "id": 708,
+    "num": 708,
+    "name": "Brocélôme",
+    "url": "708.json"
+  },
+  "709": {
+    "id": 709,
+    "num": 709,
+    "name": "Desséliande",
+    "url": "709.json"
+  },
+  "710": {
+    "id": 710,
+    "num": 710,
+    "name": "Pitrouille",
+    "url": "710.json"
+  },
+  "711": {
+    "id": 711,
+    "num": 711,
+    "name": "Banshitrouye",
+    "url": "711.json"
+  },
+  "712": {
+    "id": 712,
+    "num": 712,
+    "name": "Grelaçon",
+    "url": "712.json"
+  },
+  "713": {
+    "id": 713,
+    "num": 713,
+    "name": "Séracrawl",
+    "url": "713.json"
+  },
+  "714": {
+    "id": 714,
+    "num": 714,
+    "name": "Sonistrelle",
+    "url": "714.json"
+  },
+  "715": {
+    "id": 715,
+    "num": 715,
+    "name": "Bruyverne",
+    "url": "715.json"
+  },
+  "716": {
+    "id": 716,
+    "num": 716,
+    "name": "Xerneas",
+    "url": "716.json"
+  },
+  "717": {
+    "id": 717,
+    "num": 717,
+    "name": "Yveltal",
+    "url": "717.json"
+  },
+  "718": {
+    "id": 718,
+    "num": 718,
+    "name": "Zygarde",
+    "url": "718.json"
+  },
+  "719": {
+    "id": 719,
+    "num": 719,
+    "name": "Diancie",
+    "url": "719.json"
+  },
+  "720": {
+    "id": 720,
+    "num": 720,
+    "name": "Hoopa",
+    "url": "720.json"
+  },
+  "721": {
+    "id": 721,
+    "num": 721,
+    "name": "Volcanion",
+    "url": "721.json"
+  },
+  "722": {
+    "id": 722,
+    "num": 722,
+    "name": "Brindibou",
+    "url": "722.json"
+  },
+  "723": {
+    "id": 723,
+    "num": 723,
+    "name": "Efflèche",
+    "url": "723.json"
+  },
+  "724": {
+    "id": 724,
+    "num": 724,
+    "name": "Archéduc",
+    "url": "724.json"
+  },
+  "725": {
+    "id": 725,
+    "num": 725,
+    "name": "Flamiaou",
+    "url": "725.json"
+  },
+  "726": {
+    "id": 726,
+    "num": 726,
+    "name": "Matoufeu",
+    "url": "726.json"
+  },
+  "727": {
+    "id": 727,
+    "num": 727,
+    "name": "Félinferno",
+    "url": "727.json"
+  },
+  "728": {
+    "id": 728,
+    "num": 728,
+    "name": "Otaquin",
+    "url": "728.json"
+  },
+  "729": {
+    "id": 729,
+    "num": 729,
+    "name": "Otarlette",
+    "url": "729.json"
+  },
+  "730": {
+    "id": 730,
+    "num": 730,
+    "name": "Oratoria",
+    "url": "730.json"
+  },
+  "731": {
+    "id": 731,
+    "num": 731,
+    "name": "Picassaut",
+    "url": "731.json"
+  },
+  "732": {
+    "id": 732,
+    "num": 732,
+    "name": "Piclairon",
+    "url": "732.json"
+  },
+  "733": {
+    "id": 733,
+    "num": 733,
+    "name": "Bazoucan",
+    "url": "733.json"
+  },
+  "734": {
+    "id": 734,
+    "num": 734,
+    "name": "Manglouton",
+    "url": "734.json"
+  },
+  "735": {
+    "id": 735,
+    "num": 735,
+    "name": "Argouste",
+    "url": "735.json"
+  },
+  "736": {
+    "id": 736,
+    "num": 736,
+    "name": "Larvibule",
+    "url": "736.json"
+  },
+  "737": {
+    "id": 737,
+    "num": 737,
+    "name": "Chrysapile",
+    "url": "737.json"
+  },
+  "738": {
+    "id": 738,
+    "num": 738,
+    "name": "Lucanon",
+    "url": "738.json"
+  },
+  "739": {
+    "id": 739,
+    "num": 739,
+    "name": "Crabagarre",
+    "url": "739.json"
+  },
+  "740": {
+    "id": 740,
+    "num": 740,
+    "name": "Crabominable",
+    "url": "740.json"
+  },
+  "741": {
+    "id": 741,
+    "num": 741,
+    "name": "Plumeline",
+    "url": "741.json"
+  },
+  "742": {
+    "id": 742,
+    "num": 742,
+    "name": "Bombydou",
+    "url": "742.json"
+  },
+  "743": {
+    "id": 743,
+    "num": 743,
+    "name": "Rubombelle",
+    "url": "743.json"
+  },
+  "744": {
+    "id": 744,
+    "num": 744,
+    "name": "Rocabot",
+    "url": "744.json"
+  },
+  "745": {
+    "id": 745,
+    "num": 745,
+    "name": "Lougaroc",
+    "url": "745.json"
+  },
+  "746": {
+    "id": 746,
+    "num": 746,
+    "name": "Froussardine",
+    "url": "746.json"
+  },
+  "747": {
+    "id": 747,
+    "num": 747,
+    "name": "Vorastérie",
+    "url": "747.json"
+  },
+  "748": {
+    "id": 748,
+    "num": 748,
+    "name": "Prédastérie",
+    "url": "748.json"
+  },
+  "749": {
+    "id": 749,
+    "num": 749,
+    "name": "Tiboudet",
+    "url": "749.json"
+  },
+  "750": {
+    "id": 750,
+    "num": 750,
+    "name": "Bourrinos",
+    "url": "750.json"
+  },
+  "751": {
+    "id": 751,
+    "num": 751,
+    "name": "Araqua",
+    "url": "751.json"
+  },
+  "752": {
+    "id": 752,
+    "num": 752,
+    "name": "Tarenbulle",
+    "url": "752.json"
+  },
+  "753": {
+    "id": 753,
+    "num": 753,
+    "name": "Mimantis",
+    "url": "753.json"
+  },
+  "754": {
+    "id": 754,
+    "num": 754,
+    "name": "Floramantis",
+    "url": "754.json"
+  },
+  "755": {
+    "id": 755,
+    "num": 755,
+    "name": "Spododo",
+    "url": "755.json"
+  },
+  "756": {
+    "id": 756,
+    "num": 756,
+    "name": "Lampignon",
+    "url": "756.json"
+  },
+  "757": {
+    "id": 757,
+    "num": 757,
+    "name": "Tritox",
+    "url": "757.json"
+  },
+  "758": {
+    "id": 758,
+    "num": 758,
+    "name": "Malamandre",
+    "url": "758.json"
+  },
+  "759": {
+    "id": 759,
+    "num": 759,
+    "name": "Nounourson",
+    "url": "759.json"
+  },
+  "760": {
+    "id": 760,
+    "num": 760,
+    "name": "Chelours",
+    "url": "760.json"
+  },
+  "761": {
+    "id": 761,
+    "num": 761,
+    "name": "Croquine",
+    "url": "761.json"
+  },
+  "762": {
+    "id": 762,
+    "num": 762,
+    "name": "甜舞妮",
+    "url": "762.json"
+  },
+  "763": {
+    "id": 763,
+    "num": 763,
+    "name": "Sucreine",
+    "url": "763.json"
+  },
+  "764": {
+    "id": 764,
+    "num": 764,
+    "name": "Guérilande",
+    "url": "764.json"
+  },
+  "765": {
+    "id": 765,
+    "num": 765,
+    "name": "Gouroutan",
+    "url": "765.json"
+  },
+  "766": {
+    "id": 766,
+    "num": 766,
+    "name": "Quartermac",
+    "url": "766.json"
+  },
+  "767": {
+    "id": 767,
+    "num": 767,
+    "name": "Sovkipou",
+    "url": "767.json"
+  },
+  "768": {
+    "id": 768,
+    "num": 768,
+    "name": "Sarmuraï",
+    "url": "768.json"
+  },
+  "769": {
+    "id": 769,
+    "num": 769,
+    "name": "Bacabouh",
+    "url": "769.json"
+  },
+  "770": {
+    "id": 770,
+    "num": 770,
+    "name": "Trépassable",
+    "url": "770.json"
+  },
+  "771": {
+    "id": 771,
+    "num": 771,
+    "name": "Concombaffe",
+    "url": "771.json"
+  },
+  "772": {
+    "id": 772,
+    "num": 772,
+    "name": "Type:0",
+    "url": "772.json"
+  },
+  "773": {
+    "id": 773,
+    "num": 773,
+    "name": "Silvallié",
+    "url": "773.json"
+  },
+  "774": {
+    "id": 774,
+    "num": 774,
+    "name": "Météno",
+    "url": "774.json"
+  },
+  "775": {
+    "id": 775,
+    "num": 775,
+    "name": "Dodoala",
+    "url": "775.json"
+  },
+  "776": {
+    "id": 776,
+    "num": 776,
+    "name": "Boumata",
+    "url": "776.json"
+  },
+  "777": {
+    "id": 777,
+    "num": 777,
+    "name": "Togedemaru",
+    "url": "777.json"
+  },
+  "778": {
+    "id": 778,
+    "num": 778,
+    "name": "Mimiqui",
+    "url": "778.json"
+  },
+  "779": {
+    "id": 779,
+    "num": 779,
+    "name": "Denticrisse",
+    "url": "779.json"
+  },
+  "780": {
+    "id": 780,
+    "num": 780,
+    "name": "Draïeul",
+    "url": "780.json"
+  },
+  "781": {
+    "id": 781,
+    "num": 781,
+    "name": "Sinistrail",
+    "url": "781.json"
+  },
+  "782": {
+    "id": 782,
+    "num": 782,
+    "name": "Bébécaille",
+    "url": "782.json"
+  },
+  "783": {
+    "id": 783,
+    "num": 783,
+    "name": "Écaïd",
+    "url": "783.json"
+  },
+  "784": {
+    "id": 784,
+    "num": 784,
+    "name": "Ékaïser",
+    "url": "784.json"
+  },
+  "785": {
+    "id": 785,
+    "num": 785,
+    "name": "Tokorico",
+    "url": "785.json"
+  },
+  "786": {
+    "id": 786,
+    "num": 786,
+    "name": "Tokopiyon",
+    "url": "786.json"
+  },
+  "787": {
+    "id": 787,
+    "num": 787,
+    "name": "Tokotoro",
+    "url": "787.json"
+  },
+  "788": {
+    "id": 788,
+    "num": 788,
+    "name": "Tokopisco",
+    "url": "788.json"
+  },
+  "789": {
+    "id": 789,
+    "num": 789,
+    "name": "Cosmog",
+    "url": "789.json"
+  },
+  "790": {
+    "id": 790,
+    "num": 790,
+    "name": "Cosmovum",
+    "url": "790.json"
+  },
+  "791": {
+    "id": 791,
+    "num": 791,
+    "name": "Solgaleo",
+    "url": "791.json"
+  },
+  "792": {
+    "id": 792,
+    "num": 792,
+    "name": "Lunala",
+    "url": "792.json"
+  },
+  "793": {
+    "id": 793,
+    "num": 793,
+    "name": "Zéroïd",
+    "url": "793.json"
+  },
+  "794": {
+    "id": 794,
+    "num": 794,
+    "name": "Mouscoto",
+    "url": "794.json"
+  },
+  "795": {
+    "id": 795,
+    "num": 795,
+    "name": "Cancrelove",
+    "url": "795.json"
+  },
+  "796": {
+    "id": 796,
+    "num": 796,
+    "name": "Câblifère",
+    "url": "796.json"
+  },
+  "797": {
+    "id": 797,
+    "num": 797,
+    "name": "Bamboiselle",
+    "url": "797.json"
+  },
+  "798": {
+    "id": 798,
+    "num": 798,
+    "name": "Katagami",
+    "url": "798.json"
+  },
+  "799": {
+    "id": 799,
+    "num": 799,
+    "name": "Engloutyran",
+    "url": "799.json"
+  },
+  "800": {
+    "id": 800,
+    "num": 800,
+    "name": "Necrozma",
+    "url": "800.json"
+  },
+  "801": {
+    "id": 801,
+    "num": 801,
+    "name": "Magearna",
+    "url": "801.json"
+  },
+  "802": {
+    "id": 802,
+    "num": 802,
+    "name": "Marshadow",
+    "url": "802.json"
+  },
+  "803": {
+    "id": 803,
+    "num": 803,
+    "name": "Vémini",
+    "url": "803.json"
+  },
+  "804": {
+    "id": 804,
+    "num": 804,
+    "name": "Mandrillon",
+    "url": "804.json"
+  },
+  "805": {
+    "id": 805,
+    "num": 805,
+    "name": "Ama-Ama",
+    "url": "805.json"
+  },
+  "806": {
+    "id": 806,
+    "num": 806,
+    "name": "Pierroteknik",
+    "url": "806.json"
+  },
+  "807": {
+    "id": 807,
+    "num": 807,
+    "name": "Zeraora",
+    "url": "807.json"
+  },
+  "808": {
+    "id": 808,
+    "num": 808,
+    "name": "Meltan",
+    "url": "808.json"
+  },
+  "809": {
+    "id": 809,
+    "num": 809,
+    "name": "Melmetal",
+    "url": "809.json"
+  },
+  "810": {
+    "id": 810,
+    "num": 810,
+    "name": "Ouistempo",
+    "url": "810.json"
+  },
+  "811": {
+    "id": 811,
+    "num": 811,
+    "name": "Badabouin",
+    "url": "811.json"
+  },
+  "812": {
+    "id": 812,
+    "num": 812,
+    "name": "Gorythmic",
+    "url": "812.json"
+  },
+  "813": {
+    "id": 813,
+    "num": 813,
+    "name": "Flambino",
+    "url": "813.json"
+  },
+  "814": {
+    "id": 814,
+    "num": 814,
+    "name": "Lapyro",
+    "url": "814.json"
+  },
+  "815": {
+    "id": 815,
+    "num": 815,
+    "name": "Pyrobut",
+    "url": "815.json"
+  },
+  "816": {
+    "id": 816,
+    "num": 816,
+    "name": "Larméléon",
+    "url": "816.json"
+  },
+  "817": {
+    "id": 817,
+    "num": 817,
+    "name": "Arrozard",
+    "url": "817.json"
+  },
+  "818": {
+    "id": 818,
+    "num": 818,
+    "name": "Lézargus",
+    "url": "818.json"
+  },
+  "819": {
+    "id": 819,
+    "num": 819,
+    "name": "Rongourmand",
+    "url": "819.json"
+  },
+  "820": {
+    "id": 820,
+    "num": 820,
+    "name": "Rongrigou",
+    "url": "820.json"
+  },
+  "821": {
+    "id": 821,
+    "num": 821,
+    "name": "Minisange",
+    "url": "821.json"
+  },
+  "822": {
+    "id": 822,
+    "num": 822,
+    "name": "Bleuseille",
+    "url": "822.json"
+  },
+  "823": {
+    "id": 823,
+    "num": 823,
+    "name": "Corvaillus",
+    "url": "823.json"
+  },
+  "824": {
+    "id": 824,
+    "num": 824,
+    "name": "Larvadar",
+    "url": "824.json"
+  },
+  "825": {
+    "id": 825,
+    "num": 825,
+    "name": "Coléodôme",
+    "url": "825.json"
+  },
+  "826": {
+    "id": 826,
+    "num": 826,
+    "name": "Astronelle",
+    "url": "826.json"
+  },
+  "827": {
+    "id": 827,
+    "num": 827,
+    "name": "Goupilou",
+    "url": "827.json"
+  },
+  "828": {
+    "id": 828,
+    "num": 828,
+    "name": "Roublenard",
+    "url": "828.json"
+  },
+  "829": {
+    "id": 829,
+    "num": 829,
+    "name": "Tournicoton",
+    "url": "829.json"
+  },
+  "830": {
+    "id": 830,
+    "num": 830,
+    "name": "Blancoton",
+    "url": "830.json"
+  },
+  "831": {
+    "id": 831,
+    "num": 831,
+    "name": "Moumouton",
+    "url": "831.json"
+  },
+  "832": {
+    "id": 832,
+    "num": 832,
+    "name": "Moumouflon",
+    "url": "832.json"
+  },
+  "833": {
+    "id": 833,
+    "num": 833,
+    "name": "Khélocrok",
+    "url": "833.json"
+  },
+  "834": {
+    "id": 834,
+    "num": 834,
+    "name": "Torgamord",
+    "url": "834.json"
+  },
+  "835": {
+    "id": 835,
+    "num": 835,
+    "name": "Voltoutou",
+    "url": "835.json"
+  },
+  "836": {
+    "id": 836,
+    "num": 836,
+    "name": "Fulgudog",
+    "url": "836.json"
+  },
+  "837": {
+    "id": 837,
+    "num": 837,
+    "name": "Charbi",
+    "url": "837.json"
+  },
+  "838": {
+    "id": 838,
+    "num": 838,
+    "name": "Wagomine",
+    "url": "838.json"
+  },
+  "839": {
+    "id": 839,
+    "num": 839,
+    "name": "Monthracite",
+    "url": "839.json"
+  },
+  "840": {
+    "id": 840,
+    "num": 840,
+    "name": "Verpom",
+    "url": "840.json"
+  },
+  "841": {
+    "id": 841,
+    "num": 841,
+    "name": "Pomdrapi",
+    "url": "841.json"
+  },
+  "842": {
+    "id": 842,
+    "num": 842,
+    "name": "Dratatin",
+    "url": "842.json"
+  },
+  "843": {
+    "id": 843,
+    "num": 843,
+    "name": "Dunaja",
+    "url": "843.json"
+  },
+  "844": {
+    "id": 844,
+    "num": 844,
+    "name": "Dunaconda",
+    "url": "844.json"
+  },
+  "845": {
+    "id": 845,
+    "num": 845,
+    "name": "Nigosier",
+    "url": "845.json"
+  },
+  "846": {
+    "id": 846,
+    "num": 846,
+    "name": "Embrochet",
+    "url": "846.json"
+  },
+  "847": {
+    "id": 847,
+    "num": 847,
+    "name": "Hastacuda",
+    "url": "847.json"
+  },
+  "848": {
+    "id": 848,
+    "num": 848,
+    "name": "Toxizap",
+    "url": "848.json"
+  },
+  "849": {
+    "id": 849,
+    "num": 849,
+    "name": "Salarsen",
+    "url": "849.json"
+  },
+  "850": {
+    "id": 850,
+    "num": 850,
+    "name": "Grillepattes",
+    "url": "850.json"
+  },
+  "851": {
+    "id": 851,
+    "num": 851,
+    "name": "Scolocendre",
+    "url": "851.json"
+  },
+  "852": {
+    "id": 852,
+    "num": 852,
+    "name": "Poulpaf",
+    "url": "852.json"
+  },
+  "853": {
+    "id": 853,
+    "num": 853,
+    "name": "Krakos",
+    "url": "853.json"
+  },
+  "854": {
+    "id": 854,
+    "num": 854,
+    "name": "Théffroi",
+    "url": "854.json"
+  },
+  "855": {
+    "id": 855,
+    "num": 855,
+    "name": "Polthégeist",
+    "url": "855.json"
+  },
+  "856": {
+    "id": 856,
+    "num": 856,
+    "name": "Bibichut",
+    "url": "856.json"
+  },
+  "857": {
+    "id": 857,
+    "num": 857,
+    "name": "Chapotus",
+    "url": "857.json"
+  },
+  "858": {
+    "id": 858,
+    "num": 858,
+    "name": "Sorcilence",
+    "url": "858.json"
+  },
+  "859": {
+    "id": 859,
+    "num": 859,
+    "name": "Grimalin",
+    "url": "859.json"
+  },
+  "860": {
+    "id": 860,
+    "num": 860,
+    "name": "Fourbelin",
+    "url": "860.json"
+  },
+  "861": {
+    "id": 861,
+    "num": 861,
+    "name": "Angoliath",
+    "url": "861.json"
+  },
+  "862": {
+    "id": 862,
+    "num": 862,
+    "name": "Ixon",
+    "url": "862.json"
+  },
+  "863": {
+    "id": 863,
+    "num": 863,
+    "name": "Berserkatt",
+    "url": "863.json"
+  },
+  "864": {
+    "id": 864,
+    "num": 864,
+    "name": "Corayôme",
+    "url": "864.json"
+  },
+  "865": {
+    "id": 865,
+    "num": 865,
+    "name": "Palarticho",
+    "url": "865.json"
+  },
+  "866": {
+    "id": 866,
+    "num": 866,
+    "name": "M. Glaquette",
+    "url": "866.json"
+  },
+  "867": {
+    "id": 867,
+    "num": 867,
+    "name": "Tutétékri",
+    "url": "867.json"
+  },
+  "868": {
+    "id": 868,
+    "num": 868,
+    "name": "Crèmy",
+    "url": "868.json"
+  },
+  "869": {
+    "id": 869,
+    "num": 869,
+    "name": "Charmilly",
+    "url": "869.json"
+  },
+  "870": {
+    "id": 870,
+    "num": 870,
+    "name": "Hexadron",
+    "url": "870.json"
+  },
+  "871": {
+    "id": 871,
+    "num": 871,
+    "name": "Wattapik",
+    "url": "871.json"
+  },
+  "872": {
+    "id": 872,
+    "num": 872,
+    "name": "Frissonille",
+    "url": "872.json"
+  },
+  "873": {
+    "id": 873,
+    "num": 873,
+    "name": "Beldeneige",
+    "url": "873.json"
+  },
+  "874": {
+    "id": 874,
+    "num": 874,
+    "name": "Dolman",
+    "url": "874.json"
+  },
+  "875": {
+    "id": 875,
+    "num": 875,
+    "name": "Bekaglaçon",
+    "url": "875.json"
+  },
+  "876": {
+    "id": 876,
+    "num": 876,
+    "name": "Wimessir",
+    "url": "876.json"
+  },
+  "877": {
+    "id": 877,
+    "num": 877,
+    "name": "Morpeko",
+    "url": "877.json"
+  },
+  "878": {
+    "id": 878,
+    "num": 878,
+    "name": "Charibari",
+    "url": "878.json"
+  },
+  "879": {
+    "id": 879,
+    "num": 879,
+    "name": "Pachyradjah",
+    "url": "879.json"
+  },
+  "880": {
+    "id": 880,
+    "num": 880,
+    "name": "Galvagon",
+    "url": "880.json"
+  },
+  "881": {
+    "id": 881,
+    "num": 881,
+    "name": "Galvagla",
+    "url": "881.json"
+  },
+  "882": {
+    "id": 882,
+    "num": 882,
+    "name": "Hydragon",
+    "url": "882.json"
+  },
+  "883": {
+    "id": 883,
+    "num": 883,
+    "name": "Hydragla",
+    "url": "883.json"
+  },
+  "884": {
+    "id": 884,
+    "num": 884,
+    "name": "Duralugon",
+    "url": "884.json"
+  },
+  "885": {
+    "id": 885,
+    "num": 885,
+    "name": "Fantyrm",
+    "url": "885.json"
+  },
+  "886": {
+    "id": 886,
+    "num": 886,
+    "name": "Dispareptil",
+    "url": "886.json"
+  },
+  "887": {
+    "id": 887,
+    "num": 887,
+    "name": "Lanssorien",
+    "url": "887.json"
+  },
+  "888": {
+    "id": 888,
+    "num": 888,
+    "name": "Zacian",
+    "url": "888.json"
+  },
+  "889": {
+    "id": 889,
+    "num": 889,
+    "name": "Zamazenta",
+    "url": "889.json"
+  },
+  "890": {
+    "id": 890,
+    "num": 890,
+    "name": "Éthernatos",
+    "url": "890.json"
+  },
+  "891": {
+    "id": 891,
+    "num": 891,
+    "name": "Wushours",
+    "url": "891.json"
+  },
+  "892": {
+    "id": 892,
+    "num": 892,
+    "name": "Shifours",
+    "url": "892.json"
+  },
+  "893": {
+    "id": 893,
+    "num": 893,
+    "name": "Zarude",
+    "url": "893.json"
+  },
+  "894": {
+    "id": 894,
+    "num": 894,
+    "name": "Regieleki",
+    "url": "894.json"
+  },
+  "895": {
+    "id": 895,
+    "num": 895,
+    "name": "Regidrago",
+    "url": "895.json"
+  },
+  "896": {
+    "id": 896,
+    "num": 896,
+    "name": "Blizzeval",
+    "url": "896.json"
+  },
+  "897": {
+    "id": 897,
+    "num": 897,
+    "name": "Spectreval",
+    "url": "897.json"
+  },
+  "898": {
+    "id": 898,
+    "num": 898,
+    "name": "Sylveroy",
+    "url": "898.json"
+  },
+  "899": {
+    "id": 899,
+    "num": 899,
+    "name": "Cerbyllin",
+    "url": "899.json"
+  },
+  "900": {
+    "id": 900,
+    "num": 900,
+    "name": "Hachécateur",
+    "url": "900.json"
+  },
+  "901": {
+    "id": 901,
+    "num": 901,
+    "name": "Ursaking",
+    "url": "901.json"
+  },
+  "902": {
+    "id": 902,
+    "num": 902,
+    "name": "Paragruel",
+    "url": "902.json"
+  },
+  "903": {
+    "id": 903,
+    "num": 903,
+    "name": "Farfurex",
+    "url": "903.json"
+  },
+  "904": {
+    "id": 904,
+    "num": 904,
+    "name": "Qwilpik",
+    "url": "904.json"
+  },
+  "905": {
+    "id": 905,
+    "num": 905,
+    "name": "Amovénus",
+    "url": "905.json"
+  }
+}

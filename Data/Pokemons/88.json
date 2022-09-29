@@ -1,0 +1,23 @@
+{
+  "id": 88,
+  "num": 88,
+  "name": "Tadmorv",
+  "title": "Pokémon Dégueu",
+  "desc": "Le corps boueux et gélatineux de Tadmorv peut s’enfoncer dans n’importe quelle ouverture, même la plus petite. Ce Pokémon se promène dans les tuyaux des égouts pour boire de l’eau croupie.",
+  "type": ["Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+  "height": 9,
+  "weight": 300,
+  "stats": {
+    "hp":               { "name": "PV", "value": 80 },
+    "attack":           { "name": "Attaque", "value": 80 },
+    "defense":          { "name": "Défense", "value": 50 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 40 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 50 },
+    "speed":            { "name": "Vitesse", "value": 25 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Tadmorv", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png" },
+    { "index": 1, "name": "Grotadmorv", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png" }
+  ]
+}

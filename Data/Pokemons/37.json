@@ -1,0 +1,23 @@
+{
+  "id": 37,
+  "num": 37,
+  "name": "Goupix",
+  "title": "Pokémon Renard",
+  "desc": "À sa naissance, Goupix a une queue blanche. Cette queue se divise en six si le Pokémon reçoit de l’amitié de la part de son Dresseur. Les six queues sont courbées et magnifiques.",
+  "type": ["Feu"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+  "height": 6,
+  "weight": 99,
+  "stats": {
+    "hp":               { "name": "PV", "value": 38 },
+    "attack":           { "name": "Attaque", "value": 41 },
+    "defense":          { "name": "Défense", "value": 40 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 50 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 65 },
+    "speed":            { "name": "Vitesse", "value": 65 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Goupix", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png" },
+    { "index": 1, "name": "Feunard", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 48,
+  "num": 48,
+  "name": "Mimitoss",
+  "title": "Pokémon Vermine",
+  "desc": "On raconte que Mimitoss a évolué avec une fourrure de poils fins et drus qui protège son corps tout entier. Il est doté de grands yeux capables de repérer ses proies, même minuscules.",
+  "type": ["Insecte","Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+  "height": 10,
+  "weight": 300,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 55 },
+    "defense":          { "name": "Défense", "value": 50 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 40 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 55 },
+    "speed":            { "name": "Vitesse", "value": 45 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Mimitoss", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png" },
+    { "index": 1, "name": "Aéromite", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png" }
+  ]
+}

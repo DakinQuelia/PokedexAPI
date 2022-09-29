@@ -1,0 +1,24 @@
+{
+  "id": 41,
+  "num": 41,
+  "name": "Nosferapti",
+  "title": "Pokémon Chovsouris",
+  "desc": "Nosferapti reste calme et immobile dans un coin sombre pendant la journée. En effet, une exposition trop longue à la lumière du soleil lui brûle légèrement la peau.",
+  "type": ["Poison", "Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+  "height": 8,
+  "weight": 75,
+  "stats": {
+    "hp":               { "name": "PV", "value": 40 },
+    "attack":           { "name": "Attaque", "value": 45 },
+    "defense":          { "name": "Défense", "value": 35 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 30 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 40 },
+    "speed":            { "name": "Vitesse", "value": 55 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Nosferapti", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png" },
+    { "index": 1, "name": "Nosferalto", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png" },
+    { "index": 2, "name": "Nostenfer", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png" }
+  ]
+}

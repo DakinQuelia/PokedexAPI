@@ -1,0 +1,23 @@
+{
+  "id": 99,
+  "num": 99,
+  "name": "Krabboss",
+  "title": "Pokémon Pince",
+  "desc": "Krabboss est doté d’une pince gigantesque, surdimensionnée. Il l’agite en l’air pour communiquer avec ses semblables. En revanche, sa pince est tellement lourde que ce Pokémon se fatigue très vite.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+  "height": 13,
+  "weight": 600,
+  "stats": {
+    "hp":               { "name": "PV", "value": 55 },
+    "attack":           { "name": "Attaque", "value": 130 },
+    "defense":          { "name": "Défense", "value": 115 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 50 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 50 },
+    "speed":            { "name": "Vitesse", "value": 75 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Krabby", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png" },
+    { "index": 1, "name": "Krabboss", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png" }
+  ]
+}

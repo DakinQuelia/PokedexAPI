@@ -1,0 +1,24 @@
+{
+  "id": 43,
+  "num": 43,
+  "name": "Mystherbe",
+  "title": "Pokémon Racine",
+  "desc": "Pendant la journée, Mystherbe s’enterre dans le sol pour absorber avec son corps tout entier les nutriments présents dans la terre. Plus le sol est fertile, plus ses feuilles sont brillantes.",
+  "type": ["Plante", "Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+  "height": 5,
+  "weight": 54,
+  "stats": {
+    "hp":               { "name": "PV", "value": 45 },
+    "attack":           { "name": "Attaque", "value": 50 },
+    "defense":          { "name": "Défense", "value": 55 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 75 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 65 },
+    "speed":            { "name": "Vitesse", "value": 30 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Mystherbe", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png" },
+    { "index": 1, "name": "Ortide", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png" },
+    { "index": 2, "name": "Rafflesia", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png" }
+  ]
+}

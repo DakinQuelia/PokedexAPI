@@ -1,0 +1,23 @@
+{
+  "id": 106,
+  "num": 106,
+  "name": "Kicklee",
+  "title": "Pokémon Latteur",
+  "desc": "Les jambes de Kicklee peuvent se contracter et s'étirer à volonté. Grâce à ces jambes à ressort, il terrasse ses ennemis en les rouant de coups de pied. Après les combats, il masse ses jambes pour éviter de sentir la fatigue.",
+  "type": ["Combat"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+  "height": 15,
+  "weight": 498,
+  "stats": {
+    "hp":               { "name": "PV", "value": 50 },
+    "attack":           { "name": "Attaque", "value": 120 },
+    "defense":          { "name": "Défense", "value": 53 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 35 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 110 },
+    "speed":            { "name": "Vitesse", "value": 87 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Debugant", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png" },
+    { "index": 1, "name": "Kicklee", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png" }
+  ]
+}

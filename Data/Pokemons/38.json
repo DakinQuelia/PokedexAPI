@@ -1,0 +1,23 @@
+{
+  "id": 38,
+  "num": 38,
+  "name": "Feunard",
+  "title": "Pokémon Renard",
+  "desc": "Feunard peut envoyer un inquiétant rayon avec ses yeux rouge vif pour prendre le contrôle de l’esprit de son ennemi. On raconte que ce Pokémon peut vivre 1000 ans.",
+  "type": ["Feu"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+  "height": 11,
+  "weight": 199,
+  "stats": {
+    "hp":               { "name": "PV", "value": 73 },
+    "attack":           { "name": "Attaque", "value": 76 },
+    "defense":          { "name": "Défense", "value": 75 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 81 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 100 },
+    "speed":            { "name": "Vitesse", "value": 100 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Goupix", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png" },
+    { "index": 1, "name": "Feunard", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png" }
+  ]
+}

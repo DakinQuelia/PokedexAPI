@@ -1,0 +1,23 @@
+{
+  "id": 20,
+  "num": 20,
+  "name": "Rattatac",
+  "title": "Pokémon Souris",
+  "desc": "Les crocs robustes de Rattatac poussent constamment. Pour éviter qu’ils raclent le sol, il se fait les dents sur des cailloux ou des troncs d’arbre. Il lui arrive même de ronger les murs des maisons.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+  "height": 7,
+  "weight": 185,
+  "stats": {
+    "hp":               { "name": "PV", "value": 55 },
+    "attack":           { "name": "Attaque", "value": 81 },
+    "defense":          { "name": "Défense", "value": 60 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 50 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 70 },
+    "speed":            { "name": "Vitesse", "value": 97 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Rattata", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png" },
+    { "index": 1, "name": "Rattatac", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png" }
+  ]
+}

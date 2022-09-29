@@ -1,0 +1,24 @@
+{
+  "id": 10,
+  "num": 10,
+  "name": "Chenipan",
+  "title": "Pokémon Ver",
+  "desc": "Chenipan a un appétit d'ogre. Il peut engloutir des feuilles plus grosses que lui. Les antennes de ce Pokémon dégagent une odeur particulièrement entêtante.",
+  "type": ["Insecte"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+  "height": 3,
+  "weight": 29,
+  "stats": {
+    "hp":               { "name": "PV", "value": 45 },
+    "attack":           { "name": "Attaque", "value": 30 },
+    "defense":          { "name": "Défense", "value": 35 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 20 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 20 },
+    "speed":            { "name": "Vitesse", "value": 45 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Chenipan", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png" },
+    { "index": 1, "name": "Chrysacier", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png" },
+    { "index": 2, "name": "Papilusion", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 144,
+  "num": 144,
+  "name": "Artikodin",
+  "title": "Pokémon Glaciaire",
+  "desc": "Artikodin est un Pokémon Oiseau légendaire qui peut contrôler la glace. Le battement de ses ailes gèle l’air tout autour de lui. C’est pourquoi on dit que lorsque ce Pokémon vole, il va neiger.",
+  "type": ["Glace", "Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+  "height": 17,
+  "weight": 554,
+  "stats": {
+    "hp":               { "name": "PV", "value": 90 },
+    "attack":           { "name": "Attaque", "value": 85 },
+    "defense":          { "name": "Défense", "value": 100 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 95 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 125 },
+    "speed":            { "name": "Vitesse", "value": 85 }
+  },
+  "evolves": []
+}

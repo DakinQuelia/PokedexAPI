@@ -1,0 +1,20 @@
+{
+  "id": 132,
+  "num": 132,
+  "name": "Métamorph",
+  "title": "Pokémon Morphing",
+  "desc": "Métamorph peut modifier sa structure moléculaire pour prendre d’autres formes. Lorsqu’il essaie de se transformer de mémoire, il lui arrive de se tromper sur certains détails.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+  "height": 3,
+  "weight": 40,
+  "stats": {
+    "hp":               { "name": "PV", "value": 48 },
+    "attack":           { "name": "Attaque", "value": 48 },
+    "defense":          { "name": "Défense", "value": 48 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 48 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 48 },
+    "speed":            { "name": "Vitesse", "value": 48 }
+  },
+  "evolves": []
+}

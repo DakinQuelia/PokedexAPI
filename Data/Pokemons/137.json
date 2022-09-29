@@ -1,0 +1,24 @@
+{
+  "id": 137,
+  "num": 137,
+  "name": "Porygon",
+  "title": "Pokémon Virtuel",
+  "desc": "Porygon est capable de se décompiler et de retourner à l'état de programme informatique pour entrer dans le cyberespace. Ce Pokémon est protégé contre le piratage, il est donc impossible de le copier.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+  "height": 8,
+  "weight": 365,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 60 },
+    "defense":          { "name": "Défense", "value": 70 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 85 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 75 },
+    "speed":            { "name": "Vitesse", "value": 40 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Porygon ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png" },
+    { "index": 1, "name": "Porygon2", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png" },
+    { "index": 2, "name": "Porygon-Z", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png" }
+  ]
+}

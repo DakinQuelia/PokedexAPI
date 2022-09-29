@@ -1,0 +1,24 @@
+{
+  "id": 31,
+  "num": 31,
+  "name": "Nidoqueen",
+  "title": "Pokémon Perceur",
+  "desc": "Le corps de Nidoqueen est protégé par des écailles extrêmement dures. Il aime envoyer ses ennemis voler en leur fonçant dessus. Ce Pokémon utilise toute sa puissance lorsqu’il protège ses petits.",
+  "type": ["Poison","Sol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+  "height": 13,
+  "weight": 600,
+  "stats": {
+    "hp":               { "name": "PV", "value": 90 },
+    "attack":           { "name": "Attaque", "value": 92 },
+    "defense":          { "name": "Défense", "value": 87 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 75 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 85 },
+    "speed":            { "name": "Vitesse", "value": 76 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Nidoran♀", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png" },
+    { "index": 1, "name": "Nidorina", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png" },
+    { "index": 2, "name": "Nidoqueen", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png" }
+  ]
+}

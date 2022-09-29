@@ -1,0 +1,24 @@
+{
+  "id": 26,
+  "num": 26,
+  "name": "Raichu",
+  "title": "Pokémon Souris",
+  "desc": "Si ses joues contiennent trop d'électricité, Raichu plante sa queue dans le sol pour se décharger. On trouve des parcelles de terre brûlée à proximité du nid de ce Pokémon.",
+  "type": ["Électrik"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+  "height": 8,
+  "weight": 300,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 90 },
+    "defense":          { "name": "Défense", "value": 55 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 90 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80},
+    "speed":            { "name": "Vitesse", "value": 110 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Pichu", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png" },
+    { "index": 1, "name": "Pikachu", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" },
+    { "index": 2, "name": "Raichu", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png" }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  { "id": 1, "name": "normal", "class": "normal" },
+  { "id": 2, "name": "combat", "class": "fighting" },
+  { "id": 3, "name": "vol", "class": "flying" },
+  { "id": 4, "name": "poison", "class": "poison" },
+  { "id": 5, "name": "sol", "class": "ground" },
+  { "id": 6, "name": "roche", "class": "rock" },
+  { "id": 7, "name": "insecte", "class": "bug" },
+  { "id": 8, "name": "spectre", "class": "ghost" },
+  { "id": 9, "name": "acier", "class": "steel" },
+  { "id": 10, "name": "feu", "class": "fire" },
+  { "id": 11, "name": "eau", "class": "water" },
+  { "id": 12, "name": "plante", "class": "grass" },
+  { "id": 13, "name": "électrik", "class": "electrik" },
+  { "id": 14, "name": "psy", "class": "psychic" },
+  { "id": 15, "name": "glace", "class": "ice" },
+  { "id": 16, "name": "dragon", "class": "dragon" },
+  { "id": 17, "name": "ténèbres", "class": "dark" },
+  { "id": 18, "name": "fée", "class": "fairy" }
+]

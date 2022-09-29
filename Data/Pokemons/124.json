@@ -1,0 +1,23 @@
+{
+  "id": 124,
+  "num": 124,
+  "name": "Lippoutou",
+  "title": "Pokémon Humanoïde",
+  "desc": "Lippoutou marche en rythme, ondule de tout son corps et se déhanche comme s’il dansait. Ses mouvements sont si communicatifs que les gens qui le voient sont soudain pris d’une terrible envie de bouger les hanches, sans réfléchir.",
+  "type": ["Glace", "Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+  "height": 14,
+  "weight": 406,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 50 },
+    "defense":          { "name": "Défense", "value": 35 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 115 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 95 },
+    "speed":            { "name": "Vitesse", "value": 95 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Lippouti", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png" },
+    { "index": 1, "name": "Lippoutou", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png" }
+  ]
+}

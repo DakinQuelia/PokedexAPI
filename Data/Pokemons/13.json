@@ -1,0 +1,24 @@
+{
+  "id": 13,
+  "num": 13,
+  "name": "Aspicot",
+  "title": "Pokémon Insectopic",
+  "desc": "L’odorat d’Aspicot est extrêmement développé. Il lui suffit de renifler ses feuilles préférées avec son gros appendice nasal pour les reconnaître entre mille.",
+  "type": ["Insecte", "Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+  "height": 3,
+  "weight": 32,
+  "stats": {
+    "hp":               { "name": "PV", "value": 40 },
+    "attack":           { "name": "Attaque", "value": 35 },
+    "defense":          { "name": "Défense", "value": 30 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 20 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 20 },
+    "speed":            { "name": "Vitesse", "value": 50 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Aspicot", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png" },
+    { "index": 1, "name": "Coconfort", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png" },
+    { "index": 2, "name": "Dardargnan", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png" }
+  ]
+}

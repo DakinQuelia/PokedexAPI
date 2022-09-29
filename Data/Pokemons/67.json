@@ -1,0 +1,24 @@
+{
+  "id": 67,
+  "num": 67,
+  "name": "Machopeur",
+  "title": "Pokémon Colosse",
+  "desc": "Les muscles toniques de Machopeur sont durs comme de l’acier. Ce Pokémon est si fort qu’il peut facilement soulever un sumo avec un seul doigt.",
+  "type": ["Combat"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+  "height": 15,
+  "weight": 705,
+  "stats": {
+    "hp":               { "name": "PV", "value": 80 },
+    "attack":           { "name": "Attaque", "value": 100 },
+    "defense":          { "name": "Défense", "value": 70 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 50 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 60 },
+    "speed":            { "name": "Vitesse", "value": 45 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Machoc", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png" },
+    { "index": 1, "name": "Machopeur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png" },
+    { "index": 2, "name": "Mackogneur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 70,
+  "num": 70,
+  "name": "Boustiflor",
+  "title": "Pokémon Carnivore",
+  "desc": "Boustiflor est doté d’un gros crochet. La nuit, ce Pokémon s’accroche à une branche pour s’endormir. Quand il a un sommeil agité, il se réveille par terre.",
+  "type": ["Plante", "Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+  "height": 10,
+  "weight": 64,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 90 },
+    "defense":          { "name": "Défense", "value": 50 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 85 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 45 },
+    "speed":            { "name": "Vitesse", "value": 55 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Chétiflor", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png" },
+    { "index": 1, "name": "Boustiflor", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png" },
+    { "index": 2, "name": "Empiflor", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png" }
+  ]
+}

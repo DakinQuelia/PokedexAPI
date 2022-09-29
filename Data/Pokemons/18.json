@@ -1,0 +1,24 @@
+{
+  "id": 18,
+  "num": 18,
+  "name": "Roucarnage",
+  "title": "Pokémon Oiseau",
+  "desc": "Ce Pokémon est doté d’un plumage magnifique et luisant. Bien des Dresseurs sont captivés par la beauté fatale de sa huppe et décident de choisir Roucarnage comme leur Pokémon favori.",
+  "type": ["Normal", "Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+  "height": 15,
+  "weight": 395,
+  "stats": {
+    "hp":               { "name": "PV", "value": 83 },
+    "attack":           { "name": "Attaque", "value": 80 },
+    "defense":          { "name": "Défense", "value": 75 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 70 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 70 },
+    "speed":            { "name": "Vitesse", "value": 101 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Roucool", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png" },
+    { "index": 1, "name": "Roucoups", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png" },
+    { "index": 2, "name": "Roucarnage", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png" }
+  ]
+}

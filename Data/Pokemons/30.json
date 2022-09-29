@@ -1,0 +1,24 @@
+{
+  "id": 30,
+  "num": 30,
+  "name": "Nidorina",
+  "title": "Pokémon Vénépic",
+  "desc": "Lorsqu’un Nidorina est avec ses amis ou sa famille, il replie ses pointes pour ne pas blesser ses proches. Ce Pokémon devient vite nerveux lorsqu’il est séparé de son groupe.",
+  "type": ["Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+  "height": 8,
+  "weight": 200,
+  "stats": {
+    "hp":               { "name": "PV", "value": 70 },
+    "attack":           { "name": "Attaque", "value": 62 },
+    "defense":          { "name": "Défense", "value": 67 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 55 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 55 },
+    "speed":            { "name": "Vitesse", "value": 56 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Nidoran♀", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png" },
+    { "index": 1, "name": "Nidorina", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png" },
+    { "index": 2, "name": "Nidoqueen", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 39,
+  "num": 39,
+  "name": "Rondoudou",
+  "title": "Pokémon Bouboule",
+  "desc": "Rondoudou utilise ses cordes vocales pour ajuster librement la longueur d’onde de sa voix. Cela permet à ce Pokémon de chanter en utilisant une longueur d’onde qui endort ses ennemis.",
+  "type": ["Normal", "Fée"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+  "height": 5,
+  "weight": 55,
+  "stats": {
+    "hp":               { "name": "PV", "value": 115 },
+    "attack":           { "name": "Attaque", "value": 45 },
+    "defense":          { "name": "Défense", "value": 20 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 45 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 25 },
+    "speed":            { "name": "Vitesse", "value": 20 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Rondoudou", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png" },
+    { "index": 1, "name": "Grodoudou", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png" }
+  ]
+}

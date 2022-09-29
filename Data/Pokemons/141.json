@@ -1,0 +1,23 @@
+{
+  "id": 141,
+  "num": 141,
+  "name": "Kabutops",
+  "title": "Pokémon Carapace",
+  "desc": "Jadis, Kabutops plongeait dans les profondeurs pour trouver ses proies. Apparemment, ce Pokémon vivant sur terre est l'évolution d'une créature marine, comme le prouvent les changements dans ses branchies.",
+  "type": ["Roche", "Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+  "height": 13,
+  "weight": 405,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 115 },
+    "defense":          { "name": "Défense", "value": 105 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 65 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 70 },
+    "speed":            { "name": "Vitesse", "value": 80 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Kabuto", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png" },
+    { "index": 1, "name": "Kabutops", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png" }
+  ]
+}

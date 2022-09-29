@@ -1,0 +1,23 @@
+{
+  "id": 110,
+  "num": 110,
+  "name": "Smogogo",
+  "title": "Pokémon Gaz Mortel",
+  "desc": "Smogogo adore les gaz qui se dégagent des aliments pourris dans les poubelles. Ce Pokémon cherche généralement les maisons sales et mal tenues pour y habiter. La nuit, quand tout le monde est endormi, il fouille les détritus.",
+  "type": ["Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+  "height": 12,
+  "weight": 95,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 90 },
+    "defense":          { "name": "Défense", "value": 120 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 85 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 70 },
+    "speed": { "name": "Vitesse", "value": 60 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Smogo", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png" },
+    { "index": 1, "name": "Smogogo", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png" }
+  ]
+}

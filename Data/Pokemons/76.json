@@ -1,0 +1,24 @@
+{
+  "id": 76,
+  "num": 76,
+  "name": "Grolem",
+  "title": "Pokémon Titanesque",
+  "desc": "Grolem vit à la montagne. Lorsqu’il y a un tremblement de terre, ces Pokémon roulent en groupe vers les contreforts montagneux.",
+  "type": ["Roche", "Sol" ],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+  "height": 14,
+  "weight": 3000,
+  "stats": {
+    "hp":               { "name": "PV", "value": 80 },
+    "attack":           { "name": "Attaque", "value": 120 },
+    "defense":          { "name": "Défense", "value": 130 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 55 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 65 },
+    "speed":            { "name": "Vitesse", "value": 45 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Racaillou", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png" },
+    { "index": 1, "name": "Gravalanch", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png" },
+    { "index": 2, "name": "Grolem", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png" }
+  ]
+}

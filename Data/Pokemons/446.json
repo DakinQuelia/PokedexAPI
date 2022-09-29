@@ -1,0 +1,23 @@
+{
+  "id": 446,
+  "num": 446,
+  "name": "Goinfrex",
+  "title": "Pokémon Goinfre",
+  "desc": "Dès qu'il voit quelque chose de comestible, il le ramasse et l'avale tout de go. Son estomac lui permet de digérer même la nourriture avariée.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png",
+  "height": 6,
+  "weight": 1050,
+  "stats": {
+    "hp":               { "name": "PV", "value": 135 },
+    "attack":           { "name": "Attaque", "value": 85 },
+    "defense":          { "name": "Défense", "value": 40 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 40 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 85 },
+    "speed":            { "name": "Vitesse", "value": 5 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Goinfrex", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png" },
+    { "index": 1, "name": "Ronflex", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png" }
+  ]
+}

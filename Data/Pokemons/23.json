@@ -1,0 +1,23 @@
+{
+  "id": 23,
+  "num": 23,
+  "name": "Abo",
+  "title": "Pokémon Serpent",
+  "desc": "Abo s’enroule en spirale pour dormir. Sa tête reste relevée de telle sorte que cette position lui permette de réagir rapidement si une menace survenait.",
+  "type": ["Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+  "height": 20,
+  "weight": 69,
+  "stats": {
+    "hp":               { "name": "PV", "value": 35 },
+    "attack":           { "name": "Attaque", "value": 60 },
+    "defense":          { "name": "Défense", "value": 44 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 40 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 54 },
+    "speed":            { "name": "Vitesse", "value": 55 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Abo", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png" },
+    { "index": 1, "name": "Arbok", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png" }
+  ]
+}

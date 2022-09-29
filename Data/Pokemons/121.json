@@ -1,0 +1,23 @@
+{
+  "id": 121,
+  "num": 121,
+  "name": "Staross",
+  "title": "Pokémon Mystérieux",
+  "desc": "Le centre de Staross, son cœur, resplendit de sept différentes couleurs. Du fait de sa brillance naturelle, on appelle ce Pokémon le « joyau des mers ».",
+  "type": ["Eau", "Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+  "height": 11,
+  "weight": 800,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 75 },
+    "defense":          { "name": "Défense", "value": 85 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 100 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 85 },
+    "speed":            { "name": "Vitesse", "value": 115 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Stari", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png" },
+    { "index": 1, "name": "Staross", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png" }
+  ]
+}

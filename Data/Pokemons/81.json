@@ -1,0 +1,23 @@
+{
+  "id": 81,
+  "num": 81,
+  "name": "Magnéti",
+  "title": "Pokémon Magnétique",
+  "desc": "Magnéti s’attache aux lignes à haute tension pour se charger en électricité. Si une maison a une panne de courant, il est conseillé de vérifier les fusibles car on trouve parfois ces Pokémon amassés sur la boîte à fusibles.",
+  "type": ["Électrik", "Acier"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+  "height": 3,
+  "weight": 60,
+  "stats": {
+    "hp":               { "name": "PV", "value": 25 },
+    "attack":           { "name": "Attaque", "value": 35 },
+    "defense":          { "name": "Défense", "value": 70 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 95 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 55 },
+    "speed":            { "name": "Vitesse", "value": 45 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Magnéti", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png" },
+    { "index": 1, "name": "Magnéton", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png" }
+  ]
+}

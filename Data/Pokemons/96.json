@@ -1,0 +1,23 @@
+{
+  "id": 96,
+  "num": 96,
+  "name": "Soporifik",
+  "title": "Pokémon Hypnose",
+  "desc": "Lorsque les enfants ont le nez qui les démange en dormant, c’est sans doute parce que ce Pokémon se tient au-dessus de leur oreiller, afin d’essayer de manger leurs rêves par leurs narines.",
+  "type": ["Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+  "height": 10,
+  "weight": 324,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 48 },
+    "defense":          { "name": "Défense", "value": 45 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 43 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 90 },
+    "speed":            { "name": "Vitesse", "value": 42 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Soporifik", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png" },
+    { "index": 1, "name": "Hypnomade", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png" }
+  ]
+}

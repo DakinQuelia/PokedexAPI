@@ -1,0 +1,23 @@
+{
+  "id": 122,
+  "num": 122,
+  "name": "M. Mime",
+  "title": "Pokémon Bloqueur",
+  "desc": "M. Mime est un pantomime hors pair. Ses gestes et ses mouvements parviennent à faire croire que quelque chose d’invisible existe réellement. Lorsqu’on y croit, ces choses deviennent palpables.",
+  "type": ["Psy", "Fée"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+  "height": 13,
+  "weight": 545,
+  "stats": {
+    "hp":               { "name": "PV", "value": 40 },
+    "attack":           { "name": "Attaque", "value": 45 },
+    "defense":          { "name": "Défense", "value": 65 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 100 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 120 },
+    "speed":            { "name": "Vitesse", "value": 90 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Mime Jr.", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png" },
+    { "index": 1, "name": "M. Mime", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png" }
+  ]
+}

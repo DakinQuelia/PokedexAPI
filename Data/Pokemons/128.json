@@ -1,0 +1,20 @@
+{
+  "id": 128,
+  "num": 128,
+  "name": "Tauros",
+  "title": "Pokémon Buffle",
+  "desc": "Ce Pokémon n’est pas satisfait s’il ne détruit pas tout sur son passage. Lorsque Tauros ne trouve pas d’adversaire, il se rue sur de gros arbres et les déracine pour passer ses nerfs.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+  "height": 14,
+  "weight": 884,
+  "stats": {
+    "hp":               { "name": "PV", "value": 75 },
+    "attack":           { "name": "Attaque", "value": 100 },
+    "defense":          { "name": "Défense", "value": 95 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 40 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 70 },
+    "speed":            { "name": "Vitesse", "value": 110 }
+  },
+  "evolves": []
+}

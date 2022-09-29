@@ -1,0 +1,24 @@
+{
+  "id": 92,
+  "num": 92,
+  "name": "Fantominus",
+  "title": "Pokémon Gaz",
+  "desc": "Fantominus est principalement constitué de matière gazeuse. Lorsqu’il est exposé au vent, son corps gazeux se disperse et diminue. Des groupes de ce Pokémon se rassemblent sous les auvents des maisons pour se protéger.",
+  "type": ["Spectre", "Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+  "height": 13,
+  "weight": 1,
+  "stats": {
+    "hp":               { "name": "PV", "value": 30 },
+    "attack":           { "name": "Attaque", "value": 35 },
+    "defense":          { "name": "Défense", "value": 30 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 100 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 35 },
+    "speed":            { "name": "Vitesse", "value": 80 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Fantominus", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png" },
+    { "index": 1, "name": "Spectrum", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png" },
+    { "index": 2, "name": "Ectoplasma", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" }
+  ]
+}

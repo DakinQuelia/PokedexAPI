@@ -1,0 +1,20 @@
+{
+  "id": 115,
+  "num": 115,
+  "name": "Kangourex",
+  "title": "Pokémon Maternel",
+  "desc": "Lorsqu’on rencontre un petit Kangourex qui joue tout seul, il ne faut jamais le déranger ou essayer de l’attraper. Les parents du bébé Pokémon sont sûrement dans le coin et ils risquent d’entrer dans une colère noire.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+  "height": 22,
+  "weight": 800,
+  "stats": {
+    "hp":               { "name": "PV", "value": 105 },
+    "attack":           { "name": "Attaque", "value": 95 },
+    "defense":          { "name": "Défense", "value": 80 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 40 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 90 }
+  },
+  "evolves": []
+}

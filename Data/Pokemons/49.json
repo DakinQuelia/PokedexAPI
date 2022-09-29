@@ -1,0 +1,23 @@
+{
+  "id": 49,
+  "num": 49,
+  "name": "Aéromite",
+  "title": "Pokémon Papipoison",
+  "desc": "Aéromite est un Pokémon nocturne, il ne sort donc que la nuit. Ses proies préférées sont les petits insectes qui se rassemblent autour des réverbères, attirés par la lumière.",
+  "type": ["Insecte", "Poison" ],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+  "height": 15,
+  "weight": 125,
+  "stats": {
+    "hp":               { "name": "PV", "value": 70 },
+    "attack":           { "name": "Attaque", "value": 65 },
+    "defense":          { "name": "Défense", "value": 60 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 90 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 75 },
+    "speed":            { "name": "Vitesse", "value": 90 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Mimitoss", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png" },
+    { "index": 1, "name": "Aéromite", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png" }
+  ]
+}

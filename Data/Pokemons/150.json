@@ -1,0 +1,20 @@
+{
+  "id": 150,
+  "num": 150,
+  "name": "Mewtwo",
+  "title": "Pokémon Génétique",
+  "desc": "Mewtwo est un Pokémon créé par manipulation génétique. Cependant, bien que les connaissances scientifiques des humains aient réussi à créer son corps, elles n’ont pas pu doter Mewtwo d’un cœur sensible.",
+  "type": ["Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+  "height": 20,
+  "weight": 1220,
+  "stats": {
+    "hp":               { "name": "PV", "value": 106 },
+    "attack":           { "name": "Attaque", "value": 110 },
+    "defense":          { "name": "Défense", "value": 90 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 154 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 90 },
+    "speed":            { "name": "Vitesse", "value": 130 }
+  },
+  "evolves": []
+}

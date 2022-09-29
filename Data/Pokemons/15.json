@@ -1,0 +1,24 @@
+{
+  "id": 15,
+  "num": 15,
+  "name": "Dardargnan",
+  "title": "Pokémon Guêpoison",
+  "desc": "Dardargnan est extrêmement possessif. Il vaut mieux ne pas toucher son nid si on veut éviter d’avoir des ennuis. Lorsqu’ils sont en colère, ces Pokémon attaquent en masse.",
+  "type": ["Insecte", "Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+  "height": 10,
+  "weight": 295,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 90 },
+    "defense":          { "name": "Défense", "value": 40 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 45 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 75 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Aspicot", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png" },
+    { "index": 1, "name": "Coconfort", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png" },
+    { "index": 2, "name": "Dardargnan", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 73,
+  "num": 73,
+  "name": "Tentacruel",
+  "title": "Pokémon Mollusque",
+  "desc": "Tentacruel a deux gros globes sur la tête. Les globes s’illuminent lorsqu’il va envoyer un violent rayon d’ultrasons. Lorsque ce Pokémon se déchaîne, il crée d’énormes vagues autour de lui.",
+  "type": ["Eau", "Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+  "height": 16,
+  "weight": 550,
+  "stats": {
+    "hp":               { "name": "PV", "value": 80 },
+    "attack":           { "name": "Attaque", "value": 70 },
+    "defense":          { "name": "Défense", "value": 65 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 80 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 120 },
+    "speed":            { "name": "Vitesse", "value": 100 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Tentacool", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png" },
+    { "index": 1, "name": "Tentacruel", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png" }
+  ]
+}

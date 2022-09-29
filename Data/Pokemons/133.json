@@ -1,0 +1,69 @@
+{
+  "id": 133,
+  "num": 133,
+  "name": "Évoli",
+  "title": "Pokémon Évolutif",
+  "desc": "Évoli a une structure génétique instable qui se transforme en fonction de l’environnement dans lequel il vit. Ce Pokémon peut évoluer grâce aux radiations de diverses pierres.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+  "height": 3,
+  "weight": 65,
+  "stats": {
+    "hp":               { "name": "PV", "value": 55 },
+    "attack":           { "name": "Attaque", "value": 55 },
+    "defense":          { "name": "Défense", "value": 50 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 45 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 65 },
+    "speed":            { "name": "Vitesse", "value": 55 }
+  },
+  "evolves": [
+    { 
+      "0": [
+        { "index": 0, "name": "Évoli ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" },
+        { "index": 1, "name": "Aquali", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png" }
+      ]
+    },
+    { 
+      "1": [
+        { "index": 0, "name": "Évoli ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" },
+        { "index": 1, "name": "Voltali", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png" }
+      ]
+    },
+    { 
+      "2": [
+        { "index": 0, "name": "Évoli ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" },
+        { "index": 1, "name": "Pyroli", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png" }
+      ]
+    },
+    { 
+      "3": [
+        { "index": 0, "name": "Évoli ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" },
+        { "index": 1, "name": "Mentali", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png" }
+      ]
+    },
+    { 
+      "4": [
+        { "index": 0, "name": "Évoli ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" },
+        { "index": 1, "name": "Noctali", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png" }
+      ]
+    },
+    { 
+      "5": [
+        { "index": 0, "name": "Évoli ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" },
+        { "index": 1, "name": "Phyllali", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png" }
+      ]
+    },
+    { 
+      "6": [
+        { "index": 0, "name": "Évoli ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" },
+        { "index": 1, "name": "Givrali", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png" }
+      ]
+    },
+    { 
+      "7": [
+        { "index": 0, "name": "Évoli ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" },
+        { "index": 1, "name": "Nymphali", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png" }
+      ]
+    }
+  ]
+}

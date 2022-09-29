@@ -1,0 +1,23 @@
+{
+  "id": 119,
+  "num": 119,
+  "name": "Poissoroy",
+  "title": "Pokémon Poisson",
+  "desc": "En automne, on peut voir les Poissoroy mâles effectuer des danses nuptiales dans les rivières pour plaire aux femelles. C’est pendant cette saison que le corps de ce Pokémon prend ses plus belles couleurs.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+  "height": 13,
+  "weight": 390,
+  "stats": {
+    "hp":               { "name": "PV", "value": 80 },
+    "attack":           { "name": "Attaque", "value": 92 },
+    "defense":          { "name": "Défense", "value": 65 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 65 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 68 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Poissirène", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png" },
+    { "index": 1, "name": "Poissoroy", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png" }
+  ]
+}

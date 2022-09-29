@@ -1,0 +1,23 @@
+{
+  "id": 102,
+  "num": 102,
+  "name": "Noeunoeuf",
+  "title": "Pokémon Œuf",
+  "desc": "Ce Pokémon est constitué de six œufs formant une grappe serrée. Ces six œufs s’attirent mutuellement et pivotent. Quand des fissures apparaissent sur les coquilles, ça signifie que Noeunoeuf est sur le point d’évoluer.",
+  "type": ["Plante", "Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+  "height": 4,
+  "weight": 25,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 40 },
+    "defense":          { "name": "Défense", "value": 80 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 60 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 45 },
+    "speed":            { "name": "Vitesse", "value": 40 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Noeunoeuf", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png" },
+    { "index": 1, "name": "Noadkoko", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png" }
+  ]
+}

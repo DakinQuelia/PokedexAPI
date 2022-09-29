@@ -1,0 +1,20 @@
+{
+  "id": 145,
+  "num": 145,
+  "name": "Électhor",
+  "title": "Pokémon Électrique",
+  "desc": "Électhor est un Pokémon Oiseau légendaire capable de contrôler l’électricité. Il vit généralement dans les nuages orageux. Ce Pokémon gagne en puissance lorsqu’il est frappé par la foudre.",
+  "type": ["Électrik", "Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+  "height": 16,
+  "weight": 526,
+  "stats": {
+    "hp":               { "name": "PV", "value": 90 },
+    "attack":           { "name": "Attaque", "value": 90 },
+    "defense":          { "name": "Défense", "value": 85 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 125 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 90 },
+    "speed":            { "name": "Vitesse", "value": 100 }
+  },
+  "evolves": []
+}

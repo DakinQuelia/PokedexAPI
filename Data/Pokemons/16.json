@@ -1,0 +1,24 @@
+{
+  "id": 16,
+  "num": 16,
+  "name": "Roucool",
+  "title": "Pokémon Minoiseau",
+  "desc": "Roucool a un excellent sens de l’orientation. Il est capable de retrouver son nid sans jamais se tromper, même s’il est très loin de chez lui et dans un environnement qu’il ne connaît pas.",
+  "type": ["Normal","Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+  "height": 3,
+  "weight": 18,
+  "stats": {
+    "hp":               { "name": "PV", "value": 40 },
+    "attack":           { "name": "Attaque", "value": 45 },
+    "defense":          { "name": "Défense", "value": 40 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 35 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 35 },
+    "speed":            { "name": "Vitesse", "value": 56 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Roucool", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png" },
+    { "index": 1, "name": "Roucoups", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png" },
+    { "index": 2, "name": "Roucarnage", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png" }
+  ]
+}

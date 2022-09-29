@@ -1,0 +1,23 @@
+{
+  "id": 77,
+  "num": 77,
+  "name": "Ponyta",
+  "title": "Pokémon Cheval Feu",
+  "desc": "À sa naissance, Ponyta est très faible. Il peut à peine tenir debout. Ce Pokémon se muscle en trébuchant et en tombant, lorsqu’il essaie de suivre ses parents.",
+  "type": ["Feu"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+  "height": 10,
+  "weight": 300,
+  "stats": {
+    "hp":               { "name": "PV", "value": 50 },
+    "attack":           { "name": "Attaque", "value": 85 },
+    "defense":          { "name": "Défense", "value": 55 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 65 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 65 },
+    "speed":            { "name": "Vitesse", "value": 90 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Ponyta", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png" },
+    { "index": 1, "name": "Galopa", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png" }
+  ]
+}

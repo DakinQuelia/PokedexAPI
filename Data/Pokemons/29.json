@@ -1,0 +1,26 @@
+{
+  "id": 29,
+  "num": 29,
+  "name": "Nidoran♀",
+  "title": "Pokémon Vénépic",
+  "desc": "Nidoran♀ est couvert de pointes qui sécrètent un poison puissant. On pense que ce petit Pokémon a développé ces pointes pour se défendre. Lorsqu’il est en colère, une horrible toxine sort de sa corne.",
+  "type": [
+    "Poison"
+  ],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+  "height": 4,
+  "weight": 70,
+  "stats": {
+    "hp":               { "name": "PV", "value": 55 },
+    "attack":           { "name": "Attaque", "value": 47 },
+    "defense":          { "name": "Défense", "value": 52 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 40 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 40 },
+    "speed":            { "name": "Vitesse", "value": 41 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Nidoran♀", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png" },
+    { "index": 1, "name": "Nidorina", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png" },
+    { "index": 2, "name": "Nidoqueen", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png" }
+  ]
+}

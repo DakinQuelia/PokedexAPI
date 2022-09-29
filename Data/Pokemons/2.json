@@ -1,0 +1,24 @@
+{
+  "id": 2,
+  "num": 2,
+  "name": "Herbizarre",
+  "title": "Pokémon Graine",
+  "desc": "Un bourgeon a poussé sur le dos de ce Pokémon. Pour en supporter le poids, Herbizarre a dû se muscler les pattes. Lorsqu’il commence à se prélasser au soleil, ça signifie que son bourgeon va éclore, donnant naissance à une fleur.",
+  "type": ["Plante", "Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+  "height": 10,
+  "weight": 130,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 62 },
+    "defense":          { "name": "Défense", "value": 63 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 80 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 60 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Bulbizarre", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" },
+    { "index": 1, "name": "Herbizarre", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png" },
+    { "index": 2, "name": "Florizarre", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 9,
+  "num": 9,
+  "name": "Tortank",
+  "title": "Pokémon Carapace",
+  "desc": "Tortank dispose de canons à eau émergeant de sa carapace. Ils sont très précis et peuvent envoyer des balles d’eau capables de faire mouche sur une cible située à plus de 50 m.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+  "height": 16,
+  "weight": 855,
+  "stats": {
+    "hp":                { "name": "PV", "value": 79 },
+    "attack":           { "name": "Attaque", "value": 83 },
+    "defense":          { "name": "Défense", "value": 100 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 85 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 105 },
+    "speed":            { "name": "Vitesse", "value": 78 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Carapuce", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" },
+    { "index": 1, "name": "Carabaffe", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png" },
+    { "index": 2, "name": "Tortank", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 130,
+  "num": 130,
+  "name": "Léviator",
+  "title": "Pokémon Terrifiant",
+  "desc": "Quand Magicarpe évolue et devient Léviator, la structure de ses cellules cérébrales est modifiée. On pense que l’extrême violence de ce Pokémon découle de cette modification.",
+  "type": ["Eau","Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+  "height": 65,
+  "weight": 2350,
+  "stats": {
+    "hp":               { "name": "PV", "value": 95 },
+    "attack":           { "name": "Attaque", "value": 125 },
+    "defense":          { "name": "Défense", "value": 79 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 60 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 100 },
+    "speed":            { "name": "Vitesse", "value": 81 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Magicarpe ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png" },
+    { "index": 1, "name": "Léviator", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png" }
+  ]
+}

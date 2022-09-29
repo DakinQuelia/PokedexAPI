@@ -1,0 +1,23 @@
+{
+  "id": 36,
+  "num": 36,
+  "name": "Mélodelfe",
+  "title": "Pokémon Fée",
+  "desc": "Les Mélodelfe se déplacent en sautant doucement, comme s’ils volaient. Leur démarche légère leur permet même de marcher sur l’eau. On raconte qu’ils se promènent sur les lacs, les soirs où la lune est claire.",
+  "type": ["Fée"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+  "height": 13,
+  "weight": 400,
+  "stats": {
+    "hp":               { "name": "PV", "value": 95 },
+    "attack":           { "name": "Attaque", "value": 70 },
+    "defense":          { "name": "Défense", "value": 73 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 95 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 90 },
+    "speed":            { "name": "Vitesse", "value": 60 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Mélofée", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png" },
+    { "index": 1, "name": "Mélodelfe", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png" }
+  ]
+}

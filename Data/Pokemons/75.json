@@ -1,0 +1,24 @@
+{
+  "id": 75,
+  "num": 75,
+  "name": "Gravalanch",
+  "title": "Pokémon Roche",
+  "desc": "Gravalanch grandit en se nourrissant de cailloux. Apparemment, il a une préférence pour les cailloux recouverts de mousse. En moyenne, il mange une tonne de rochers par jour.",
+  "type": ["Roche","Sol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+  "height": 10,
+  "weight": 1050,
+  "stats": {
+    "hp":               { "name": "PV", "value": 55 },
+    "attack":           { "name": "Attaque", "value": 95 },
+    "defense":          { "name": "Défense", "value": 115 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 45 },
+    "special-defense":  { "name": "Défense Spéciale","value": 45 },
+    "speed":            { "name": "Vitesse", "value": 35 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Racaillou", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png" },
+    { "index": 1, "name": "Gravalanch", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png" },
+    { "index": 2, "name": "Grolem", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png" }
+  ]
+}

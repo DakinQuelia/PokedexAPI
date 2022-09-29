@@ -1,0 +1,23 @@
+{
+  "id": 101,
+  "num": 101,
+  "name": "Électrode",
+  "title": "Pokémon Balle",
+  "desc": "Électrode mange l’électricité qui se trouve dans l’atmosphère. Les jours d’orage, on peut voir ce Pokémon exploser sans arrêt parce qu’il a avalé trop d’électricité.",
+  "type": ["Électrik"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+  "height": 12,
+  "weight": 666,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 50 },
+    "defense":          { "name": "Défense", "value": 70 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 80 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 150 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Voltorbe", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png" },
+    { "index": 1, "name": "Électrode", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png" }
+  ]
+}

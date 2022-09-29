@@ -1,0 +1,24 @@
+{
+  "id": 45,
+  "num": 45,
+  "name": "Rafflesia",
+  "title": "Pokémon Fleur",
+  "desc": "Le pollen toxique de Rafflesia déclenche d'affreuses réactions allergiques. C'est pourquoi il est conseillé de ne jamais s'approcher des jolies fleurs trouvées dans la jungle, même lorsqu'elles sont magnifiques.",
+  "type": ["Plante", "Poison" ],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+  "height": 12,
+  "weight": 186,
+  "stats": {
+    "hp":               { "name": "PV", "value": 75 },
+    "attack":           { "name": "Attaque", "value": 80 },
+    "defense":          { "name": "Défense", "value": 85 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 110 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 90 },
+    "speed":            { "name": "Vitesse", "value": 50 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Mystherbe", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png" },
+    { "index": 1, "name": "Ortide", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png" },
+    { "index": 2, "name": "Rafflesia", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 69,
+  "num": 69,
+  "name": "Chétiflor",
+  "title": "Pokémon Fleur",
+  "desc": "Le corps long et flexible de Chétiflor lui permet de se tordre et d’osciller pour éviter tout type d’attaque, même les plus puissantes. Ce Pokémon crache un fluide corrosif qui peut même dissoudre le fer.",
+  "type": ["Plante", "Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+  "height": 7,
+  "weight": 40,
+  "stats": {
+    "hp":               { "name": "PV", "value": 50 },
+    "attack":           { "name": "Attaque", "value": 75 },
+    "defense":          { "name": "Défense", "value": 35 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 70 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 30 },
+    "speed":            { "name": "Vitesse", "value": 40 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Chétiflor", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png" },
+    { "index": 1, "name": "Boustiflor", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png" },
+    { "index": 2, "name": "Empiflor", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png" }
+  ]
+}

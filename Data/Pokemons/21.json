@@ -1,0 +1,23 @@
+{
+  "id": 21,
+  "num": 21,
+  "name": "Piafabec",
+  "title": "Pokémon Minoiseau",
+  "desc": "Piafabec crie tellement fort qu’il peut être entendu à 1 km de distance. Ces Pokémon se préviennent d’un danger en entonnant une mélopée très aiguë, qu’ils se renvoient les uns les autres, comme un écho.",
+  "type": ["Normal","Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+  "height": 3,
+  "weight": 20,
+  "stats": {
+    "hp":               { "name": "PV", "value": 40 },
+    "attack":           { "name": "Attaque", "value": 60 },
+    "defense":          { "name": "Défense", "value": 30 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 31 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 31 },
+    "speed":            { "name": "Vitesse", "value": 70 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Piafabec", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png" },
+    { "index": 1, "name": "Rapasdepic", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png" }
+  ]
+}

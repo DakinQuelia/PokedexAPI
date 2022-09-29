@@ -1,0 +1,23 @@
+{
+  "id": 140,
+  "num": 140,
+  "name": "Kabuto",
+  "title": "Pokémon Carapace",
+  "desc": "Kabuto est un Pokémon ressuscité à partir d’un fossile. Cependant, on a découvert des spécimens vivants. Ce Pokémon n’a pas changé depuis 300 millions d’années.",
+  "type": ["Roche", "Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+  "height": 5,
+  "weight": 115,
+  "stats": {
+    "hp":               { "name": "PV", "value": 30 },
+    "attack":           { "name": "Attaque", "value": 80 },
+    "defense":          { "name": "Défense", "value": 90 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 55 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 45 },
+    "speed":            { "name": "Vitesse", "value": 55 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Kabuto", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png" },
+    { "index": 1, "name": "Kabutops", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png" }
+  ]
+}

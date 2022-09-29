@@ -1,0 +1,24 @@
+{
+  "id": 42,
+  "num": 42,
+  "name": "Nosferalto",
+  "title": "Pokémon Chovsouris",
+  "desc": "Nosferalto adore boire le sang des créatures vivantes. Il est particulièrement actif pendant les nuits noires. Ce Pokémon se balade dans les cieux étoilés, à la recherche de sang frais.",
+  "type": ["Poison", "Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+  "height": 16,
+  "weight": 550,
+  "stats": {
+    "hp":               { "name": "PV", "value": 75 },
+    "attack":           { "name": "Attaque", "value": 80 },
+    "defense":          { "name": "Défense", "value": 70 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 65 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 75 },
+    "speed":            { "name": "Vitesse", "value": 90 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Nosferapti", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png" },
+    { "index": 1, "name": "Nosferalto", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png" },
+    { "index": 2, "name": "Nostenfer", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png" }
+  ]
+}

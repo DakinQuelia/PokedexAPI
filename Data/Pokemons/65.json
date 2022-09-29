@@ -1,0 +1,24 @@
+{
+  "id": 65,
+  "num": 65,
+  "name": "Alakazam",
+  "title": "Pokémon Psy",
+  "desc": "Le cerveau d’Alakazam grossit sans arrêt, si bien que sa tête devient trop lourde pour son cou. Ce Pokémon maintient sa tête relevée grâce à son pouvoir télékinétique.",
+  "type": ["Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+  "height": 15,
+  "weight": 480,
+  "stats": {
+    "hp":               { "name": "PV", "value": 55 },
+    "attack":           { "name": "Attaque", "value": 50 },
+    "defense":          { "name": "Défense", "value": 45 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 135 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 95 },
+    "speed":            { "name": "Vitesse", "value": 120 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Abra", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png" },
+    { "index": 1, "name": "Kadabra", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" },
+    { "index": 2, "name": "Alakazam", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png" }
+  ]
+}

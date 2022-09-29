@@ -1,0 +1,23 @@
+{
+  "id": 143,
+  "num": 143,
+  "name": "Ronflex",
+  "title": "Pokémon Pionceur",
+  "desc": "Les journées de Ronflex se résument aux repas et aux siestes. C’est un Pokémon tellement gentil que les enfants n’hésitent pas à jouer sur son énorme ventre.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+  "height": 21,
+  "weight": 4600,
+  "stats": {
+    "hp":               { "name": "PV", "value": 160 },
+    "attack":           { "name": "Attaque", "value": 110 },
+    "defense":          { "name": "Défense", "value": 65 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 65 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 110 },
+    "speed":            { "name": "Vitesse", "value": 30 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Goinfrex", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png" },
+    { "index": 1, "name": "Ronflex", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png" }
+  ]
+}

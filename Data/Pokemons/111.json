@@ -1,0 +1,23 @@
+{
+  "id": 111,
+  "num": 111,
+  "name": "Rhinocorne",
+  "title": "Pokémon Piquant",
+  "desc": "Rhinocorne charge droit devant lui, détruisant tout sur son passage. Il ne s’arrête jamais, même lorsqu’il charge un bloc d’acier. Malgré tout, il sent la douleur le lendemain.",
+  "type": ["Sol", "Roche" ],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+  "height": 10,
+  "weight": 1150,
+  "stats": {
+    "hp":               { "name": "PV", "value": 80 },
+    "attack":           { "name": "Attaque", "value": 85 },
+    "defense":          { "name": "Défense", "value": 95 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 30 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 30 },
+    "speed":            { "name": "Vitesse", "value": 25 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Rhinocorne", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png" },
+    { "index": 1, "name": "Rhinoféros", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png" }
+  ]
+}

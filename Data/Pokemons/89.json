@@ -1,0 +1,23 @@
+{
+  "id": 89,
+  "num": 89,
+  "name": "Grotadmorv",
+  "title": "Pokémon Dégueu",
+  "desc": "Un fluide nauséabond suinte du corps de Grotadmorv, agressant les narines de ses ennemis. Une seule goutte de ce fluide suffit à faire croupir un bassin d’eau propre.",
+  "type": ["Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+  "height": 12,
+  "weight": 300,
+  "stats": {
+    "hp":               { "name": "PV", "value": 105 },
+    "attack":           { "name": "Attaque", "value": 105 },
+    "defense":          { "name": "Défense", "value": 75 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 65 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 100 },
+    "speed":            { "name": "Vitesse", "value": 50 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Tadmorv", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png" },
+    { "index": 1, "name": "Grotadmorv", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png" }
+  ]
+}

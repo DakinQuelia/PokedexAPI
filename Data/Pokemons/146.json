@@ -1,0 +1,21 @@
+{
+  "id": 146,
+  "num": 146,
+  "name": "Sulfura",
+  "title": "Pokémon Flamme",
+  "desc": "Sulfura est un Pokémon Oiseau légendaire capable de contrôler le feu. On raconte que lorsque ce Pokémon est blessé, il se baigne dans le magma en ébullition d’un volcan pour se soigner.",
+  "type": ["Feu", "Vol" ],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+  "height": 20,
+  "weight": 600,
+  "stats": {
+    "hp":               { "name": "PV", "value": 90 },
+    "attack":           { "name": "Attaque", "value": 100 },
+    "defense":          { "name": "Défense", "value": 90 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 125 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 85 },
+    "speed":            { "name": "Vitesse", "value": 90
+    }
+  },
+  "evolves": []
+}

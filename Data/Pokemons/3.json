@@ -1,0 +1,24 @@
+{
+  "id": 3,
+  "num": 3,
+  "name": "Florizarre",
+  "title": "Pokémon Graine",
+  "desc": "Une belle fleur se trouve sur le dos de Florizarre. Elle prend une couleur vive lorsqu’elle est bien nourrie et bien ensoleillée. Le parfum de cette fleur peut apaiser les gens.",
+  "type": ["Plante", "Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+  "height": 20,
+  "weight": 1000,
+  "stats": {
+    "hp":               { "name": "PV", "value": 80 },
+    "attack":           { "name": "Attaque", "value": 82 },
+    "defense":          { "name": "Défense", "value": 83 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 100 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 100 },
+    "speed":            { "name": "Vitesse", "value": 80 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Bulbizarre", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" },
+    { "index": 1, "name": "Herbizarre", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png" },
+    { "index": 2, "name": "Florizarre", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png" }
+  ]
+}

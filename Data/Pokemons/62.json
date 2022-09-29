@@ -1,0 +1,24 @@
+{
+  "id": 62,
+  "num": 62,
+  "name": "Tartard",
+  "title": "Pokémon Têtard",
+  "desc": "Les muscles solides et surdéveloppés de Tartard ne se fatiguent jamais, quels que soient les efforts qu’il produit. Ce Pokémon est tellement endurant qu’il peut traverser un océan à la nage avec une étonnante facilité.",
+  "type": ["Eau", "Combat"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+  "height": 13,
+  "weight": 540,
+  "stats": {
+    "hp":               { "name": "PV", "value": 90 },
+    "attack":           { "name": "Attaque", "value": 95 },
+    "defense":          { "name": "Défense", "value": 95 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 70 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 90 },
+    "speed":            { "name": "Vitesse", "value": 70 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Ptitard", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png" },
+    { "index": 1, "name": "Têtarte", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png" },
+    { "index": 2, "name": "Tartard", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png" }
+  ]
+}

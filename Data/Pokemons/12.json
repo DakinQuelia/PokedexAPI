@@ -1,0 +1,24 @@
+{
+  "id": 12,
+  "num": 12,
+  "name": "Papilusion",
+  "title": "Pokémon Papillon",
+  "desc": "Papilusion est très doué pour repérer le délicieux nectar qu’il butine dans les fleurs. Il peut détecter, extraire et transporter le nectar de fleurs situées à plus de 10 km de son nid.",
+  "type": ["Insecte","Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+  "height": 11,
+  "weight": 320,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 45 },
+    "defense":          { "name": "Défense", "value": 50 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 90 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 70 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Chenipan", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png" },
+    { "index": 1, "name": "Chrysacier", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png" },
+    { "index": 2, "name": "Papilusion", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png" }
+  ]
+}

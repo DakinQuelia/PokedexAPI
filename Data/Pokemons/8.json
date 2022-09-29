@@ -1,0 +1,24 @@
+{
+  "id": 8,
+  "num": 8,
+  "name": "Carabaffe",
+  "title": "Pokémon Tortue",
+  "desc": "Carabaffe a une large queue recouverte d’une épaisse fourrure. Elle devient de plus en plus foncée avec l’âge. Les éraflures sur la carapace de ce Pokémon témoignent de son expérience au combat.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+  "height": 10,
+  "weight": 225,
+  "stats": {
+    "hp":               { "name": "PV", "value": 59 },
+    "attack":           { "name": "Attaque", "value": 63 },
+    "defense":          { "name": "Défense", "value": 80 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 65 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 58 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Carapuce", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" },
+    { "index": 1, "name": "Carabaffe", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png" },
+    { "index": 2, "name": "Tortank", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png" }
+  ]
+}

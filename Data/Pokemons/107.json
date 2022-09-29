@@ -1,0 +1,23 @@
+{
+  "id": 107,
+  "num": 107,
+  "name": "Tygnon",
+  "title": "Pokémon Puncheur",
+  "desc": "On raconte que Tygnon dispose de l’état d’esprit d’un boxeur qui s’entraîne pour le championnat du monde. Ce Pokémon est doté d’une ténacité à toute épreuve et n’abandonne jamais face à l’adversité.",
+  "type": ["Combat"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+  "height": 14,
+  "weight": 502,
+  "stats": {
+    "hp":               { "name": "PV", "value": 50 },
+    "attack":           { "name": "Attaque", "value": 105 },
+    "defense":          { "name": "Défense", "value": 79 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 35 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 110 },
+    "speed":            { "name": "Vitesse", "value": 76 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Debugant", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png" },
+    { "index": 1, "name": "Tygnon", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png" }
+  ]
+}

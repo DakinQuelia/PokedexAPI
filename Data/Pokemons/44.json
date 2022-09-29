@@ -1,0 +1,24 @@
+{
+  "id": 44,
+  "num": 44,
+  "name": "Ortide",
+  "title": "Pokémon Racine",
+  "desc": "La plupart du temps, Ortide dégage un parfum immonde du pistil de sa fleur. Lorsqu’il se sent en danger, la puanteur est encore pire. Lorsque ce Pokémon se sent bien et en sécurité, il ne dégage aucune odeur nauséabonde.",
+  "type": ["Plante","Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+  "height": 8,
+  "weight": 86,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "defense":          { "name": "Défense", "value": 70 },
+    "attack":           { "name": "Attaque", "value": 65 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 85 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 75 },
+    "speed":            { "name": "Vitesse", "value": 40 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Mystherbe", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png" },
+    { "index": 1, "name": "Ortide", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png" },
+    { "index": 2, "name": "Rafflesia", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png" }
+  ]
+}

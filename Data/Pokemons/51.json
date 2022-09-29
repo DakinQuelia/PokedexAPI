@@ -1,0 +1,23 @@
+{
+  "id": 51,
+  "num": 51,
+  "name": "Triopikeur",
+  "title": "Pokémon Taupe",
+  "desc": "Les Triopikeur sont en fait des triplés qui ont émergé du même corps. C’est pourquoi chaque triplé pense exactement comme les deux autres. Ils creusent inlassablement, dans une coopération parfaite.",
+  "type": ["Sol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+  "height": 7,
+  "weight": 333,
+  "stats": {
+    "hp":               { "name": "PV", "value": 35 },
+    "attack":           { "name": "Attaque", "value": 100 },
+    "defense":          { "name": "Défense", "value": 50 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 50 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 70 },
+    "speed":            { "name": "Vitesse", "value": 120 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Taupiqueur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png" },
+    { "index": 1, "name": "Triopikeur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 439,
+  "num": 439,
+  "name": "Mime Jr.",
+  "title": "Pokémon Mime",
+  "desc": "Quand un adversaire reste bouche bée face à ses talents de mime, il est tellement content qu'il en oublie de continuer sa performance.",
+  "type": ["Psy","Fée"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png",
+  "height": 6,
+  "weight": 130,
+  "stats": {
+    "hp":               { "name": "PV", "value": 20 },
+    "attack":           { "name": "Attaque", "value": 25 },
+    "defense":          { "name": "Défense", "value": 45 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 70 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 90 },
+    "speed":            { "name": "Vitesse", "value": 60 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Mime Jr.", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png" },
+    { "index": 1, "name": "M. Mime", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png" }
+  ]
+}

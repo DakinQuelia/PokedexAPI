@@ -1,0 +1,23 @@
+{
+  "id": 72,
+  "num": 72,
+  "name": "Tentacool",
+  "title": "Pokémon Mollusque",
+  "desc": "Le corps de Tentacool est principalement aqueux. Si on le retire de l’eau, il se déshydrate complètement. Si cela arrive, il suffit de le replonger dans un liquide pour qu’il reprenne sa forme normale.",
+  "type": ["Eau", "Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+  "height": 9,
+  "weight": 455,
+  "stats": {
+    "hp":               { "name": "PV", "value": 40 },
+    "attack":           { "name": "Attaque", "value": 40 },
+    "defense":          { "name": "Défense", "value": 35 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 50 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 100 },
+    "speed":            { "name": "Vitesse", "value": 70 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Tentacool", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png" },
+    { "index": 1, "name": "Tentacruel", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png" }
+  ]
+}

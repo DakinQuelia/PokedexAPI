@@ -1,0 +1,23 @@
+{
+  "id": 40,
+  "num": 40,
+  "name": "Grodoudou",
+  "title": "Pokémon Bouboule",
+  "desc": "Grodoudou a des yeux immenses et écarquillés. La surface de ses yeux est couverte d’une fine couche de larmes. Si de la poussière est projetée dans les yeux de ce Pokémon, elle est rapidement évacuée.",
+  "type": ["Normal", "Fée"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+  "height": 10,
+  "weight": 120,
+  "stats": {
+    "hp":               { "name": "PV", "value": 140 },
+    "attack":           { "name": "Attaque", "value": 70 },
+    "defense":          { "name": "Défense", "value": 45 }, 
+    "special-attack":   { "name": "Attaque Spéciale", "value": 85 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 50 },
+    "speed":            { "name": "Vitesse", "value": 45 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Rondoudou", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png" },
+    { "index": 1, "name": "Grodoudou", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 7,
+  "num": 7,
+  "name": "Carapuce",
+  "title": "Pokémon Minitortue",
+  "desc": "La carapace de Carapuce ne sert pas qu’à le protéger. La forme ronde de sa carapace et ses rainures lui permettent d’améliorer son hydrodynamisme.Ce Pokémon nage extrêmement vite.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+  "height": 5,
+  "weight": 90,
+  "stats": {
+    "hp":               { "name": "PV", "value": 44 },
+    "attack":           { "name": "Attaque", "value": 48 },
+    "defense":          { "name": "Défense", "value": 65 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 50 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 64 },
+    "speed":            { "name": "Vitesse", "value": 43 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Carapuce", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" },
+    { "index": 1, "name": "Carabaffe", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png" },
+    { "index": 2, "name": "Tortank", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 138,
+  "num": 138,
+  "name": "Amonita",
+  "title": "Pokémon Spirale",
+  "desc": "Amonita est l’un des Pokémon disparus depuis longtemps et qui furent ressuscités à partir de fossiles. Lorsqu’il est attaqué par un ennemi, il se rétracte dans sa coquille.",
+  "type": ["Roche", "Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+  "height": 4,
+  "weight": 75,
+  "stats": {
+    "hp":               { "name": "PV", "value": 35 },
+    "attack":           { "name": "Attaque", "value": 40 },
+    "defense":          { "name": "Défense", "value": 100 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 90 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 55 },
+    "speed":            { "name": "Vitesse", "value": 35 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Amonita", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png" },
+    { "index": 1, "name": "Amonistar", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png" }
+  ]
+}

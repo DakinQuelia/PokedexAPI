@@ -1,0 +1,20 @@
+{
+  "id": 131,
+  "num": 131,
+  "name": "Lokhlass",
+  "title": "Pokémon Transport",
+  "desc": "Les Lokhlass sont en voie d’extinction. Le soir, on entend ce Pokémon chantonner une complainte mélancolique, espérant retrouver ses rares congénères.",
+  "type": ["Eau", "Glace" ],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+  "height": 25,
+  "weight": 2200,
+  "stats": {
+    "hp":               { "name": "PV", "value": 130 },
+    "attack":           { "name": "Attaque", "value": 85 },
+    "defense":          { "name": "Défense", "value": 80 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 85 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 95 },
+    "speed":            { "name": "Vitesse", "value": 60 }
+  },
+  "evolves": []
+}

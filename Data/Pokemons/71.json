@@ -1,0 +1,24 @@
+{
+  "id": 71,
+  "num": 71,
+  "name": "Empiflor",
+  "title": "Pokémon Carnivore",
+  "desc": "Empiflor est doté d’une longue liane qui part de sa tête. Cette liane se balance et remue comme un animal pour attirer ses proies. Lorsque l’une d’elles s’approche un peu trop près, ce Pokémon l’avale entièrement.",
+  "type": ["Plante","Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+  "height": 17,
+  "weight": 155,
+  "stats": {
+    "hp":               { "name": "PV", "value": 80 },
+    "attack":           { "name": "Attaque", "value": 105 },
+    "defense":          { "name": "Défense", "value": 65 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 100 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 70 },
+    "speed":            { "name": "Vitesse", "value": 70 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Chétiflor", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png" },
+    { "index": 1, "name": "Boustiflor", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png" },
+    { "index": 2, "name": "Empiflor", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png" }
+  ]
+}

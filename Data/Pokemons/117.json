@@ -1,0 +1,23 @@
+{
+  "id": 117,
+  "num": 117,
+  "name": "Hypocéan",
+  "title": "Pokémon Dragon",
+  "desc": "Hypocéan s’accroche aux récifs de corail avant de s’endormir. Les pêcheurs de coraux se font parfois piquer par les aiguillons de ce Pokémon lorsqu’ils ne font pas attention.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+  "height": 12,
+  "weight": 250,
+  "stats": {
+    "hp":               { "name": "PV", "value": 55 },
+    "attack":           { "name": "Attaque", "value": 65 },
+    "defense":          { "name": "Défense", "value": 95 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 95 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 45 },
+    "speed":            { "name": "Vitesse", "value": 85 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Hypotrempe", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png" },
+    { "index": 1, "name": "Hypocéan", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png" }
+  ]
+}

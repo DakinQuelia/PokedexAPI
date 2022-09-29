@@ -1,0 +1,24 @@
+{
+  "id": 32,
+  "num": 32,
+  "name": "Nidoran♂",
+  "title": "Pokémon Vénépic",
+  "desc": "Nidoran♂ a développé des muscles pour bouger ses oreilles. Ainsi, il peut les orienter à sa guise.Ce Pokémon peut entendre le plus discret des bruits.",
+  "type": ["Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+  "height": 5,
+  "weight": 90,
+  "stats": {
+    "hp":               { "name": "PV", "value": 46 },
+    "attack":           { "name": "Attaque", "value": 57 },
+    "defense":          { "name": "Défense", "value": 40 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 40 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 40 },
+    "speed":            { "name": "Vitesse", "value": 50 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Nidoran♂", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png" },
+    { "index": 1, "name": "Nidorino", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png" },
+    { "index": 2, "name": "Nidoking", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png" }
+  ]
+}

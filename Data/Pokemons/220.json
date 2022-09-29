@@ -1,0 +1,20 @@
+{
+  "id": 220,
+  "num": 220,
+  "name": "Marcacrin",
+  "title": "Pokémon Cochon",
+  "desc": "Marcacrin cherche sa nourriture en frottant son groin par terre. Son plat préféré est un champignon qui pousse sous l'herbe fanée. Ce Pokémon découvre parfois des sources d'eau chaude.",
+  "type": ["Glace", "Sol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png",
+  "height": 4,
+  "weight": 65,
+  "stats": {
+    "hp":               { "name": "PV", "value": 50 },
+    "attack":           { "name": "Attaque", "value": 50},
+    "defense":          { "name": "Défense", "value": 40 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 30 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 30 },
+    "speed":            { "name": "Vitesse", "value": 50 }
+  },
+  "evolves": []
+}

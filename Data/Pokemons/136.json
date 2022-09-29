@@ -1,0 +1,23 @@
+{
+  "id": 136,
+  "num": 136,
+  "name": "Pyroli",
+  "title": "Pokémon Flamme",
+  "desc": "La fourrure soyeuse de Pyroli a une fonction anatomique. Elle rejette la chaleur dans l’air pour que son corps ne surchauffe pas. La température du corps de ce Pokémon peut atteindre 900 °C.",
+  "type": ["Feu"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+  "height": 9,
+  "weight": 250,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 130 },
+    "defense":          { "name": "Défense", "value": 60 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 95 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 110 },
+    "speed":            { "name": "Vitesse", "value": 65 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Évoli ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" },
+    { "index": 1, "name": "Pyroli", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png" }
+  ]
+}

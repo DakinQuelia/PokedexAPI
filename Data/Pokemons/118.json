@@ -1,0 +1,23 @@
+{
+  "id": 118,
+  "num": 118,
+  "name": "Poissirène",
+  "title": "Pokémon Poisson",
+  "desc": "Poissirène est un Pokémon magnifique doté de nageoires qui ondulent élégamment dans les profondeurs. Il ne faut pourtant pas baisser sa garde face à ce Pokémon, car il peut charger avec sa puissante corne.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+  "height": 6,
+  "weight": 150,
+  "stats": {
+    "hp":               { "name": "PV", "value": 45 },
+    "attack":           { "name": "Attaque", "value": 67 },
+    "defense":          { "name": "Défense", "value": 60 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 35 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 50 },
+    "speed":            { "name": "Vitesse", "value": 63 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Poissirène", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png" },
+    { "index": 1, "name": "Poissoroy", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 60,
+  "num": 60,
+  "name": "Ptitard",
+  "title": "Pokémon Têtard",
+  "desc": "Ptitard a une peau très fine. On peut même voir les entrailles en spirale de ce Pokémon à travers sa peau. Malgré sa finesse, cette peau est aussi très élastique. Même les crocs les plus acérés rebondissent dessus.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+  "height": 6,
+  "weight": 124,
+  "stats": {
+    "hp":               { "name": "PV", "value": 40 },
+    "attack":           { "name": "Attaque", "value": 50 },
+    "defense":          { "name": "Défense", "value": 40 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 40 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 40 },
+    "speed":            { "name": "Vitesse", "value": 90 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Ptitard", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png" },
+    { "index": 1, "name": "Têtarte", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png" },
+    { "index": 2, "name": "Tartard", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png" }
+  ]
+}

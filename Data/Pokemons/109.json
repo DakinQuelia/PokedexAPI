@@ -1,0 +1,23 @@
+{
+  "id": 109,
+  "num": 109,
+  "name": "Smogo",
+  "title": "Pokémon Gaz Mortel",
+  "desc": "Lorsque Smogo s’agite, ça augmente la toxicité de ses gaz internes. Il les projette ensuite par les nombreux orifices de son corps. Ce Pokémon peut aussi gonfler son corps et le faire exploser.",
+  "type": ["Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+  "height": 6,
+  "weight": 10,
+  "stats": {
+    "hp":               { "name": "PV", "value": 40 },
+    "attack":           { "name": "Attaque", "value": 65 },
+    "defense":          { "name": "Défense", "value": 95 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 60 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 45 },
+    "speed":            { "name": "Vitesse", "value": 35 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Smogo", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png" },
+    { "index": 1, "name": "Smogogo", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png" }
+  ]
+}

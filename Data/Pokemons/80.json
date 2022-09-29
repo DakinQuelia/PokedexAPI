@@ -1,0 +1,23 @@
+{
+  "id": 80,
+  "num": 80,
+  "name": "Flagadoss",
+  "title": "Pokémon Symbiose",
+  "desc": "Flagadoss a un Kokiyas solidement attaché à sa queue. Du coup, il ne peut plus l'utiliser pour pêcher. Flagadoss s'est donc obligé, à contrecœur, de nager pour attraper ses proies.",
+  "type": ["Eau", "Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+  "height": 16,
+  "weight": 785,
+  "stats": {
+    "hp":               { "name": "PV", "value": 95 },
+    "attack":           { "name": "Attaque", "value": 75 },
+    "defense":          { "name": "Défense", "value": 110 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 100 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 30 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Ramoloss", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png" },
+    { "index": 1, "name": "Flagadoss", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png" }
+  ]
+}

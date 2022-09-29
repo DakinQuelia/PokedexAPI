@@ -1,0 +1,23 @@
+{
+  "id": 58,
+  "num": 58,
+  "name": "Caninos",
+  "title": "Pokémon Chiot",
+  "desc": "Caninos a un odorat très développé. Ce Pokémon n’oublie jamais un parfum, quel qu’il soit. Il utilise son puissant sens olfactif pour deviner les émotions des autres créatures vivantes.",
+  "type": ["Feu"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+  "height": 7,
+  "weight": 190,
+  "stats": {
+    "hp":               { "name": "PV", "value": 55 },
+    "attack":           { "name": "Attaque", "value": 70 },
+    "defense":          { "name": "Défense", "value": 45 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 70 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 50 },
+    "speed":            { "name": "Vitesse", "value": 60 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Caninos", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png" },
+    { "index": 1, "name": "Arcanin", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png" }
+  ]
+}

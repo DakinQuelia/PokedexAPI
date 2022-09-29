@@ -1,0 +1,23 @@
+{
+  "id": 22,
+  "num": 22,
+  "name": "Rapasdepic",
+  "title": "Pokémon Bec-Oiseau",
+  "desc": "On reconnaît un Rapasdepic à son long cou et à son bec allongé. Ces attributs lui permettent d’attraper facilement ses proies dans la terre ou dans l’eau. Il bouge son bec long et fin avec une grande agilité.",
+  "type": ["Normal","Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+  "height": 12,
+  "weight": 380,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 90 },
+    "defense":          { "name": "Défense", "value": 65 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 61 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 61 },
+    "speed":            { "name": "Vitesse", "value": 100 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Piafabec", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png" },
+    { "index": 1, "name": "Rapasdepic", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png" }
+  ]
+}

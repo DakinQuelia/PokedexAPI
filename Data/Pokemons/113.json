@@ -1,0 +1,20 @@
+{
+  "id": 113,
+  "num": 113,
+  "name": "Leveinard",
+  "title": "Pokémon Œuf",
+  "desc": "Leveinard pond tous les jours des œufs pleins de vitamines. Ces œufs sont tellement bons que les gens les mangent même quand ils n’ont pas faim.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+  "height": 11,
+  "weight": 346,
+  "stats": {
+    "hp":               { "name": "PV", "value": 250 },
+    "attack":           { "name": "Attaque", "value": 5 },
+    "defense":          { "name": "Défense", "value": 5 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 35 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 105 },
+    "speed":            { "name": "Vitesse", "value": 50 }
+  },
+  "evolves": []
+}

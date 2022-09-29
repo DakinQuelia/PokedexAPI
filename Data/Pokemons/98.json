@@ -1,0 +1,23 @@
+{
+  "id": 98,
+  "num": 98,
+  "name": "Krabby",
+  "title": "Pokémon Doux Crabe",
+  "desc": "Krabby vit sur les plages, enterré dans le sable. Sur les plages où on trouve peu de nourriture, on peut voir ces Pokémon se disputer pour défendre leur territoire.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+  "height": 4,
+  "weight": 65,
+  "stats": {
+    "hp":               { "name": "PV", "value": 30 },
+    "attack":           { "name": "Attaque", "value": 105 },
+    "defense":          { "name": "Défense", "value": 90 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 25},
+    "special-defense":  { "name": "Défense Spéciale", "value": 25 },
+    "speed":            { "name": "Vitesse", "value": 50 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Krabby", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png" },
+    { "index": 1, "name": "Krabboss", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png" }
+  ]
+}

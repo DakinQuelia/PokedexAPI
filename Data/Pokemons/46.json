@@ -1,0 +1,23 @@
+{
+  "id": 46,
+  "num": 46,
+  "name": "Paras",
+  "title": "Pokémon Champignon",
+  "desc": "Paras accueille des champignons parasites appelés tochukaso qui poussent sur son dos. Ils grandissent grâce aux nutriments trouvés sur le dos de ce Pokémon Insecte. Ils peuvent rallonger l’espérance de vie.",
+  "type": ["Insecte", "Plante" ],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+  "height": 3,
+  "weight": 54,
+  "stats": {
+    "hp":               { "name": "PV", "value": 35 },
+    "attack":           { "name": "Attaque", "value": 70 },
+    "defense":          { "name": "Défense", "value": 55 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 45 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 55 },
+    "speed":            { "name": "Vitesse", "value": 25 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Paras", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png" },
+    { "index": 1, "name": "Parasect", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 95,
+  "num": 95,
+  "name": "Onix",
+  "title": "Pokémon Serpenroc",
+  "desc": "Onix a dans le cerveau un aimant qui lui sert de boussole. Il permet à ce Pokémon de ne pas se perdre pendant qu’il creuse. En prenant de l’âge, son corps s’arrondit et se polit.",
+  "type": ["Roche","Sol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+  "height": 88,
+  "weight": 2100,
+  "stats": {
+    "hp":               { "name": "PV", "value": 35 },
+    "attack":           { "name": "Attaque", "value": 45 },
+    "defense":          { "name": "Défense", "value": 160 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 30 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 45 },
+    "speed":            { "name": "Vitesse", "value": 70 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Onix", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png" },
+    { "index": 1, "name": "Steelix", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png" }
+  ]
+}

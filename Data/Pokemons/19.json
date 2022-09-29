@@ -1,0 +1,23 @@
+{
+  "id": 19,
+  "num": 19,
+  "name": "Rattata",
+  "title": "Pokémon Souris",
+  "desc": "Rattata est extrêmement prudent. Même lorsqu'il est endormi, il fait pivoter ses oreilles pour écouter autour de lui. En ce qui concerne son habitat, il n'est vraiment pas difficile. Il peut faire son nid n'importe où.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+  "height": 3,
+  "weight": 35,
+  "stats": {
+    "hp":               { "name": "PV", "value": 30 },
+    "attack":           { "name": "Attaque", "value": 56 },
+    "defense":          { "name": "Défense", "value": 35 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 25 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 35 },
+    "speed":            { "name": "Vitesse", "value": 72 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Rattata", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png" },
+    { "index": 1, "name": "Rattatac", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png" }
+  ]
+}

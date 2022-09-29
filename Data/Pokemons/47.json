@@ -1,0 +1,23 @@
+{
+  "id": 47,
+  "num": 47,
+  "name": "Parasect",
+  "title": "Pokémon Champignon",
+  "desc": "On sait que les Parasect vivent en groupe dans les grands arbres et se nourrissent des nutriments contenus dans le tronc et les racines. Lorsqu’un arbre infesté meurt, ils se précipitent vers le prochain.",
+  "type": ["Insecte", "Plante"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+  "height": 10,
+  "weight": 295,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 95 },
+    "defense":          { "name": "Défense", "value": 80 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 60 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 30 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Paras", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png" },
+    { "index": 1, "name": "Parasect", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png" }
+  ]
+}

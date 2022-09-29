@@ -1,0 +1,23 @@
+{
+  "id": 240,
+  "num": 240,
+  "name": "Magby",
+  "title": "Pokémon Charbon",
+  "desc": "L'état de santé de Magby peut être deviné selon le type de flamme qu'il crache. Si ce Pokémon crache des flammes jaunes, c'est qu'il est en bonne santé. Lorsqu'il est fatigué, de la fumée noire s'ajoute aux flammes.",
+  "type": ["Feu"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
+  "height": 7,
+  "weight": 214,
+  "stats": {
+    "hp":               { "name": "PV", "value": 45 },
+    "attack":           { "name": "Attaque", "value": 75 },
+    "defense":          { "name": "Défense", "value": 37 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 70 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 55 },
+    "speed":            { "name": "Vitesse", "value": 83 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Magby ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png" },
+    { "index": 1, "name": "Magmar", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png" }
+  ]
+}

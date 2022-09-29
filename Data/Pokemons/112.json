@@ -1,0 +1,23 @@
+{
+  "id": 112,
+  "num": 112,
+  "name": "Rhinoféros",
+  "title": "Pokémon Perceur",
+  "desc": "La corne de Rhinoféros peut même casser du diamant brut. Et avec un simple coup de queue, il peut détruire un bâtiment. La peau de ce Pokémon est incroyablement dure. Un boulet de canon ne lui ferait même pas une égratignure.",
+  "type": ["Sol", "Roche"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+  "height": 19,
+  "weight": 1200,
+  "stats": {
+    "hp":               { "name": "PV", "value": 105 },
+    "attack":           { "name": "Attaque", "value": 130 },
+    "defense":          { "name": "Défense", "value": 120 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 45 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 45 },
+    "speed":            { "name": "Vitesse", "value": 40 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Rhinocorne", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png" },
+    { "index": 1, "name": "Rhinoféros", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png" }
+  ]
+}

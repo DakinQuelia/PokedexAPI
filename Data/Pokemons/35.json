@@ -1,0 +1,23 @@
+{
+  "id": 35,
+  "num": 35,
+  "name": "Mélofée",
+  "title": "Pokémon Fée",
+  "desc": "Les nuits de pleine lune, des groupes de ces Pokémon sortent jouer. Lorsque l’aube commence à poindre, les Mélofée fatigués rentrent dans leur retraite montagneuse et vont dormir, blottis les uns contre les autres.",
+  "type": ["Fée"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+  "height": 6,
+  "weight": 75,
+  "stats": {
+    "hp":               { "name": "PV", "value": 70 },
+    "attack":           { "name": "Attaque", "value": 45 },
+    "defense":          { "name": "Défense", "value": 48 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 60 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 65 },
+    "speed":            { "name": "Vitesse", "value": 35 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Mélofée", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png" },
+    { "index": 1, "name": "Mélodelfe", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png" }
+  ]
+}

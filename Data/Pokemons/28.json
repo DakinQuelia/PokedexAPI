@@ -1,0 +1,23 @@
+{
+  "id": 28,
+  "num": 28,
+  "name": "Sablaireau",
+  "title": "Pokémon Souris",
+  "desc": "Le corps de Sablaireau est recouvert de pointes très dures, qui sont des extensions de sa peau. Une fois par an, ce Pokémon mue et les vieilles pointes tombent, remplacées par de nouvelles.",
+  "type": ["Sol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+  "height": 10,
+  "weight": 295,
+  "stats": {
+    "hp":               { "name": "PV", "value": 75 },
+    "attack":           { "name": "Attaque", "value": 100 },
+    "defense":          { "name": "Défense", "value": 110 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 45 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 55 },
+    "speed":            { "name": "Vitesse", "value": 65 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Sabelette", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png" },
+    { "index": 1, "name": "Sablaireau", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 87,
+  "num": 87,
+  "name": "Lamantine",
+  "title": "Pokémon Otarie",
+  "desc": "Lamantine adore piquer un roupillon à même la glace. Il y a très longtemps, un marin ayant aperçu ce Pokémon dormant sur un glacier a cru voir une sirène.",
+  "type": ["Eau", "Glace" ],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+  "height": 17,
+  "weight": 1200,
+  "stats": {
+    "hp":               { "name": "PV", "value": 90 },
+    "attack":           { "name": "Attaque", "value": 70 },
+    "defense":          { "name": "Défense", "value": 80 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 70 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 95 },
+    "speed":            { "name": "Vitesse", "value": 70 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Otaria", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png" },
+    { "index": 1, "name": "Lamantine", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png" }
+  ]
+}

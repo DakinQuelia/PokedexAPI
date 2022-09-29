@@ -1,0 +1,24 @@
+{
+  "id": 149,
+  "num": 149,
+  "name": "Dracolosse",
+  "title": "Pokémon Dragon",
+  "desc": "Dracolosse est capable de faire le tour de la planète en seize heures à peine. C’est un Pokémon au grand cœur qui ramène à bon port les navires perdus dans les tempêtes.",
+  "type": ["Dragon", "Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+  "height": 22,
+  "weight": 2100,
+  "stats": {
+    "hp":               { "name": "PV", "value": 91 },
+    "attack":           { "name": "Attaque", "value": 134 },
+    "defense":          { "name": "Défense", "value": 95 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 100 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 100 },
+    "speed":            { "name": "Vitesse", "value": 80 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Minidraco", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png" },
+    { "index": 1, "name": "Draco", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png" },
+    { "index": 2, "name": "Dracolosse", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 120,
+  "num": 120,
+  "name": "Stari",
+  "title": "Pokémon Étoile",
+  "desc": "Au centre de Stari se trouve un organe rouge et brillant appelé le cœur. À la fin de l’été, sur les plages, les cœurs de ces Pokémon brillent comme les étoiles dans le ciel.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+  "height": 8,
+  "weight": 345,
+  "stats": {
+    "hp":               { "name": "PV", "value": 30 },
+    "attack":           { "name": "Attaque", "value": 45 },
+    "defense":          { "name": "Défense", "value": 55 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 70 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 55 },
+    "speed":            { "name": "Vitesse", "value": 85 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Stari", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png" },
+    { "index": 1, "name": "Staross", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png" }
+  ]
+}

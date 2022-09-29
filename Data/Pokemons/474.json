@@ -1,0 +1,24 @@
+{
+  "id": 474,
+  "num": 474,
+  "name": "Porygon-Z",
+  "title": "Pokémon Virtuel",
+  "desc": "Le logiciel qu'on lui a implanté était de toute évidence défaillant. Il s'agit sans doute d'une expérience ratée, vu son étrange comportement.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png",
+  "height": 9,
+  "weight": 340,
+  "stats": {
+    "hp":               { "name": "PV", "value": 85 },
+    "attack":           { "name": "Attaque", "value": 80 },
+    "defense":          { "name": "Défense", "value": 70 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 135 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 75 },
+    "speed":            { "name": "Vitesse", "value": 90 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Porygon ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png" },
+    { "index": 1, "name": "Porygon2", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png" },
+    { "index": 2, "name": "Porygon-Z", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png" }
+  ]
+}

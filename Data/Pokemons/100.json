@@ -1,0 +1,23 @@
+{
+  "id": 100,
+  "num": 100,
+  "name": "Voltorbe",
+  "title": "Pokémon Balle",
+  "desc": "La première fois qu’on a vu Voltorbe, c’était dans une usine qui fabrique des Poké Balls. Personne n’a jamais pu expliquer le lien entre cet événement et la ressemblance frappante de ce Pokémon avec une Poké Ball.",
+  "type": ["Électrik"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+  "height": 5,
+  "weight": 104,
+  "stats": {
+    "hp":               { "name": "PV", "value": 40 },
+    "attack":           { "name": "Attaque", "value": 30 },
+    "defense":          { "name": "Défense", "value": 50 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 55 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 55 },
+    "speed":            { "name": "Vitesse", "value": 100 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Voltorbe", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png" },
+    { "index": 1, "name": "Électrode", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png" }
+  ]
+}

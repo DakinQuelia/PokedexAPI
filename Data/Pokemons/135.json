@@ -1,0 +1,23 @@
+{
+  "id": 135,
+  "num": 135,
+  "name": "Voltali",
+  "title": "Pokémon Orage",
+  "desc": "Les cellules de Voltali génèrent un courant de faible intensité. Ce pouvoir est amplifié par l’électricité statique de ses poils, ce qui lui permet d’envoyer des éclairs. Sa fourrure hérissée est faite d’aiguilles chargées d’électricité.",
+  "type": ["Électrik"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+  "height": 8,
+  "weight": 245,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 65 },
+    "defense":          { "name": "Défense", "value": 60 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 110 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 95 },
+    "speed":            { "name": "Vitesse", "value": 130 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Évoli ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" },
+    { "index": 1, "name": "Voltali", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png" }
+  ]
+}

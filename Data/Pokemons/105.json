@@ -1,0 +1,23 @@
+{
+  "id": 105,
+  "num": 105,
+  "name": "Ossatueur",
+  "title": "Pokémon Gard’Os",
+  "desc": "Ossatueur est la forme évoluée d'Osselait. il a surmonté le chagrin causé par la perte de sa maman et s'est endurci. Le tempérament décidé et entier de ce Pokémon le rend très difficile à amadouer.",
+  "type": ["Sol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+  "height": 10,
+  "weight": 450,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 80 },
+    "defense":          { "name": "Défense", "value": 110 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 50 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 45 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Osselait", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png" },
+    { "index": 1, "name": "Ossatueur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png" }
+  ]
+}

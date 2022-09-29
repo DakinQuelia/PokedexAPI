@@ -1,0 +1,20 @@
+{
+  "id": 83,
+  "num": 83,
+  "name": "Canarticho",
+  "title": "Pokémon Canard Fou",
+  "desc": "On voit souvent des Canarticho avec une tige, récupérée sur une plante quelconque. Apparemment, ils peuvent distinguer les bonnes des mauvaises. On a vu ces Pokémon se battre pour des histoires de tiges.",
+  "type": ["Normal", "Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+  "height": 8,
+  "weight": 150,
+  "stats": {
+    "hp":               { "name": "PV", "value": 52 },
+    "attack":           { "name": "Attaque", "value": 90 },
+    "defense":          { "name": "Défense", "value": 55 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 58 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 62 },
+    "speed":            { "name": "Vitesse", "value": 60 }
+  },
+  "evolves": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": 129,
+  "num": 129,
+  "name": "Magicarpe",
+  "title": "Pokémon Poisson",
+  "desc": "Magicarpe est un Pokémon ridicule qui ne sait faire que des ronds dans l’eau ou se laisser porter par les courants. Son comportement a donné envie aux savants d’étudier son cas.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+  "height": 9,
+  "weight": 100,
+  "stats": {
+    "hp":               { "name": "PV", "value": 20 },
+    "attack":           { "name": "Attaque", "value": 10 },
+    "defense":          { "name": "Défense", "value": 55 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 15 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 20 },
+    "speed":            { "name": "Vitesse", "value": 80 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Magicarpe ", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png" },
+    { "index": 1, "name": "Léviator", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png" }
+  ]
+}

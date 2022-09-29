@@ -1,0 +1,24 @@
+{
+  "id": 68,
+  "num": 68,
+  "name": "Mackogneur",
+  "title": "Pokémon Colosse",
+  "desc": "Mackogneur est capable de déplacer n’importe quelle masse. Cependant, ses bras s’emmêlent dès qu’il essaie de réaliser un travail délicat ou minutieux. Ce Pokémon a tendance à cogner d’abord et à réfléchir ensuite.",
+  "type": ["Combat"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+  "height": 16,
+  "weight": 1300,
+  "stats": {
+    "hp":               { "name": "PV", "value": 90 },
+    "attack":           { "name": "Attaque", "value": 130 },
+    "defense":          { "name": "Défense", "value": 80 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 65 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 85 },
+    "speed":            { "name": "Vitesse", "value": 55 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Machoc", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png" },
+    { "index": 1, "name": "Machopeur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png" },
+    { "index": 2, "name": "Mackogneur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png" }
+  ]
+}

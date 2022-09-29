@@ -1,0 +1,23 @@
+{
+  "id": 56,
+  "num": 56,
+  "name": "Férosinge",
+  "title": "Pokémon Porsinge",
+  "desc": "Lorsque Férosinge commence à trembler et que sa respiration devient haletante, cela signifie qu’il est en colère. En outre, la moutarde lui monte au nez tellement vite qu’il est presque impossible d’échapper à sa colère.",
+  "type": ["Combat"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+  "height": 5,
+  "weight": 280,
+  "stats": {
+    "hp":               { "name": "PV", "value": 40 },
+    "attack":           { "name": "Attaque", "value": 80 },
+    "defense":          { "name": "Défense", "value": 35 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 35 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 45 },
+    "speed":            { "name": "Vitesse", "value": 70 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Férosinge", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png" },
+    { "index": 1, "name": "Colossinge", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png" }
+  ]
+}

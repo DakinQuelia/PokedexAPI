@@ -1,0 +1,24 @@
+{
+	"id": 5,
+	"num": 5,
+	"name": "Reptincel",
+	"title": "Pokémon Flamme",
+	"desc": "Reptincel lacère ses ennemis sans pitié grâce à ses griffes acérées. S’il rencontre un ennemi puissant, il devient agressif et la flamme au bout de sa queue s’embrase et prend une couleur bleu clair.",
+	"type": ["Feu"],
+	"img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+	"height": 11,
+	"weight": 190,
+	"stats": {
+		"hp": 							{ "name": "PV", "value": 58 },
+		"attack": 					{ "name": "Attaque", "value": 64 },
+		"defense": 					{ "name": "Défense", "value": 58 },
+		"special-attack": 	{ "name": "Attaque Spéciale", "value": 80 },
+		"special-defense": 	{ "name": "Défense Spéciale", "value": 65 },
+		"speed": 						{ "name": "Vitesse", "value": 80 }
+	},
+	"evolves": [
+    { "index": 0, "name": "Salamèche", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" },
+    { "index": 1, "name": "Reptincel", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png" },
+    { "index": 2, "name": "Dracaufeu", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" }
+  ]
+}

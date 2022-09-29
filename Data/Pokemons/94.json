@@ -1,0 +1,24 @@
+{
+  "id": 94,
+  "num": 94,
+  "name": "Ectoplasma",
+  "title": "Pokémon Ombre",
+  "desc": "Parfois, pendant les nuits noires, une ombre projetée par un réverbère peut tout à coup vous dépasser. Il s’agit d’un Ectoplasma qui court, en se faisant passer pour l’ombre de quelqu’un d’autre.",
+  "type": ["Spectre", "Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+  "height": 15,
+  "weight": 405,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 65 },
+    "defense":          { "name": "Défense", "value": 60 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 130 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 75 },
+    "speed":            { "name": "Vitesse", "value": 110 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Fantominus", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png" },
+    { "index": 1, "name": "Spectrum", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png" },
+    { "index": 2, "name": "Ectoplasma", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" }
+  ]
+}

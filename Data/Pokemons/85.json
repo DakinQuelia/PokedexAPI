@@ -1,0 +1,23 @@
+{
+  "id": 85,
+  "num": 85,
+  "name": "Dodrio",
+  "title": "Pokémon Trioiseau",
+  "desc": "Il faut se méfier lorsque les trois têtes de Dodrio regardent dans des directions différentes. Cela signifie qu'il est sur ses gardes. Si c'est le cas, il vaut mieux ne pas s'approcher de ce Pokémon, il pourrait décider d'attaquer.",
+  "type": ["Normal", "Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+  "height": 18,
+  "weight": 852,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 110 },
+    "defense":          { "name": "Défense", "value": 70 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 60 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 60 },
+    "speed":            { "name": "Vitesse", "value": 110 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Doduo", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png" },
+    { "index": 1, "name": "Dodrio", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png" }
+  ]
+}

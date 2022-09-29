@@ -1,0 +1,23 @@
+{
+  "id": 116,
+  "num": 116,
+  "name": "Hypotrempe",
+  "title": "Pokémon Dragon",
+  "desc": "Hypotrempe mange des petits insectes et de la mousse trouvée sur les cailloux. Lorsque les courants océaniques sont trop forts, ce Pokémon peut s’ancrer en accrochant sa queue aux rochers ou aux coraux.",
+  "type": ["Eau"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+  "height": 4,
+  "weight": 80,
+  "stats": {
+    "hp":               { "name": "PV", "value": 30 },
+    "attack":           { "name": "Attaque", "value": 40 },
+    "defense":          { "name": "Défense", "value": 70 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 70 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 25 },
+    "speed":            { "name": "Vitesse", "value": 60 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Hypotrempe", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png" },
+    { "index": 1, "name": "Hypocéan", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png" }
+  ]
+}

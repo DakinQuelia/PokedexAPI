@@ -1,0 +1,23 @@
+{
+  "id": 24,
+  "num": 24,
+  "name": "Arbok",
+  "title": "Pokémon Cobra",
+  "desc": "Ce Pokémon doté d’une force extraordinaire peut étrangler ses proies avec son corps. Il peut même écraser des tonneaux métalliques. Une fois sous l’étreinte d’Arbok, il est impossible de lui échapper.",
+  "type": ["Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+  "height": 35,
+  "weight": 650,
+  "stats": {
+    "hp":               { "name": "PV", "value": 60 },
+    "attack":           { "name": "Attaque", "value": 95 },
+    "defense":          { "name": "Défense", "value": 69 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 65 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 79 },
+    "speed":            { "name": "Vitesse", "value": 80 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Abo", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png" },
+    { "index": 1, "name": "Arbok", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png" }
+  ]
+}

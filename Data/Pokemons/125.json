@@ -1,0 +1,20 @@
+{
+  "id": 125,
+  "num": 125,
+  "name": "Élektek",
+  "title": "Pokémon Électrique",
+  "desc": "Lorsqu’une tempête approche, des groupes entiers de ce Pokémon se battent pour grimper sur les hauteurs, où la foudre a le plus de chance de tomber. Certaines villes se servent d’Élektek en guise de paratonnerres.",
+  "type": ["Électrik"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+  "height": 11,
+  "weight": 300,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 83 },
+    "defense":          { "name": "Défense", "value": 57 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 95 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 85 },
+    "speed":            { "name": "Vitesse", "value": 105 }
+  },
+  "evolves": []
+}

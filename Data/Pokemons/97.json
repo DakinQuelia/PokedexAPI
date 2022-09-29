@@ -1,0 +1,23 @@
+{
+  "id": 97,
+  "num": 97,
+  "name": "Hypnomade",
+  "title": "Pokémon Hypnose",
+  "desc": "Hypnomade tient un pendule dans sa main. Le mouvement de balancier et les reflets brillants du pendule hypnotisent profondément son ennemi. Lorsque ce Pokémon cherche ses proies, il nettoie son pendule.",
+  "type": ["Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+  "height": 16,
+  "weight": 756,
+  "stats": {
+    "hp":               { "name": "PV", "value": 85 },
+    "attack":           { "name": "Attaque", "value": 73 },
+    "defense":          { "name": "Défense", "value": 70 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 73 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 115 },
+    "speed":            { "name": "Vitesse", "value": 67 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Soporifik", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png" },
+    { "index": 1, "name": "Hypnomade", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png" }
+  ]
+}

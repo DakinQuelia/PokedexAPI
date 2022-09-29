@@ -1,0 +1,23 @@
+{
+  "id": 84,
+  "num": 84,
+  "name": "Doduo",
+  "title": "Pokémon Duoiseau",
+  "desc": "Les deux têtes de Doduo ne dorment jamais en même temps. Elles se reposent à tour de rôle pour que l’une puisse monter la garde pendant que l’autre dort.",
+  "type": ["Normal", "Vol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+  "height": 14,
+  "weight": 392,
+  "stats": {
+    "hp":               { "name": "PV", "value": 35 },
+    "attack":           { "name": "Attaque", "value": 85 },
+    "defense":          { "name": "Défense", "value": 45 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 35 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 35 },
+    "speed":            { "name": "Vitesse", "value": 75 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Doduo", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png" },
+    { "index": 1, "name": "Dodrio", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png" }
+  ]
+}

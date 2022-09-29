@@ -1,0 +1,23 @@
+{
+  "id": 103,
+  "num": 103,
+  "name": "Noadkoko",
+  "title": "Pokémon Fruitpalme",
+  "desc": "Noadkoko vient des tropiques. À force de vivre sous un soleil ardent, ses têtes ont rapidement grandi. On raconte que lorsque ses têtes tombent, elles se rassemblent et forment un Noeunoeuf.",
+  "type": ["Plante", "Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+  "height": 20,
+  "weight": 1200,
+  "stats": {
+    "hp":               { "name": "PV", "value": 95 },
+    "attack":           { "name": "Attaque", "value": 95 },
+    "defense":          { "name": "Défense", "value": 85 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 125 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 75 },
+    "speed":            { "name": "Vitesse", "value": 55 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Noeunoeuf", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png" },
+    { "index": 1, "name": "Noadkoko", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png" }
+  ]
+}

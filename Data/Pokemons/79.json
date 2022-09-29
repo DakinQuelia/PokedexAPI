@@ -1,0 +1,23 @@
+{
+  "id": 79,
+  "num": 79,
+  "name": "Ramoloss",
+  "title": "Pokémon Crétin",
+  "desc": "Ramoloss trempe sa queue dans l’eau au bord des rivières pour attraper ses proies. Cependant, ce Pokémon oublie souvent ce qu’il fait là et passe des jours entiers à traîner au bord de l’eau.",
+  "type": ["Eau", "Psy"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+  "height": 12,
+  "weight": 360,
+  "stats": {
+    "hp":               { "name": "PV", "value": 90 },
+    "attack":           { "name": "Attaque", "value": 65 },
+    "defense":          { "name": "Défense", "value": 65 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 40 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 40 },
+    "speed":            { "name": "Vitesse", "value": 15 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Ramoloss", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png" },
+    { "index": 1, "name": "Flagadoss", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png" }
+  ]
+}

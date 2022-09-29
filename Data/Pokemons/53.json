@@ -1,0 +1,23 @@
+{
+  "id": 53,
+  "num": 53,
+  "name": "Persian",
+  "title": "Pokémon Chadeville",
+  "desc": "Persian a six grosses vibrisses qui lui donnent un air costaud et lui permettent de sentir les mouvements de l’air pour savoir ce qui se trouve à proximité. Il devient docile lorsqu’on l’attrape par les moustaches.",
+  "type": ["Normal"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+  "height": 10,
+  "weight": 320,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 70 },
+    "defense":          { "name": "Défense", "value": 60 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 65 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 65 },
+    "speed":            { "name": "Vitesse", "value": 115 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Miaouss", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" },
+    { "index": 1, "name": "Persian", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png" }
+  ]
+}

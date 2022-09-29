@@ -1,0 +1,23 @@
+{
+  "id": 82,
+  "num": 82,
+  "name": "Magnéton",
+  "title": "Pokémon Magnétique",
+  "desc": "Magnéton émet un puissant champ magnétique qui neutralise les appareils mécaniques. Lorsque ces Pokémon débarquent en masse, les villes sonnent l’alarme et préviennent les habitants.",
+  "type": ["Électrik", "Acier"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+  "height": 10,
+  "weight": 600,
+  "stats": {
+    "hp":               { "name": "PV", "value": 50 },
+    "attack":           { "name": "Attaque", "value": 60 },
+    "defense":          { "name": "Défense", "value": 95 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 120 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 70 },
+    "speed":            { "name": "Vitesse", "value": 70 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Magnéti", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png" },
+    { "index": 1, "name": "Magnéton", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 212,
+  "num": 212,
+  "name": "Cizayox",
+  "title": "Pokémon Pince",
+  "desc": "Le corps de Cizayox est dur comme de l'acier. Les attaques ordinaires ne le déstabilisent pas. Ce Pokémon bat des ailes pour réguler sa température interne.",
+  "type": ["Insecte", "Acier" ],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
+  "height": 18,
+  "weight": 1180,
+  "stats": {
+    "hp":               { "name": "PV", "value": 70 },
+    "attack":           { "name": "Attaque", "value": 130 },
+    "defense":          { "name": "Défense", "value": 100 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 55 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 80 },
+    "speed":            { "name": "Vitesse", "value": 65 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Insécateur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png" },
+    { "index": 1, "name": "Cizayox", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png" }
+  ]
+}

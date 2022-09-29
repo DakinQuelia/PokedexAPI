@@ -1,0 +1,24 @@
+{
+  "id": 147,
+  "num": 147,
+  "name": "Minidraco",
+  "title": "Pokémon Dragon",
+  "desc": "Minidraco mue constamment, renouvelant sans arrêt sa peau. En effet, l’énergie vitale de son corps augmente régulièrement et sa mue lui permet d’éviter d’atteindre des niveaux incontrôlables.",
+  "type": ["Dragon"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+  "height": 18,
+  "weight": 33,
+  "stats": {
+    "hp":               { "name": "PV", "value": 41 },
+    "attack":           { "name": "Attaque", "value": 64 },
+    "defense":          { "name": "Défense", "value": 45 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 50 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 50 },
+    "speed":            { "name": "Vitesse", "value": 50 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Minidraco", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png" },
+    { "index": 1, "name": "Draco", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png" },
+    { "index": 2, "name": "Dracolosse", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" }
+  ]
+}

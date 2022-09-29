@@ -1,0 +1,24 @@
+{
+  "id": 33,
+  "num": 33,
+  "name": "Nidorino",
+  "title": "Pokémon Vénépic",
+  "desc": "Nidorino dispose d'une corne plus dure que du diamant. S'il sent une présence hostile, toutes les pointes de son dos se hérissent d'un coup, puis il défie son ennemi.",
+  "type": ["Poison"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+  "height": 9,
+  "weight": 195,
+  "stats": {
+    "hp":               { "name": "PV", "value": 61 },
+    "attack":           { "name": "Attaque", "value": 72 },
+    "defense":          { "name": "Défense", "value": 57 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 55 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 55 },
+    "speed":            { "name": "Vitesse", "value": 65 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Nidoran♂", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png" },
+    { "index": 1, "name": "Nidorino", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png" },
+    { "index": 2, "name": "Nidoking", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 4,
+  "num": 4,
+  "name": "Salamèche",
+  "title": "Pokémon Lézard",
+  "desc": "La flamme qui brûle au bout de sa queue indique l’humeur de ce Pokémon. Elle vacille lorsque Salamèche est content. En revanche, lorsqu’il s’énerve, la flamme prend de l’importance et brûle plus ardemment.",
+  "type": ["Feu"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+  "height": 6,
+  "weight": 85,
+  "stats": {
+    "hp":               { "name": "PV", "value": 39 },
+    "attack":           { "name": "Attaque", "value": 52 },
+    "defense":          { "name": "Défense", "value": 43 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 60 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 50 },
+    "speed":            { "name": "Vitesse", "value": 65 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Salamèche", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" },
+    { "index": 1, "name": "Reptincel", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png" },
+    { "index": 2, "name": "Dracaufeu", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" }
+  ]
+}

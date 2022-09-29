@@ -1,0 +1,24 @@
+{
+  "id": 11,
+  "num": 11,
+  "name": "Chrysacier",
+  "title": "Pokémon Cocon",
+  "desc": "La carapace protégeant ce Pokémon est dure comme du métal. Chrysacier ne bouge pas beaucoup. Il reste immobile pour préparer les organes à l’intérieur de sa carapace en vue d’une évolution future.",
+  "type": ["Insecte"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+  "height": 7,
+  "weight": 99,
+  "stats": {
+    "hp":               { "name": "PV", "value": 50 },
+    "attack":           { "name": "Attaque", "value": 20 },
+    "defense":          { "name": "Défense", "value": 55 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 25 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 25 },
+    "speed":            { "name": "Vitesse", "value": 30 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Chenipan", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png" },
+    { "index": 1, "name": "Chrysacier", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png" },
+    { "index": 2, "name": "Papilusion", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png" }
+  ]
+}

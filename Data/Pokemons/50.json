@@ -1,0 +1,23 @@
+{
+  "id": 50,
+  "num": 50,
+  "name": "Taupiqueur",
+  "title": "Pokémon Taupe",
+  "desc": "Les Taupiqueur sont élevés dans la plupart des fermes. En effet, lorsque ce Pokémon creuse quelque part, le sol est comme labouré, prêt à recevoir les semences. On peut alors y planter de délicieux légumes.",
+  "type": ["Sol"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+  "height": 2,
+  "weight": 8,
+  "stats": {
+    "hp":               { "name": "PV", "value": 10 },
+    "attack":           { "name": "Attaque", "value": 55 },
+    "defense":          { "name": "Défense", "value": 25 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 35 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 45 },
+    "speed":            { "name": "Vitesse", "value": 95 }
+  },
+  "evolves": [
+    { "index": 0, "name": "Taupiqueur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png" },
+    { "index": 1, "name": "Triopikeur", "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png" }
+  ]
+}

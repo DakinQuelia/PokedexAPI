@@ -1,0 +1,20 @@
+{
+  "id": 114,
+  "num": 114,
+  "name": "Saquedeneu",
+  "title": "Pokémon Vigne",
+  "desc": "Les lianes de Saquedeneu se brisent facilement lorsqu’on les attrape. Cela ne lui fait pas mal et lui permet simplement de s’échapper rapidement. Les lianes cassées repoussent le lendemain.",
+  "type": ["Plante"],
+  "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+  "height": 10,
+  "weight": 350,
+  "stats": {
+    "hp":               { "name": "PV", "value": 65 },
+    "attack":           { "name": "Attaque", "value": 55 },
+    "defense":          { "name": "Défense", "value": 115 },
+    "special-attack":   { "name": "Attaque Spéciale", "value": 100 },
+    "special-defense":  { "name": "Défense Spéciale", "value": 40 },
+    "speed":            { "name": "Vitesse", "value": 60 }
+  },
+  "evolves": []
+}
